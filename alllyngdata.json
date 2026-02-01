@@ -1,0 +1,1270 @@
+{
+  "extraction_date": "2026-02-01 13:01:52",
+  "total_satellites": 164,
+  "satellites": [
+    {
+      "satellite_name": "Thor-5-6-7-and-Intelsat-10-02",
+      "degree": "0.8° W",
+      "num_channels": "260118",
+      "full_name": "Thor 5/6/7 & Intelsat 10-02 at 0.8°W - LyngSat",
+      "last_update": "2026-01-31",
+      "total_transponders": 93,
+      "transponders": [
+        {
+          "frequency": "3977",
+          "polarization": "L",
+          "symbol_rate": "3/4",
+          "fec": "17777",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "NBC 1",
+            "NBC 1",
+            "NBC 2",
+            "NBC 3"
+          ]
+        },
+        {
+          "frequency": "10716",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "25000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "10747",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "25000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "10747",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "25000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "10778",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "25000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "10778",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "25000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "10809",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "25000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "10809",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "25000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "10841",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "25000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "10872",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "25000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "10903",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "25000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "10903",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "25000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "10934",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "25000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "10934",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "25000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "10958",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "1000",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "10967",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "9874",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "10975",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "7500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "10984",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "10993",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11021",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11118",
+          "polarization": "H",
+          "symbol_rate": "1/2",
+          "fec": "1000",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11123",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11133",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "7500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11155",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11164",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11216",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "25000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11229",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "25000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11247",
+          "polarization": "V",
+          "symbol_rate": "7/8",
+          "fec": "24500",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11261",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "25000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11278",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "25000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "SBN International"
+          ]
+        },
+        {
+          "frequency": "11309",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "25000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11325",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "25000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Freedom"
+          ]
+        },
+        {
+          "frequency": "11341",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "25000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11372",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "25000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11389",
+          "polarization": "H",
+          "symbol_rate": "7/8",
+          "fec": "24500",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": [
+            "SverigeKanalen",
+            "Kanal 10 Sverige",
+            "TV Visjon Norge",
+            "Kanal 10 Norge",
+            "TV Vision Sverige",
+            "Bedehuskanalen"
+          ]
+        },
+        {
+          "frequency": "11470",
+          "polarization": "V",
+          "symbol_rate": "5/6",
+          "fec": "3200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11474",
+          "polarization": "V",
+          "symbol_rate": "5/6",
+          "fec": "3200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11479",
+          "polarization": "V",
+          "symbol_rate": "5/6",
+          "fec": "3200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11486",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "4610",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11492",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "4610",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11498",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "4610",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11506",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "2500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11511",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "2500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11518",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "6900",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11654",
+          "polarization": "V",
+          "symbol_rate": "5/6",
+          "fec": "3750",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11665",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11672",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "3600",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11727",
+          "polarization": "V",
+          "symbol_rate": "7/8",
+          "fec": "28000",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": [
+            "Hír TV",
+            "JimJam Hungary",
+            "M1",
+            "M2",
+            "Viasat Kino Balkan",
+            "History România",
+            "Spektrum",
+            "TV Paprika",
+            "Kanal D2",
+            "Viasat 3",
+            "Viasat 6",
+            "Spíler TV 2",
+            "Viasat Nature East",
+            "FilmBox Family",
+            "Film Café Hungary",
+            "Film + Hungary"
+          ]
+        },
+        {
+          "frequency": "11747",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Nova Sport 5",
+            "Disney Jr Romania & Bulgaria",
+            "Cinemax Central Europe",
+            "Cinemax 2 Central Europe",
+            "FashionTV Europe",
+            "Film Europe",
+            "Crime + Investigation UK",
+            "TA 3",
+            "Viasat History East",
+            "Spektrum",
+            "Nova Action",
+            "Nova Krimi",
+            "Nova Fun",
+            "Men TV",
+            "Dusk",
+            "Prima Love SK",
+            "RTVS Sport"
+          ]
+        },
+        {
+          "frequency": "11766",
+          "polarization": "V",
+          "symbol_rate": "",
+          "fec": "",
+          "system": "",
+          "modulation": "",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11785",
+          "polarization": "H",
+          "symbol_rate": "7/8",
+          "fec": "28000",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11823",
+          "polarization": "H",
+          "symbol_rate": "5/6",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11862",
+          "polarization": "H",
+          "symbol_rate": "7/8",
+          "fec": "28000",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": [
+            "Speranta TV"
+          ]
+        },
+        {
+          "frequency": "11900",
+          "polarization": "H",
+          "symbol_rate": "5/6",
+          "fec": "28000",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": [
+            "Music Channel Romania"
+          ]
+        },
+        {
+          "frequency": "11919",
+          "polarization": "V",
+          "symbol_rate": "7/8",
+          "fec": "28000",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": [
+            "Cartoon Network Central & Eastern Europe",
+            "TV 2 Séf",
+            "National Geographic Hungary & Czechia",
+            "AMC Magyarország",
+            "Viasat History East",
+            "AMC Cesko",
+            "AXN Romania",
+            "AXN White",
+            "AXN Black",
+            "TV 4",
+            "Dizi",
+            "Disney Channel Romania",
+            "M5",
+            "TV 2 Comedy",
+            "Zenebutik",
+            "AXN Czech Republic",
+            "TV 2 Kids",
+            "Duna World",
+            "M4 Sport +",
+            "FilmBox Stars Hungary"
+          ]
+        },
+        {
+          "frequency": "11938",
+          "polarization": "H",
+          "symbol_rate": "7/8",
+          "fec": "28000",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": [
+            "Metropola TV"
+          ]
+        },
+        {
+          "frequency": "11958",
+          "polarization": "V",
+          "symbol_rate": "7/8",
+          "fec": "28000",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": [
+            "Canal + Action Magyarország",
+            "CNN International Europe",
+            "National Geographic Wild Romania",
+            "JimJam Romania",
+            "Minimax Czechia",
+            "Spektrum Home Czech",
+            "RTL Ketto",
+            "RTL Három",
+            "Sorozat +",
+            "Muzsika TV",
+            "RTL Gold",
+            "TV Paprika Romania",
+            "Viasat History East",
+            "BBC Earth Türkiye",
+            "ATV Extra",
+            "Film + Czechia",
+            "Minimax Hungary",
+            "ATV"
+          ]
+        },
+        {
+          "frequency": "11977",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "CT 2",
+            "Premier Sport 2",
+            "Epic Drama",
+            "Nova Sport 4",
+            "Eurosport 1",
+            "Eurosport 2 North-East",
+            "HBO Czechia",
+            "National Geographic Hungary & Czechia",
+            "FilmBox Premium Czechia",
+            "Markíza Klasik",
+            "FightBox HD",
+            "DocuBox HD",
+            "Eroxxx HD",
+            "CT Décku",
+            "CT art",
+            "DV TV Extra Slovakia"
+          ]
+        },
+        {
+          "frequency": "11996",
+          "polarization": "V",
+          "symbol_rate": "7/8",
+          "fec": "28000",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12034",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12054",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "RTVS 1",
+            "RTVS 2",
+            "Markíza",
+            "RTVS 24",
+            "TV Joj",
+            "Joj Plus",
+            "Dajto",
+            "Prima",
+            "CT 1",
+            "Slágr 1",
+            "TV Nova"
+          ]
+        },
+        {
+          "frequency": "12073",
+          "polarization": "V",
+          "symbol_rate": "7/8",
+          "fec": "28000",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": [
+            "Nick Jr Czechia",
+            "Nick Jr România",
+            "Nickelodeon Czechia",
+            "Nickelodeon Magyarország",
+            "Nick Jr Hungary",
+            "Nickelodeon România",
+            "Nicktoons România",
+            "Nicktoons România",
+            "Nickelodeon HD",
+            "Nicktoons Czechia"
+          ]
+        },
+        {
+          "frequency": "12111",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "TV Osem",
+            "Lala TV",
+            "CS Film",
+            "CS Horror",
+            "Markíza International",
+            "TA 3",
+            "Prima Cool",
+            "Prima Love",
+            "CNN Prima News",
+            "Film + Hungary",
+            "Vixen",
+            "Senzi",
+            "Slágr 1",
+            "TV Lux",
+            "FilmBox Stars Hungary",
+            "Canal + Action Magyarország",
+            "DocuBox HD",
+            "Eroxxx HD",
+            "FightBox HD",
+            "JimJam Europe",
+            "Mezzo",
+            "National Geographic Hungary & Czechia",
+            "Sport 1 Czechia",
+            "Sport 2 Hungary",
+            "Antena 1"
+          ]
+        },
+        {
+          "frequency": "12130",
+          "polarization": "H",
+          "symbol_rate": "7/8",
+          "fec": "28000",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": [
+            "Max 4",
+            "FilmBox Extra HD Czechia & Hungary",
+            "Animal Planet Europe",
+            "Match 4",
+            "Eurosport 1",
+            "Hír TV",
+            "TV 2",
+            "RTL Magyarország",
+            "Dikh TV",
+            "Cool TV",
+            "Viasat Nature East",
+            "Galaxy 4",
+            "Film 4",
+            "Spíler TV 1",
+            "Life TV"
+          ]
+        },
+        {
+          "frequency": "12149",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Sport 2 Czechia",
+            "History HD Europe",
+            "Story 4 Czechia",
+            "Joj Sport",
+            "CNBC Europe",
+            "Bloomberg TV Europe",
+            "Arena 4",
+            "Prima Krimi",
+            "FilmBox Central Europe",
+            "TV Paprika Czech Republic",
+            "Sport 1 Czechia",
+            "Duna TV",
+            "M4 Sport",
+            "Kölyökklub",
+            "RTL Otthon",
+            "Kanal D Romania"
+          ]
+        },
+        {
+          "frequency": "12188",
+          "polarization": "V",
+          "symbol_rate": "7/8",
+          "fec": "28000",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12226",
+          "polarization": "V",
+          "symbol_rate": "5/6",
+          "fec": "27500",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": [
+            "Nickelodeon Europe",
+            "Comedy Central România",
+            "Nicktoons Adria",
+            "Nickelodeon Europe",
+            "MTV Global",
+            "Nick Jr Europe"
+          ]
+        },
+        {
+          "frequency": "12245",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Warner TV Czech",
+            "Prima Krimi",
+            "Markíza Krimi",
+            "Krimi Barrandov",
+            "Kino Barrandov",
+            "HBO 2 Central Europe",
+            "Folklorika",
+            "Joj Svet",
+            "DV TV Extra",
+            "Premier Sport 1",
+            "HBO 3 Central Europe",
+            "Viasat Explore East",
+            "Kanal 1",
+            "CT 24",
+            "Strike TV",
+            "Nova Sport 3",
+            "Food Network EMEA",
+            "Premier Sport 3",
+            "CNN Prima News",
+            "TLC Pan Regional"
+          ]
+        },
+        {
+          "frequency": "12265",
+          "polarization": "V",
+          "symbol_rate": "7/8",
+          "fec": "28000",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": [
+            "Sorozatklub",
+            "Moziklub",
+            "TV 2 Klub",
+            "Super TV 2",
+            "National Geographic România",
+            "Private TV",
+            "Pro TV",
+            "FilmBox Basic",
+            "Prime",
+            "Viasat 2",
+            "Cinemax 2 Central Europe",
+            "Blue Hustler Europe",
+            "Duna TV",
+            "Viasat Film",
+            "Hustler TV Europe",
+            "Viasat Explore East",
+            "AXN Central Europe",
+            "TLC Pan Regional",
+            "Arena 4",
+            "Cool TV"
+          ]
+        },
+        {
+          "frequency": "12322",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12360",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12380",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Cartoon Network Central & Eastern Europe",
+            "Viasat Nature East",
+            "Prima Show",
+            "AMC Cesko",
+            "TV Lux",
+            "Joj 24",
+            "Joj Family",
+            "Nova Sport 2",
+            "Prima Krimi",
+            "Golf Channel Czechia",
+            "Prima SK",
+            "Nova Lady",
+            "Doma",
+            "Wau TV",
+            "Joj Cinema",
+            "TV Nova",
+            "Discovery Channel Central Europe",
+            "Prima Zoom"
+          ]
+        },
+        {
+          "frequency": "12399",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12418",
+          "polarization": "V",
+          "symbol_rate": "7/8",
+          "fec": "28000",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": [
+            "God TV Scandinavia",
+            "CGTN",
+            "CGTN Documentary",
+            "Aljazeera English"
+          ]
+        },
+        {
+          "frequency": "12437",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12456",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Arena Sport 1",
+            "CT Sport",
+            "Animal Planet Europe",
+            "Nova Cinema",
+            "Prima Max",
+            "Prima Cool",
+            "Nova Sport 5",
+            "Joj Sport 2",
+            "Prima Star",
+            "Nova Sport 1",
+            "TV Seznam",
+            "Travel Channel Europe",
+            "Investigation Discovery Hungary",
+            "Prima Love",
+            "History Europe",
+            "Rik",
+            "Jojko",
+            "HGTV Pan Regional"
+          ]
+        },
+        {
+          "frequency": "12476",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12509",
+          "polarization": "V",
+          "symbol_rate": "4/5",
+          "fec": "2600",
+          "system": "DVB-S2",
+          "modulation": "16APSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12512",
+          "polarization": "V",
+          "symbol_rate": "5/6",
+          "fec": "3333",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12518",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "2080",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12521",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "2080",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12525",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "6000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12527",
+          "polarization": "H",
+          "symbol_rate": "3/5",
+          "fec": "28800",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
+          "pls": "",
+          "channels": [
+            "Film + Czechia",
+            "Nova Sport 5",
+            "Spektrum",
+            "AMC Cesko",
+            "Nova Sport 6"
+          ]
+        },
+        {
+          "frequency": "12534",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "4800",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12540",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "6000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12602",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12607",
+          "polarization": "V",
+          "symbol_rate": "3/5",
+          "fec": "28800",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
+          "pls": "",
+          "channels": [
+            "Auto Motor und Sport",
+            "Travelxp HD Europe",
+            "CNN International Europe",
+            "Canal + Sport Slovakia",
+            "TV Barrandov",
+            "FilmBox Extra HD Czechia & Hungary",
+            "FilmBox Family",
+            "Digi Infokanal",
+            "Canal + Action Slovakia",
+            "Lala TV",
+            "CS Film",
+            "CS Horror",
+            "Ócko"
+          ]
+        },
+        {
+          "frequency": "12612",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "7500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12640",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "9874",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12643",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "28800",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "TV5Monde Afrique",
+            "Tivi5Monde",
+            "TV5Monde Europe",
+            "TV5Monde Europe",
+            "TV5Monde France Belgique Suisse Monaco",
+            "TV5Monde Maghreb-Orient",
+            "TV5Monde Pacifique",
+            "TV5Monde Style"
+          ]
+        },
+        {
+          "frequency": "12687",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "27500",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": [
+            "U TV"
+          ]
+        },
+        {
+          "frequency": "12687",
+          "polarization": "V",
+          "symbol_rate": "3/5",
+          "fec": "28800",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
+          "pls": "",
+          "channels": [
+            "History HD Europe",
+            "History 2 Europe"
+          ]
+        },
+        {
+          "frequency": "12723",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "27500",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": [
+            "<span class=\"__cf_email__\" data-cfemail=\"86f1e3e4ebe7f5f2e3f4c6eaffe8e1f5e7f2a8e5e9eb\">[email&#160;protected]</span>"
+          ]
+        }
+      ]
+    }
+  ]
+}
