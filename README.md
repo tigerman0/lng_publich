@@ -1,1 +1,8 @@
-# lng_publich
+# 📦 Public Data Repository
+
+## 📊 Latest Update
+- **Sync Time**: 2026-02-01 09:21 UTC
+- **Files**: 1
+
+Generated automatically via GitHub Actions.
+By Linuxcode
