@@ -12,7 +12,7 @@
   {
     "satellite_name": "Amos-3-and-Dror-1",
     "degree": "4.0° W",
-    "num_channels": "260125"
+    "num_channels": "260202"
   },
   {
     "satellite_name": "Eutelsat-5-West-B",
@@ -27,7 +27,7 @@
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
-    "num_channels": "260201"
+    "num_channels": "260202"
   },
   {
     "satellite_name": "Express-AM44",
@@ -457,7 +457,7 @@
   {
     "satellite_name": "AsiaSat-9",
     "degree": "122.0° E",
-    "num_channels": "260131"
+    "num_channels": "260202"
   },
   {
     "satellite_name": "AsiaSat-6-Thaicom-7",
@@ -617,7 +617,7 @@
   {
     "satellite_name": "Intelsat-20-36",
     "degree": "68.5° E",
-    "num_channels": "260201"
+    "num_channels": "260202"
   },
   {
     "satellite_name": "Intelsat-17",
@@ -707,12 +707,12 @@
   {
     "satellite_name": "Express-AM7",
     "degree": "40.0° E",
-    "num_channels": "260125"
+    "num_channels": "260202"
   },
   {
     "satellite_name": "Hellas-Sat-3-4",
     "degree": "39.0° E",
-    "num_channels": "260130"
+    "num_channels": "260202"
   },
   {
     "satellite_name": "Paksat-1R-MM1",
@@ -752,7 +752,7 @@
   {
     "satellite_name": "Eshail-1",
     "degree": "25.5° E",
-    "num_channels": "251126"
+    "num_channels": "260202"
   },
   {
     "satellite_name": "Astra-3B-3C",
@@ -787,7 +787,7 @@
   {
     "satellite_name": "Hotbird-13F-13G",
     "degree": "13.0° E",
-    "num_channels": "260130"
+    "num_channels": "260202"
   },
   {
     "satellite_name": "Eutelsat-10B",
