@@ -17,7 +17,7 @@
   {
     "satellite_name": "Eutelsat-5-West-B",
     "degree": "5.0° W",
-    "num_channels": "260128"
+    "num_channels": "260205"
   },
   {
     "satellite_name": "Nilesat-201-301-and-Eutelsat-7-West-A",
@@ -27,7 +27,7 @@
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
-    "num_channels": "260204"
+    "num_channels": "260205"
   },
   {
     "satellite_name": "Express-AM44",
@@ -67,7 +67,7 @@
   {
     "satellite_name": "Intelsat-35e",
     "degree": "34.5° W",
-    "num_channels": "260127"
+    "num_channels": "260205"
   },
   {
     "satellite_name": "Hispasat-36W-1",
@@ -152,7 +152,7 @@
   {
     "satellite_name": "Arsat-1",
     "degree": "71.8° W",
-    "num_channels": "260117"
+    "num_channels": "260205"
   },
   {
     "satellite_name": "Nimiq-5",
@@ -192,7 +192,7 @@
   {
     "satellite_name": "SiriusXM-8-9",
     "degree": "85.0° W",
-    "num_channels": "251227"
+    "num_channels": "260205"
   },
   {
     "satellite_name": "SES-2-and-TKSat-1",
@@ -272,7 +272,7 @@
   {
     "satellite_name": "SiriusXM-5-10",
     "degree": "115.7° W",
-    "num_channels": "251227"
+    "num_channels": "260205"
   },
   {
     "satellite_name": "Eutelsat-117-West-A-B",
@@ -437,7 +437,7 @@
   {
     "satellite_name": "LaoSat-1",
     "degree": "128.5° E",
-    "num_channels": "260126"
+    "num_channels": "260205"
   },
   {
     "satellite_name": "JCSAT-3A",
@@ -452,7 +452,7 @@
   {
     "satellite_name": "JCSAT-4B",
     "degree": "124.0° E",
-    "num_channels": "260112"
+    "num_channels": "260205"
   },
   {
     "satellite_name": "AsiaSat-9",
@@ -497,7 +497,7 @@
   {
     "satellite_name": "SES-7-9-and-Merah-Putih",
     "degree": "108.1° E",
-    "num_channels": "260129"
+    "num_channels": "260205"
   },
   {
     "satellite_name": "AsiaSat-7-8",
@@ -587,7 +587,7 @@
   {
     "satellite_name": "Thaicom-6-8",
     "degree": "78.5° E",
-    "num_channels": "260203"
+    "num_channels": "260205"
   },
   {
     "satellite_name": "Apstar-7",
@@ -617,7 +617,7 @@
   {
     "satellite_name": "Intelsat-20-36",
     "degree": "68.5° E",
-    "num_channels": "260204"
+    "num_channels": "260205"
   },
   {
     "satellite_name": "Intelsat-17",
@@ -647,7 +647,7 @@
   {
     "satellite_name": "Express-AT1",
     "degree": "56.0° E",
-    "num_channels": "260129"
+    "num_channels": "260205"
   },
   {
     "satellite_name": "G-Sat-16-and-Yamal-402",
@@ -722,7 +722,7 @@
   {
     "satellite_name": "Eutelsat-36D-and-Express-AMU1",
     "degree": "36.0° E",
-    "num_channels": "260117"
+    "num_channels": "260205"
   },
   {
     "satellite_name": "Eutelsat-33F",
@@ -782,7 +782,7 @@
   {
     "satellite_name": "Eutelsat-16A",
     "degree": "16.0° E",
-    "num_channels": "260203"
+    "num_channels": "260205"
   },
   {
     "satellite_name": "Hotbird-13F-13G",
