@@ -116,7 +116,7 @@
   {
     "satellite_name": "Intelsat-14",
     "degree": "45.0° W",
-    "num_channels": "260203",
+    "num_channels": "260206",
     "postion": -450
   },
   {
@@ -158,7 +158,7 @@
   {
     "satellite_name": "Telstar-14R",
     "degree": "63.0° W",
-    "num_channels": "260204",
+    "num_channels": "250712",
     "postion": -630
   },
   {
@@ -596,7 +596,7 @@
   {
     "satellite_name": "SES-7-9-and-Merah-Putih",
     "degree": "108.1° E",
-    "num_channels": "260205",
+    "num_channels": "260206",
     "postion": 1081
   },
   {
@@ -752,7 +752,7 @@
   {
     "satellite_name": "Amos-4",
     "degree": "65.0° E",
-    "num_channels": "251210",
+    "num_channels": "260206",
     "postion": 650
   },
   {
@@ -776,7 +776,7 @@
   {
     "satellite_name": "Express-AT1",
     "degree": "56.0° E",
-    "num_channels": "260205",
+    "num_channels": "260206",
     "postion": 560
   },
   {
@@ -800,13 +800,13 @@
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
-    "num_channels": "260204",
+    "num_channels": "260206",
     "postion": 520
   },
   {
     "satellite_name": "Belintersat-1",
     "degree": "51.5° E",
-    "num_channels": "260128",
+    "num_channels": "260206",
     "postion": 515
   },
   {
@@ -938,7 +938,7 @@
   {
     "satellite_name": "Eutelsat-16A",
     "degree": "16.0° E",
-    "num_channels": "260205",
+    "num_channels": "260206",
     "postion": 160
   },
   {
