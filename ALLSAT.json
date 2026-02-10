@@ -26,7 +26,7 @@
   {
     "satellite_name": "Nilesat-201-301-and-Eutelsat-7-West-A",
     "degree": "7.1° W",
-    "num_channels": "260204",
+    "num_channels": "260208",
     "postion": -71
   },
   {
@@ -68,7 +68,7 @@
   {
     "satellite_name": "Alcomsat-1",
     "degree": "24.8° W",
-    "num_channels": "250622",
+    "num_channels": "260208",
     "postion": -248
   },
   {
@@ -140,7 +140,7 @@
   {
     "satellite_name": "Intelsat-21",
     "degree": "58.0° W",
-    "num_channels": "260120",
+    "num_channels": "260208",
     "postion": -580
   },
   {
@@ -758,7 +758,7 @@
   {
     "satellite_name": "Intelsat-39",
     "degree": "62.0° E",
-    "num_channels": "260201",
+    "num_channels": "260208",
     "postion": 620
   },
   {
@@ -794,13 +794,13 @@
   {
     "satellite_name": "Al-Yah-1",
     "degree": "52.5° E",
-    "num_channels": "260207",
+    "num_channels": "260208",
     "postion": 525
   },
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
-    "num_channels": "260207",
+    "num_channels": "260208",
     "postion": 520
   },
   {
@@ -854,13 +854,13 @@
   {
     "satellite_name": "Hellas-Sat-3-4",
     "degree": "39.0° E",
-    "num_channels": "260204",
+    "num_channels": "260208",
     "postion": 390
   },
   {
     "satellite_name": "Paksat-1R-MM1",
     "degree": "38.1° E",
-    "num_channels": "260128",
+    "num_channels": "260208",
     "postion": 381
   },
   {
@@ -896,7 +896,7 @@
   {
     "satellite_name": "Badr-7-8-and-Eshail-2",
     "degree": "26.0° E",
-    "num_channels": "260103",
+    "num_channels": "260208",
     "postion": 260
   },
   {
@@ -914,7 +914,7 @@
   {
     "satellite_name": "Eutelsat-21B",
     "degree": "21.5° E",
-    "num_channels": "260204",
+    "num_channels": "260208",
     "postion": 215
   },
   {
@@ -938,7 +938,7 @@
   {
     "satellite_name": "Eutelsat-16A",
     "degree": "16.0° E",
-    "num_channels": "260206",
+    "num_channels": "260208",
     "postion": 160
   },
   {
