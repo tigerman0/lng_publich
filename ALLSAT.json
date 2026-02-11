@@ -74,7 +74,7 @@
   {
     "satellite_name": "Hispasat-30W-5-30W-6",
     "degree": "30.0° W",
-    "num_channels": "260106",
+    "num_channels": "260209",
     "postion": -300
   },
   {
@@ -104,7 +104,7 @@
   {
     "satellite_name": "SES-6",
     "degree": "40.5° W",
-    "num_channels": "260131",
+    "num_channels": "260209",
     "postion": -405
   },
   {
@@ -704,7 +704,7 @@
   {
     "satellite_name": "Thaicom-6-8",
     "degree": "78.5° E",
-    "num_channels": "260207",
+    "num_channels": "260209",
     "postion": 785
   },
   {
@@ -758,7 +758,7 @@
   {
     "satellite_name": "Intelsat-39",
     "degree": "62.0° E",
-    "num_channels": "260208",
+    "num_channels": "260209",
     "postion": 620
   },
   {
@@ -854,13 +854,13 @@
   {
     "satellite_name": "Hellas-Sat-3-4",
     "degree": "39.0° E",
-    "num_channels": "260208",
+    "num_channels": "260209",
     "postion": 390
   },
   {
     "satellite_name": "Paksat-1R-MM1",
     "degree": "38.1° E",
-    "num_channels": "260208",
+    "num_channels": "260209",
     "postion": 381
   },
   {
@@ -914,7 +914,7 @@
   {
     "satellite_name": "Eutelsat-21B",
     "degree": "21.5° E",
-    "num_channels": "260208",
+    "num_channels": "260209",
     "postion": 215
   },
   {
