@@ -74,7 +74,7 @@
   {
     "satellite_name": "Hispasat-30W-5-30W-6",
     "degree": "30.0° W",
-    "num_channels": "260209",
+    "num_channels": "260210",
     "postion": -300
   },
   {
@@ -524,7 +524,7 @@
   {
     "satellite_name": "LaoSat-1",
     "degree": "128.5° E",
-    "num_channels": "260205",
+    "num_channels": "260210",
     "postion": 1285
   },
   {
@@ -668,7 +668,7 @@
   {
     "satellite_name": "Yamal-401",
     "degree": "90.0° E",
-    "num_channels": "260204",
+    "num_channels": "260210",
     "postion": 900
   },
   {
@@ -704,7 +704,7 @@
   {
     "satellite_name": "Thaicom-6-8",
     "degree": "78.5° E",
-    "num_channels": "260209",
+    "num_channels": "260210",
     "postion": 785
   },
   {
@@ -758,7 +758,7 @@
   {
     "satellite_name": "Intelsat-39",
     "degree": "62.0° E",
-    "num_channels": "260209",
+    "num_channels": "260210",
     "postion": 620
   },
   {
@@ -794,13 +794,13 @@
   {
     "satellite_name": "Al-Yah-1",
     "degree": "52.5° E",
-    "num_channels": "260208",
+    "num_channels": "260210",
     "postion": 525
   },
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
-    "num_channels": "260208",
+    "num_channels": "260210",
     "postion": 520
   },
   {
@@ -890,7 +890,7 @@
   {
     "satellite_name": "Astra-2E-2F-2G",
     "degree": "28.3° E",
-    "num_channels": "260129",
+    "num_channels": "260210",
     "postion": 283
   },
   {
