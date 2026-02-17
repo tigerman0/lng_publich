@@ -26,7 +26,7 @@
   {
     "satellite_name": "Nilesat-201-301-and-Eutelsat-7-West-A",
     "degree": "7.1° W",
-    "num_channels": "260213",
+    "num_channels": "260215",
     "postion": -71
   },
   {
@@ -722,7 +722,7 @@
   {
     "satellite_name": "ABS-2-2A",
     "degree": "75.0° E",
-    "num_channels": "260130",
+    "num_channels": "260215",
     "postion": 750
   },
   {
@@ -848,7 +848,7 @@
   {
     "satellite_name": "Turksat-3A-4A-5B-6A",
     "degree": "42.0° E",
-    "num_channels": "260204",
+    "num_channels": "260215",
     "postion": 420
   },
   {
@@ -920,7 +920,7 @@
   {
     "satellite_name": "Eutelsat-21B",
     "degree": "21.5° E",
-    "num_channels": "260213",
+    "num_channels": "260215",
     "postion": 215
   },
   {
@@ -944,7 +944,7 @@
   {
     "satellite_name": "Eutelsat-16A",
     "degree": "16.0° E",
-    "num_channels": "260214",
+    "num_channels": "260215",
     "postion": 160
   },
   {
