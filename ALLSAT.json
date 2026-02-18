@@ -20,7 +20,7 @@
   {
     "satellite_name": "Eutelsat-5-West-B",
     "degree": "5.0° W",
-    "num_channels": "260205",
+    "num_channels": "260216",
     "postion": -50
   },
   {
@@ -32,7 +32,7 @@
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
-    "num_channels": "260213",
+    "num_channels": "260216",
     "postion": -80
   },
   {
@@ -80,7 +80,7 @@
   {
     "satellite_name": "Intelsat-35e",
     "degree": "34.5° W",
-    "num_channels": "260207",
+    "num_channels": "260216",
     "postion": -345
   },
   {
@@ -134,7 +134,7 @@
   {
     "satellite_name": "Intelsat-34",
     "degree": "55.5° W",
-    "num_channels": "260131",
+    "num_channels": "260216",
     "postion": -555
   },
   {
@@ -596,7 +596,7 @@
   {
     "satellite_name": "SES-7-9-and-Merah-Putih",
     "degree": "108.1° E",
-    "num_channels": "260206",
+    "num_channels": "260216",
     "postion": 1081
   },
   {
@@ -626,7 +626,7 @@
   {
     "satellite_name": "ChinaSat-11",
     "degree": "98.0° E",
-    "num_channels": "260201",
+    "num_channels": "260216",
     "postion": 980
   },
   {
@@ -710,7 +710,7 @@
   {
     "satellite_name": "Thaicom-6-8",
     "degree": "78.5° E",
-    "num_channels": "260213",
+    "num_channels": "260216",
     "postion": 785
   },
   {
@@ -722,7 +722,7 @@
   {
     "satellite_name": "ABS-2-2A",
     "degree": "75.0° E",
-    "num_channels": "260215",
+    "num_channels": "260216",
     "postion": 750
   },
   {
@@ -746,7 +746,7 @@
   {
     "satellite_name": "Intelsat-20-36",
     "degree": "68.5° E",
-    "num_channels": "260205",
+    "num_channels": "260216",
     "postion": 685
   },
   {
@@ -800,13 +800,13 @@
   {
     "satellite_name": "Al-Yah-1",
     "degree": "52.5° E",
-    "num_channels": "260214",
+    "num_channels": "260216",
     "postion": 525
   },
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
-    "num_channels": "260214",
+    "num_channels": "260216",
     "postion": 520
   },
   {
@@ -986,7 +986,7 @@
   {
     "satellite_name": "BulgariaSat-1",
     "degree": "1.9° E",
-    "num_channels": "260108",
+    "num_channels": "260216",
     "postion": 19
   }
 ]
