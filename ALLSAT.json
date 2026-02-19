@@ -20,7 +20,7 @@
   {
     "satellite_name": "Eutelsat-5-West-B",
     "degree": "5.0° W",
-    "num_channels": "260216",
+    "num_channels": "260217",
     "postion": -50
   },
   {
@@ -32,7 +32,7 @@
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
-    "num_channels": "260216",
+    "num_channels": "260217",
     "postion": -80
   },
   {
@@ -182,7 +182,7 @@
   {
     "satellite_name": "Arsat-1",
     "degree": "71.8° W",
-    "num_channels": "260211",
+    "num_channels": "260217",
     "postion": -718
   },
   {
@@ -494,7 +494,7 @@
   {
     "satellite_name": "Telstar-18-Vantage",
     "degree": "138.0° E",
-    "num_channels": "260131",
+    "num_channels": "260217",
     "postion": 1380
   },
   {
@@ -542,7 +542,7 @@
   {
     "satellite_name": "JCSAT-4B",
     "degree": "124.0° E",
-    "num_channels": "260207",
+    "num_channels": "260217",
     "postion": 1240
   },
   {
@@ -722,7 +722,7 @@
   {
     "satellite_name": "ABS-2-2A",
     "degree": "75.0° E",
-    "num_channels": "260216",
+    "num_channels": "260217",
     "postion": 750
   },
   {
@@ -764,7 +764,7 @@
   {
     "satellite_name": "Intelsat-39",
     "degree": "62.0° E",
-    "num_channels": "260213",
+    "num_channels": "260217",
     "postion": 620
   },
   {
@@ -800,7 +800,7 @@
   {
     "satellite_name": "Al-Yah-1",
     "degree": "52.5° E",
-    "num_channels": "260216",
+    "num_channels": "260217",
     "postion": 525
   },
   {
@@ -830,7 +830,7 @@
   {
     "satellite_name": "Azerspace-1",
     "degree": "46.0° E",
-    "num_channels": "260203",
+    "num_channels": "260217",
     "postion": 460
   },
   {
@@ -950,13 +950,13 @@
   {
     "satellite_name": "Hotbird-13F-13G",
     "degree": "13.0° E",
-    "num_channels": "260211",
+    "num_channels": "260217",
     "postion": 130
   },
   {
     "satellite_name": "Eutelsat-10B",
     "degree": "10.0° E",
-    "num_channels": "260213",
+    "num_channels": "260217",
     "postion": 100
   },
   {
