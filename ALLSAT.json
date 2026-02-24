@@ -650,7 +650,7 @@
   {
     "satellite_name": "SES-12",
     "degree": "95.0° E",
-    "num_channels": "260213",
+    "num_channels": "260222",
     "postion": 950
   },
   {
@@ -710,7 +710,7 @@
   {
     "satellite_name": "Thaicom-6-8",
     "degree": "78.5° E",
-    "num_channels": "260221",
+    "num_channels": "260222",
     "postion": 785
   },
   {
@@ -764,7 +764,7 @@
   {
     "satellite_name": "Intelsat-39",
     "degree": "62.0° E",
-    "num_channels": "260220",
+    "num_channels": "260222",
     "postion": 620
   },
   {
@@ -938,7 +938,7 @@
   {
     "satellite_name": "Amos-17",
     "degree": "17.0° E",
-    "num_channels": "260221",
+    "num_channels": "260222",
     "postion": 170
   },
   {
@@ -980,7 +980,7 @@
   {
     "satellite_name": "Eutelsat-3B-and-Rascom-QAF-1R",
     "degree": "3.0° E",
-    "num_channels": "260214",
+    "num_channels": "260222",
     "postion": 30
   },
   {
