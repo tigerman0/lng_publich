@@ -2,7 +2,7 @@
   {
     "satellite_name": "Thor-5-6-7-and-Intelsat-10-02",
     "degree": "0.8° W",
-    "num_channels": "260212",
+    "num_channels": "260223",
     "postion": -8
   },
   {
@@ -32,7 +32,7 @@
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
-    "num_channels": "260220",
+    "num_channels": "260223",
     "postion": -80
   },
   {
@@ -176,7 +176,7 @@
   {
     "satellite_name": "Star-One-C4-D2",
     "degree": "70.0° W",
-    "num_channels": "260221",
+    "num_channels": "260223",
     "postion": -700
   },
   {
@@ -542,7 +542,7 @@
   {
     "satellite_name": "JCSAT-4B",
     "degree": "124.0° E",
-    "num_channels": "260217",
+    "num_channels": "260223",
     "postion": 1240
   },
   {
@@ -806,7 +806,7 @@
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
-    "num_channels": "260221",
+    "num_channels": "260223",
     "postion": 520
   },
   {
