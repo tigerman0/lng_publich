@@ -14,7 +14,7 @@
   {
     "satellite_name": "Amos-3-and-Dror-1",
     "degree": "4.0° W",
-    "num_channels": "260225",
+    "num_channels": "260226",
     "postion": -40
   },
   {
@@ -32,7 +32,7 @@
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
-    "num_channels": "260225",
+    "num_channels": "260226",
     "postion": -80
   },
   {
@@ -56,7 +56,7 @@
   {
     "satellite_name": "Intelsat-37e",
     "degree": "18.0° W",
-    "num_channels": "260129",
+    "num_channels": "260226",
     "postion": -180
   },
   {
@@ -104,7 +104,7 @@
   {
     "satellite_name": "SES-6",
     "degree": "40.5° W",
-    "num_channels": "260209",
+    "num_channels": "260226",
     "postion": -405
   },
   {
@@ -548,7 +548,7 @@
   {
     "satellite_name": "AsiaSat-9",
     "degree": "122.0° E",
-    "num_channels": "260212",
+    "num_channels": "260226",
     "postion": 1220
   },
   {
@@ -776,7 +776,7 @@
   {
     "satellite_name": "NSS-12",
     "degree": "57.0° E",
-    "num_channels": "260221",
+    "num_channels": "260226",
     "postion": 570
   },
   {
@@ -896,7 +896,7 @@
   {
     "satellite_name": "Astra-2E-2F-2G",
     "degree": "28.3° E",
-    "num_channels": "260224",
+    "num_channels": "260226",
     "postion": 283
   },
   {
@@ -908,7 +908,7 @@
   {
     "satellite_name": "Eshail-1",
     "degree": "25.5° E",
-    "num_channels": "260224",
+    "num_channels": "260226",
     "postion": 255
   },
   {
@@ -938,7 +938,7 @@
   {
     "satellite_name": "Amos-17",
     "degree": "17.0° E",
-    "num_channels": "260222",
+    "num_channels": "260226",
     "postion": 170
   },
   {
@@ -950,7 +950,7 @@
   {
     "satellite_name": "Hotbird-13F-13G",
     "degree": "13.0° E",
-    "num_channels": "260217",
+    "num_channels": "260226",
     "postion": 130
   },
   {
