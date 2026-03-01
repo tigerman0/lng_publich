@@ -104,7 +104,7 @@
   {
     "satellite_name": "SES-6",
     "degree": "40.5° W",
-    "num_channels": "260226",
+    "num_channels": "260227",
     "postion": -405
   },
   {
@@ -548,7 +548,7 @@
   {
     "satellite_name": "AsiaSat-9",
     "degree": "122.0° E",
-    "num_channels": "260226",
+    "num_channels": "260227",
     "postion": 1220
   },
   {
@@ -710,13 +710,13 @@
   {
     "satellite_name": "Thaicom-6-8",
     "degree": "78.5° E",
-    "num_channels": "260222",
+    "num_channels": "260227",
     "postion": 785
   },
   {
     "satellite_name": "Apstar-7",
     "degree": "76.5° E",
-    "num_channels": "260225",
+    "num_channels": "260227",
     "postion": 765
   },
   {
@@ -740,13 +740,13 @@
   {
     "satellite_name": "Eutelsat-70B",
     "degree": "70.5° E",
-    "num_channels": "260107",
+    "num_channels": "260227",
     "postion": 705
   },
   {
     "satellite_name": "Intelsat-20-36",
     "degree": "68.5° E",
-    "num_channels": "260224",
+    "num_channels": "260227",
     "postion": 685
   },
   {
@@ -800,13 +800,13 @@
   {
     "satellite_name": "Al-Yah-1",
     "degree": "52.5° E",
-    "num_channels": "260225",
+    "num_channels": "260227",
     "postion": 525
   },
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
-    "num_channels": "260225",
+    "num_channels": "260227",
     "postion": 520
   },
   {
@@ -860,7 +860,7 @@
   {
     "satellite_name": "Hellas-Sat-3-4",
     "degree": "39.0° E",
-    "num_channels": "260209",
+    "num_channels": "260227",
     "postion": 390
   },
   {
@@ -908,7 +908,7 @@
   {
     "satellite_name": "Eshail-1",
     "degree": "25.5° E",
-    "num_channels": "260226",
+    "num_channels": "260227",
     "postion": 255
   },
   {
@@ -920,7 +920,7 @@
   {
     "satellite_name": "Eutelsat-21B",
     "degree": "21.5° E",
-    "num_channels": "260215",
+    "num_channels": "260227",
     "postion": 215
   },
   {
@@ -950,7 +950,7 @@
   {
     "satellite_name": "Hotbird-13F-13G",
     "degree": "13.0° E",
-    "num_channels": "260226",
+    "num_channels": "260227",
     "postion": 130
   },
   {
