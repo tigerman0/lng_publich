@@ -8,7 +8,7 @@
   {
     "satellite_name": "ABS-3A",
     "degree": "3.0° W",
-    "num_channels": "260221",
+    "num_channels": "260228",
     "postion": -30
   },
   {
@@ -128,7 +128,7 @@
   {
     "satellite_name": "Intelsat-23",
     "degree": "53.0° W",
-    "num_channels": "251130",
+    "num_channels": "250325",
     "postion": -530
   },
   {
@@ -524,7 +524,7 @@
   {
     "satellite_name": "LaoSat-1",
     "degree": "128.5° E",
-    "num_channels": "260224",
+    "num_channels": "260228",
     "postion": 1285
   },
   {
@@ -800,13 +800,13 @@
   {
     "satellite_name": "Al-Yah-1",
     "degree": "52.5° E",
-    "num_channels": "260227",
+    "num_channels": "260228",
     "postion": 525
   },
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
-    "num_channels": "260227",
+    "num_channels": "260228",
     "postion": 520
   },
   {
@@ -920,7 +920,7 @@
   {
     "satellite_name": "Eutelsat-21B",
     "degree": "21.5° E",
-    "num_channels": "260227",
+    "num_channels": "260228",
     "postion": 215
   },
   {
