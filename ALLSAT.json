@@ -26,13 +26,13 @@
   {
     "satellite_name": "Nilesat-201-301-and-Eutelsat-7-West-A",
     "degree": "7.1° W",
-    "num_channels": "260304",
+    "num_channels": "260306",
     "postion": -71
   },
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
-    "num_channels": "260303",
+    "num_channels": "260306",
     "postion": -80
   },
   {
@@ -266,7 +266,7 @@
   {
     "satellite_name": "Galaxy-19",
     "degree": "97.0° W",
-    "num_channels": "260305",
+    "num_channels": "260306",
     "postion": -970
   },
   {
@@ -374,7 +374,7 @@
   {
     "satellite_name": "Galaxy-33",
     "degree": "133.0° W",
-    "num_channels": "260305",
+    "num_channels": "260306",
     "postion": -1330
   },
   {
@@ -404,7 +404,7 @@
   {
     "satellite_name": "Eutelsat-172B",
     "degree": "172.0° E",
-    "num_channels": "260128",
+    "num_channels": "260306",
     "postion": 1720
   },
   {
@@ -416,7 +416,7 @@
   {
     "satellite_name": "Intelsat-19",
     "degree": "166.0° E",
-    "num_channels": "260131",
+    "num_channels": "260306",
     "postion": 1660
   },
   {
@@ -494,7 +494,7 @@
   {
     "satellite_name": "Telstar-18-Vantage",
     "degree": "138.0° E",
-    "num_channels": "260305",
+    "num_channels": "260306",
     "postion": 1380
   },
   {
@@ -746,7 +746,7 @@
   {
     "satellite_name": "Intelsat-20-36",
     "degree": "68.5° E",
-    "num_channels": "260303",
+    "num_channels": "260306",
     "postion": 685
   },
   {
@@ -764,7 +764,7 @@
   {
     "satellite_name": "Intelsat-39",
     "degree": "62.0° E",
-    "num_channels": "260305",
+    "num_channels": "260306",
     "postion": 620
   },
   {
@@ -776,7 +776,7 @@
   {
     "satellite_name": "NSS-12",
     "degree": "57.0° E",
-    "num_channels": "260303",
+    "num_channels": "260306",
     "postion": 570
   },
   {
@@ -830,7 +830,7 @@
   {
     "satellite_name": "Azerspace-1",
     "degree": "46.0° E",
-    "num_channels": "260301",
+    "num_channels": "260306",
     "postion": 460
   },
   {
@@ -920,7 +920,7 @@
   {
     "satellite_name": "Eutelsat-21B",
     "degree": "21.5° E",
-    "num_channels": "260305",
+    "num_channels": "260306",
     "postion": 215
   },
   {
@@ -968,7 +968,7 @@
   {
     "satellite_name": "Eutelsat-7B-7C",
     "degree": "7.0° E",
-    "num_channels": "260301",
+    "num_channels": "260306",
     "postion": 70
   },
   {
