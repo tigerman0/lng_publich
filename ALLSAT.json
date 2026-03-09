@@ -8,7 +8,7 @@
   {
     "satellite_name": "ABS-3A",
     "degree": "3.0° W",
-    "num_channels": "260228",
+    "num_channels": "260307",
     "postion": -30
   },
   {
@@ -194,7 +194,7 @@
   {
     "satellite_name": "Hispasat-74W-1",
     "degree": "73.9° W",
-    "num_channels": "251206",
+    "num_channels": "260307",
     "postion": -739
   },
   {
@@ -632,7 +632,7 @@
   {
     "satellite_name": "G-Sat-9",
     "degree": "97.3° E",
-    "num_channels": "260108",
+    "num_channels": "260307",
     "postion": 973
   },
   {
@@ -710,7 +710,7 @@
   {
     "satellite_name": "Thaicom-6-8",
     "degree": "78.5° E",
-    "num_channels": "260302",
+    "num_channels": "260307",
     "postion": 785
   },
   {
@@ -722,7 +722,7 @@
   {
     "satellite_name": "ABS-2-2A",
     "degree": "75.0° E",
-    "num_channels": "260304",
+    "num_channels": "260302",
     "postion": 750
   },
   {
@@ -764,7 +764,7 @@
   {
     "satellite_name": "Intelsat-39",
     "degree": "62.0° E",
-    "num_channels": "260306",
+    "num_channels": "260307",
     "postion": 620
   },
   {
@@ -806,7 +806,7 @@
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
-    "num_channels": "260305",
+    "num_channels": "260307",
     "postion": 520
   },
   {
@@ -848,7 +848,7 @@
   {
     "satellite_name": "Turksat-3A-4A-5B-6A",
     "degree": "42.0° E",
-    "num_channels": "260304",
+    "num_channels": "260307",
     "postion": 420
   },
   {
@@ -920,7 +920,7 @@
   {
     "satellite_name": "Eutelsat-21B",
     "degree": "21.5° E",
-    "num_channels": "260306",
+    "num_channels": "260307",
     "postion": 215
   },
   {
