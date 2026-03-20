@@ -14,7 +14,7 @@
   {
     "satellite_name": "Amos-3-and-Dror-1",
     "degree": "4.0° W",
-    "num_channels": "260313",
+    "num_channels": "260318",
     "postion": -40
   },
   {
@@ -32,7 +32,7 @@
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
-    "num_channels": "260317",
+    "num_channels": "260318",
     "postion": -80
   },
   {
@@ -116,7 +116,7 @@
   {
     "satellite_name": "Intelsat-14",
     "degree": "45.0° W",
-    "num_channels": "260312",
+    "num_channels": "260318",
     "postion": -450
   },
   {
@@ -218,7 +218,7 @@
   {
     "satellite_name": "Arsat-2",
     "degree": "81.0° W",
-    "num_channels": "260225",
+    "num_channels": "260318",
     "postion": -810
   },
   {
@@ -542,7 +542,7 @@
   {
     "satellite_name": "ChinaSat-6D",
     "degree": "125.0° E",
-    "num_channels": "260317",
+    "num_channels": "260318",
     "postion": 1250
   },
   {
@@ -584,7 +584,7 @@
   {
     "satellite_name": "ChinaSat-6E",
     "degree": "115.5° E",
-    "num_channels": "260201",
+    "num_channels": "260318",
     "postion": 1155
   },
   {
@@ -710,7 +710,7 @@
   {
     "satellite_name": "Express-80",
     "degree": "80.0° E",
-    "num_channels": "260316",
+    "num_channels": "260318",
     "postion": 800
   },
   {
@@ -722,7 +722,7 @@
   {
     "satellite_name": "Apstar-7",
     "degree": "76.5° E",
-    "num_channels": "260309",
+    "num_channels": "260318",
     "postion": 765
   },
   {
@@ -752,13 +752,13 @@
   {
     "satellite_name": "Intelsat-20-36",
     "degree": "68.5° E",
-    "num_channels": "260313",
+    "num_channels": "260318",
     "postion": 685
   },
   {
     "satellite_name": "Intelsat-17",
     "degree": "66.0° E",
-    "num_channels": "260316",
+    "num_channels": "260318",
     "postion": 660
   },
   {
@@ -806,13 +806,13 @@
   {
     "satellite_name": "Al-Yah-1",
     "degree": "52.5° E",
-    "num_channels": "260317",
+    "num_channels": "260318",
     "postion": 525
   },
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
-    "num_channels": "260316",
+    "num_channels": "260318",
     "postion": 520
   },
   {
@@ -854,7 +854,7 @@
   {
     "satellite_name": "Turksat-3A-4A-5B-6A",
     "degree": "42.0° E",
-    "num_channels": "260317",
+    "num_channels": "260318",
     "postion": 420
   },
   {
@@ -956,7 +956,7 @@
   {
     "satellite_name": "Hotbird-13F-13G",
     "degree": "13.0° E",
-    "num_channels": "260316",
+    "num_channels": "260318",
     "postion": 130
   },
   {
