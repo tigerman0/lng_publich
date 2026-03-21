@@ -32,7 +32,7 @@
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
-    "num_channels": "260318",
+    "num_channels": "260319",
     "postion": -80
   },
   {
@@ -416,7 +416,7 @@
   {
     "satellite_name": "Intelsat-19",
     "degree": "166.0° E",
-    "num_channels": "260306",
+    "num_channels": "260319",
     "postion": 1660
   },
   {
@@ -500,7 +500,7 @@
   {
     "satellite_name": "Telstar-18-Vantage",
     "degree": "138.0° E",
-    "num_channels": "260306",
+    "num_channels": "260319",
     "postion": 1380
   },
   {
@@ -722,7 +722,7 @@
   {
     "satellite_name": "Apstar-7",
     "degree": "76.5° E",
-    "num_channels": "260318",
+    "num_channels": "260319",
     "postion": 765
   },
   {
@@ -770,7 +770,7 @@
   {
     "satellite_name": "Intelsat-39",
     "degree": "62.0° E",
-    "num_channels": "260315",
+    "num_channels": "260319",
     "postion": 620
   },
   {
@@ -800,19 +800,19 @@
   {
     "satellite_name": "Express-AM6",
     "degree": "53.0° E",
-    "num_channels": "260317",
+    "num_channels": "260319",
     "postion": 530
   },
   {
     "satellite_name": "Al-Yah-1",
     "degree": "52.5° E",
-    "num_channels": "260318",
+    "num_channels": "260319",
     "postion": 525
   },
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
-    "num_channels": "260318",
+    "num_channels": "260319",
     "postion": 520
   },
   {
@@ -944,7 +944,7 @@
   {
     "satellite_name": "Amos-17",
     "degree": "17.0° E",
-    "num_channels": "260317",
+    "num_channels": "260319",
     "postion": 170
   },
   {
@@ -974,7 +974,7 @@
   {
     "satellite_name": "Eutelsat-7B-7C",
     "degree": "7.0° E",
-    "num_channels": "260316",
+    "num_channels": "260319",
     "postion": 70
   },
   {
