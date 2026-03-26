@@ -110,7 +110,7 @@
   {
     "satellite_name": "Sky-Brasil-1",
     "degree": "43.1° W",
-    "num_channels": "260109",
+    "num_channels": "260324",
     "postion": -431
   },
   {
@@ -236,7 +236,7 @@
   {
     "satellite_name": "SES-2-and-TKSat-1",
     "degree": "87.1° W",
-    "num_channels": "250318",
+    "num_channels": "260324",
     "postion": -871
   },
   {
@@ -266,7 +266,7 @@
   {
     "satellite_name": "Galaxy-19",
     "degree": "97.0° W",
-    "num_channels": "260321",
+    "num_channels": "260324",
     "postion": -970
   },
   {
@@ -350,7 +350,7 @@
   {
     "satellite_name": "Galaxy-18",
     "degree": "123.0° W",
-    "num_channels": "251104",
+    "num_channels": "260324",
     "postion": -1230
   },
   {
@@ -368,7 +368,7 @@
   {
     "satellite_name": "SES-21",
     "degree": "131.0° W",
-    "num_channels": "260316",
+    "num_channels": "260324",
     "postion": -1310
   },
   {
@@ -926,7 +926,7 @@
   {
     "satellite_name": "Eutelsat-21B",
     "degree": "21.5° E",
-    "num_channels": "260315",
+    "num_channels": "260324",
     "postion": 215
   },
   {
@@ -956,7 +956,7 @@
   {
     "satellite_name": "Hotbird-13F-13G",
     "degree": "13.0° E",
-    "num_channels": "260322",
+    "num_channels": "260324",
     "postion": 130
   },
   {
@@ -974,7 +974,7 @@
   {
     "satellite_name": "Eutelsat-7B-7C",
     "degree": "7.0° E",
-    "num_channels": "260323",
+    "num_channels": "260324",
     "postion": 70
   },
   {
