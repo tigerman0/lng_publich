@@ -32,7 +32,7 @@
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
-    "num_channels": "260323",
+    "num_channels": "260325",
     "postion": -80
   },
   {
@@ -134,7 +134,7 @@
   {
     "satellite_name": "Intelsat-34",
     "degree": "55.5° W",
-    "num_channels": "260216",
+    "num_channels": "260325",
     "postion": -555
   },
   {
@@ -440,7 +440,7 @@
   {
     "satellite_name": "Optus-D3-10",
     "degree": "156.0° E",
-    "num_channels": "250703",
+    "num_channels": "260325",
     "postion": 1560
   },
   {
@@ -500,7 +500,7 @@
   {
     "satellite_name": "Telstar-18-Vantage",
     "degree": "138.0° E",
-    "num_channels": "260321",
+    "num_channels": "260325",
     "postion": 1380
   },
   {
@@ -542,7 +542,7 @@
   {
     "satellite_name": "ChinaSat-6D",
     "degree": "125.0° E",
-    "num_channels": "260318",
+    "num_channels": "260325",
     "postion": 1250
   },
   {
@@ -560,7 +560,7 @@
   {
     "satellite_name": "AsiaSat-6-Thaicom-7",
     "degree": "120.0° E",
-    "num_channels": "260301",
+    "num_channels": "260325",
     "postion": 1200
   },
   {
@@ -584,7 +584,7 @@
   {
     "satellite_name": "ChinaSat-6E",
     "degree": "115.5° E",
-    "num_channels": "260318",
+    "num_channels": "260325",
     "postion": 1155
   },
   {
@@ -668,7 +668,7 @@
   {
     "satellite_name": "ChinaSat-9C",
     "degree": "92.2° E",
-    "num_channels": "251226",
+    "num_channels": "260325",
     "postion": 922
   },
   {
@@ -782,7 +782,7 @@
   {
     "satellite_name": "NSS-12",
     "degree": "57.0° E",
-    "num_channels": "260311",
+    "num_channels": "260325",
     "postion": 570
   },
   {
@@ -806,13 +806,13 @@
   {
     "satellite_name": "Al-Yah-1",
     "degree": "52.5° E",
-    "num_channels": "260323",
+    "num_channels": "260325",
     "postion": 525
   },
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
-    "num_channels": "260323",
+    "num_channels": "260325",
     "postion": 520
   },
   {
@@ -860,7 +860,7 @@
   {
     "satellite_name": "Express-AM7",
     "degree": "40.0° E",
-    "num_channels": "260317",
+    "num_channels": "260325",
     "postion": 400
   },
   {
@@ -956,7 +956,7 @@
   {
     "satellite_name": "Hotbird-13F-13G",
     "degree": "13.0° E",
-    "num_channels": "260324",
+    "num_channels": "260325",
     "postion": 130
   },
   {
