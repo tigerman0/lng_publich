@@ -32,7 +32,7 @@
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
-    "num_channels": "260325",
+    "num_channels": "260326",
     "postion": -80
   },
   {
@@ -716,7 +716,7 @@
   {
     "satellite_name": "Thaicom-6-8",
     "degree": "78.5° E",
-    "num_channels": "260321",
+    "num_channels": "260326",
     "postion": 785
   },
   {
@@ -800,7 +800,7 @@
   {
     "satellite_name": "Express-AM6",
     "degree": "53.0° E",
-    "num_channels": "260319",
+    "num_channels": "260326",
     "postion": 530
   },
   {
@@ -854,7 +854,7 @@
   {
     "satellite_name": "Turksat-3A-4A-5B-6A",
     "degree": "42.0° E",
-    "num_channels": "260323",
+    "num_channels": "260326",
     "postion": 420
   },
   {
@@ -866,7 +866,7 @@
   {
     "satellite_name": "Hellas-Sat-3-4",
     "degree": "39.0° E",
-    "num_channels": "260323",
+    "num_channels": "260326",
     "postion": 390
   },
   {
@@ -902,7 +902,7 @@
   {
     "satellite_name": "Astra-2E-2F-2G",
     "degree": "28.3° E",
-    "num_channels": "260226",
+    "num_channels": "260326",
     "postion": 283
   },
   {
@@ -956,7 +956,7 @@
   {
     "satellite_name": "Hotbird-13F-13G",
     "degree": "13.0° E",
-    "num_channels": "260325",
+    "num_channels": "260326",
     "postion": 130
   },
   {
