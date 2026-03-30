@@ -294,12 +294,6 @@
     "postion": -1030
   },
   {
-    "satellite_name": "AMC-15",
-    "degree": "105.0° W",
-    "num_channels": "170706",
-    "postion": -1050
-  },
-  {
     "satellite_name": "EchoStar-105-SES-11",
     "degree": "105.0° W",
     "num_channels": "251130",
@@ -308,7 +302,7 @@
   {
     "satellite_name": "Anik-F1R-G1",
     "degree": "107.3° W",
-    "num_channels": "220113",
+    "num_channels": "260328",
     "postion": -1073
   },
   {
@@ -494,7 +488,7 @@
   {
     "satellite_name": "Express-AM5",
     "degree": "140.0° E",
-    "num_channels": "260131",
+    "num_channels": "260328",
     "postion": 1400
   },
   {
@@ -514,12 +508,6 @@
     "degree": "134.0° E",
     "num_channels": "260127",
     "postion": 1340
-  },
-  {
-    "satellite_name": "JCSAT-9",
-    "degree": "132.0° E",
-    "num_channels": "170723",
-    "postion": 1320
   },
   {
     "satellite_name": "Vinasat-1-2",
@@ -596,7 +584,7 @@
   {
     "satellite_name": "Koreasat-5A",
     "degree": "113.0° E",
-    "num_channels": "260305",
+    "num_channels": "260328",
     "postion": 1130
   },
   {
@@ -632,7 +620,7 @@
   {
     "satellite_name": "AsiaSat-5",
     "degree": "100.5° E",
-    "num_channels": "260327",
+    "num_channels": "260328",
     "postion": 1005
   },
   {
@@ -698,7 +686,7 @@
   {
     "satellite_name": "ChinaSat-12",
     "degree": "87.5° E",
-    "num_channels": "251228",
+    "num_channels": "220729",
     "postion": 875
   },
   {
@@ -722,13 +710,13 @@
   {
     "satellite_name": "Thaicom-6-8",
     "degree": "78.5° E",
-    "num_channels": "260326",
+    "num_channels": "260328",
     "postion": 785
   },
   {
     "satellite_name": "Apstar-7",
     "degree": "76.5° E",
-    "num_channels": "260327",
+    "num_channels": "260328",
     "postion": 765
   },
   {
@@ -818,7 +806,7 @@
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
-    "num_channels": "260327",
+    "num_channels": "260328",
     "postion": 520
   },
   {
@@ -962,7 +950,7 @@
   {
     "satellite_name": "Hotbird-13F-13G",
     "degree": "13.0° E",
-    "num_channels": "260326",
+    "num_channels": "260328",
     "postion": 130
   },
   {
