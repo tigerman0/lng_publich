@@ -32,7 +32,7 @@
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
-    "num_channels": "260326",
+    "num_channels": "260329",
     "postion": -80
   },
   {
@@ -80,7 +80,7 @@
   {
     "satellite_name": "Intelsat-35e",
     "degree": "34.5° W",
-    "num_channels": "260305",
+    "num_channels": "260329",
     "postion": -345
   },
   {
@@ -398,19 +398,19 @@
   {
     "satellite_name": "Intelsat-18",
     "degree": "180.0° E",
-    "num_channels": "260312",
+    "num_channels": "260329",
     "postion": 1800
   },
   {
     "satellite_name": "Eutelsat-172B",
     "degree": "172.0° E",
-    "num_channels": "260317",
+    "num_channels": "260329",
     "postion": 1720
   },
   {
     "satellite_name": "Horizons-3e",
     "degree": "169.0° E",
-    "num_channels": "251114",
+    "num_channels": "260329",
     "postion": 1690
   },
   {
@@ -602,7 +602,7 @@
   {
     "satellite_name": "AsiaSat-7-8",
     "degree": "105.4° E",
-    "num_channels": "260321",
+    "num_channels": "260329",
     "postion": 1054
   },
   {
@@ -626,7 +626,7 @@
   {
     "satellite_name": "ChinaSat-11",
     "degree": "98.0° E",
-    "num_channels": "260216",
+    "num_channels": "260329",
     "postion": 980
   },
   {
@@ -656,7 +656,7 @@
   {
     "satellite_name": "G-Sat-15-17",
     "degree": "93.5° E",
-    "num_channels": "260312",
+    "num_channels": "260329",
     "postion": 935
   },
   {
@@ -710,19 +710,19 @@
   {
     "satellite_name": "Thaicom-6-8",
     "degree": "78.5° E",
-    "num_channels": "260328",
+    "num_channels": "260329",
     "postion": 785
   },
   {
     "satellite_name": "Apstar-7",
     "degree": "76.5° E",
-    "num_channels": "260328",
+    "num_channels": "260329",
     "postion": 765
   },
   {
     "satellite_name": "ABS-2-2A",
     "degree": "75.0° E",
-    "num_channels": "260302",
+    "num_channels": "260329",
     "postion": 750
   },
   {
@@ -746,7 +746,7 @@
   {
     "satellite_name": "Intelsat-20-36",
     "degree": "68.5° E",
-    "num_channels": "260327",
+    "num_channels": "260329",
     "postion": 685
   },
   {
@@ -800,7 +800,7 @@
   {
     "satellite_name": "Al-Yah-1",
     "degree": "52.5° E",
-    "num_channels": "260325",
+    "num_channels": "260329",
     "postion": 525
   },
   {
@@ -836,7 +836,7 @@
   {
     "satellite_name": "Cosmos-2520-and-Azerspace-2-Intelsat-38",
     "degree": "45.1° E",
-    "num_channels": "260225",
+    "num_channels": "260329",
     "postion": 451
   },
   {
@@ -860,7 +860,7 @@
   {
     "satellite_name": "Hellas-Sat-3-4",
     "degree": "39.0° E",
-    "num_channels": "260326",
+    "num_channels": "260329",
     "postion": 390
   },
   {
@@ -896,7 +896,7 @@
   {
     "satellite_name": "Astra-2E-2F-2G",
     "degree": "28.3° E",
-    "num_channels": "260326",
+    "num_channels": "260329",
     "postion": 283
   },
   {
@@ -950,7 +950,7 @@
   {
     "satellite_name": "Hotbird-13F-13G",
     "degree": "13.0° E",
-    "num_channels": "260328",
+    "num_channels": "260329",
     "postion": 130
   },
   {
