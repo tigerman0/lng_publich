@@ -32,7 +32,7 @@
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
-    "num_channels": "260329",
+    "num_channels": "260330",
     "postion": -80
   },
   {
@@ -602,7 +602,7 @@
   {
     "satellite_name": "AsiaSat-7-8",
     "degree": "105.4° E",
-    "num_channels": "260329",
+    "num_channels": "260330",
     "postion": 1054
   },
   {
@@ -626,7 +626,7 @@
   {
     "satellite_name": "ChinaSat-11",
     "degree": "98.0° E",
-    "num_channels": "260329",
+    "num_channels": "260330",
     "postion": 980
   },
   {
@@ -848,7 +848,7 @@
   {
     "satellite_name": "Turksat-3A-4A-5B-6A",
     "degree": "42.0° E",
-    "num_channels": "260327",
+    "num_channels": "260330",
     "postion": 420
   },
   {
@@ -920,7 +920,7 @@
   {
     "satellite_name": "Eutelsat-21B",
     "degree": "21.5° E",
-    "num_channels": "260324",
+    "num_channels": "260330",
     "postion": 215
   },
   {
@@ -932,13 +932,13 @@
   {
     "satellite_name": "Astra-1N-1P",
     "degree": "19.2° E",
-    "num_channels": "260202",
+    "num_channels": "260330",
     "postion": 192
   },
   {
     "satellite_name": "Amos-17",
     "degree": "17.0° E",
-    "num_channels": "260323",
+    "num_channels": "260330",
     "postion": 170
   },
   {
@@ -950,7 +950,7 @@
   {
     "satellite_name": "Hotbird-13F-13G",
     "degree": "13.0° E",
-    "num_channels": "260329",
+    "num_channels": "260330",
     "postion": 130
   },
   {
