@@ -12,9 +12,15 @@
     "postion": -30
   },
   {
-    "satellite_name": "Amos-3-and-Dror-1",
+    "satellite_name": "Amos-3",
     "degree": "4.0° W",
-    "num_channels": "260318",
+    "num_channels": "260331",
+    "postion": -40
+  },
+  {
+    "satellite_name": "Dror-1",
+    "degree": "4.0° W",
+    "num_channels": "260326",
     "postion": -40
   },
   {
@@ -32,7 +38,7 @@
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
-    "num_channels": "260330",
+    "num_channels": "260331",
     "postion": -80
   },
   {
@@ -80,7 +86,7 @@
   {
     "satellite_name": "Intelsat-35e",
     "degree": "34.5° W",
-    "num_channels": "260329",
+    "num_channels": "260331",
     "postion": -345
   },
   {
@@ -602,7 +608,7 @@
   {
     "satellite_name": "AsiaSat-7-8",
     "degree": "105.4° E",
-    "num_channels": "260330",
+    "num_channels": "260331",
     "postion": 1054
   },
   {
@@ -656,7 +662,7 @@
   {
     "satellite_name": "G-Sat-15-17",
     "degree": "93.5° E",
-    "num_channels": "260329",
+    "num_channels": "260331",
     "postion": 935
   },
   {
@@ -716,7 +722,7 @@
   {
     "satellite_name": "Apstar-7",
     "degree": "76.5° E",
-    "num_channels": "260329",
+    "num_channels": "260331",
     "postion": 765
   },
   {
@@ -746,7 +752,7 @@
   {
     "satellite_name": "Intelsat-20-36",
     "degree": "68.5° E",
-    "num_channels": "260329",
+    "num_channels": "260331",
     "postion": 685
   },
   {
@@ -920,7 +926,7 @@
   {
     "satellite_name": "Eutelsat-21B",
     "degree": "21.5° E",
-    "num_channels": "260330",
+    "num_channels": "260331",
     "postion": 215
   },
   {
@@ -950,13 +956,13 @@
   {
     "satellite_name": "Hotbird-13F-13G",
     "degree": "13.0° E",
-    "num_channels": "260330",
+    "num_channels": "260331",
     "postion": 130
   },
   {
     "satellite_name": "Eutelsat-10B",
     "degree": "10.0° E",
-    "num_channels": "260327",
+    "num_channels": "260331",
     "postion": 100
   },
   {
@@ -980,7 +986,7 @@
   {
     "satellite_name": "Eutelsat-3B-and-Rascom-QAF-1R",
     "degree": "3.0° E",
-    "num_channels": "260320",
+    "num_channels": "260331",
     "postion": 30
   },
   {
