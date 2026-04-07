@@ -494,13 +494,13 @@
   {
     "satellite_name": "Express-AM5",
     "degree": "140.0° E",
-    "num_channels": "260403",
+    "num_channels": "260405",
     "postion": 1400
   },
   {
     "satellite_name": "Telstar-18-Vantage",
     "degree": "138.0° E",
-    "num_channels": "260325",
+    "num_channels": "260405",
     "postion": 1380
   },
   {
@@ -512,7 +512,7 @@
   {
     "satellite_name": "Vinasat-1-2",
     "degree": "131.9° E",
-    "num_channels": "260317",
+    "num_channels": "260405",
     "postion": 1319
   },
   {
@@ -854,7 +854,7 @@
   {
     "satellite_name": "Turksat-3A-4A-5B-6A",
     "degree": "42.0° E",
-    "num_channels": "260402",
+    "num_channels": "260405",
     "postion": 420
   },
   {
@@ -866,7 +866,7 @@
   {
     "satellite_name": "Hellas-Sat-3-4",
     "degree": "39.0° E",
-    "num_channels": "260404",
+    "num_channels": "260405",
     "postion": 390
   },
   {
