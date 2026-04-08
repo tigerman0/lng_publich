@@ -32,13 +32,13 @@
   {
     "satellite_name": "Nilesat-201-301-and-Eutelsat-7-West-A",
     "degree": "7.1° W",
-    "num_channels": "260403",
+    "num_channels": "260406",
     "postion": -71
   },
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
-    "num_channels": "260404",
+    "num_channels": "260406",
     "postion": -80
   },
   {
@@ -704,13 +704,13 @@
   {
     "satellite_name": "Express-80",
     "degree": "80.0° E",
-    "num_channels": "260401",
+    "num_channels": "260406",
     "postion": 800
   },
   {
     "satellite_name": "Thaicom-6-8",
     "degree": "78.5° E",
-    "num_channels": "260329",
+    "num_channels": "260406",
     "postion": 785
   },
   {
@@ -764,7 +764,7 @@
   {
     "satellite_name": "Intelsat-39",
     "degree": "62.0° E",
-    "num_channels": "260402",
+    "num_channels": "260406",
     "postion": 620
   },
   {
@@ -788,7 +788,7 @@
   {
     "satellite_name": "Express-AT2",
     "degree": "56.0° E",
-    "num_channels": "260404",
+    "num_channels": "260406",
     "postion": 560
   },
   {
@@ -812,7 +812,7 @@
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
-    "num_channels": "260404",
+    "num_channels": "260406",
     "postion": 520
   },
   {
