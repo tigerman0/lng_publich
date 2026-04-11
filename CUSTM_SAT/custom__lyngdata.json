@@ -1,5 +1,1931 @@
 {
-  "extraction_date": "2026-04-10 04:07:25",
+  "extraction_date": "2026-04-11 03:36:32",
   "total_satellites": 15,
-  "satellites": []
+  "satellites": [
+    {
+      "satellite_name": "Eutelsat-7B-7C",
+      "degree": "7.0° E",
+      "num_channels": "260126",
+      "full_name": "Eutelsat 7B/7C at 7.0°E - LyngSat",
+      "last_update": "2026-04-09",
+      "total_transponders": 156,
+      "transponders": [
+        {
+          "frequency": "10721",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "22000",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "10721",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "10721",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "27500",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": [
+            "Iranefarda TV",
+            "NOW Global"
+          ]
+        },
+        {
+          "frequency": "10762",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
+          "pls": "",
+          "channels": [
+            "CCTV 1",
+            "CCTV 2",
+            "CCTV 3",
+            "CCTV 4 Asia",
+            "CCTV 5",
+            "CCTV 5+",
+            "CCTV 8",
+            "CCTV 7",
+            "CCTV 13",
+            "BRTV Kaku",
+            "Beijing Satellite TV",
+            "Dragon TV International",
+            "Hunan TV International",
+            "Jiangsu Satellite TV",
+            "Zhejiang Satellite TV International",
+            "Anhui Satellite TV",
+            "Liaoning TV",
+            "Phoenix Chinese Channel"
+          ]
+        },
+        {
+          "frequency": "10762",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "10887",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Nyota TV",
+            "Sibuka TV",
+            "GEB America",
+            "Sauti Ya Uponyaji TV",
+            "Mchongo TV",
+            "Clear TV",
+            "The Sniper One TV",
+            "Sky TV",
+            "Riyadh TV",
+            "Harvest TV",
+            "JN Power TV",
+            "Ukombozi TV",
+            "TZ Gospel TV",
+            "Channel 44",
+            "Eternal Life TV"
+          ]
+        },
+        {
+          "frequency": "10965",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "4937",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "10971",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "4937",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "10971",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "10973",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "9874",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "10981",
+          "polarization": "V",
+          "symbol_rate": "5/6",
+          "fec": "45000",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "10982",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "4937",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "10985",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "9874",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "10989",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "4937",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "10995",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "4937",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "10995",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "4937",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11001",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "4937",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11001",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "4937",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11007",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "4937",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11012",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "4937",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11021",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "9874",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11023",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11042",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "4937",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11043",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11044",
+          "polarization": "V",
+          "symbol_rate": "5/6",
+          "fec": "45000",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
+          "pls": "",
+          "channels": [
+            "Azam Xtra"
+          ]
+        },
+        {
+          "frequency": "11048",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "4937",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11053",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11054",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "4937",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11060",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "4937",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11071",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11078",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "4937",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11078",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "4900",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11088",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11090",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "4937",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11096",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "4937",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11102",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "4937",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11106",
+          "polarization": "V",
+          "symbol_rate": "5/6",
+          "fec": "45000",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11108",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "4937",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11108",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "4937",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11122",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "5000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11124",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "3674",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11129",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "3674",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11134",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "5000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11137",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "4800",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11139",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "5000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11145",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "5000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11151",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "3674",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11152",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "4165",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "WGB Lucky Balls",
+            "WGB Dog Racing",
+            "Elbet Lucky Greek",
+            "WGB Champions League",
+            "WGB Global Football",
+            "Elbet Lucky Color"
+          ]
+        },
+        {
+          "frequency": "11156",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "3674",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11157",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "3674",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11163",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "5000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11168",
+          "polarization": "V",
+          "symbol_rate": "5/6",
+          "fec": "2500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11174",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "3600",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11181",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "6666",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11190",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11190",
+          "polarization": "V",
+          "symbol_rate": "5/6",
+          "fec": "6975",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11221",
+          "polarization": "H",
+          "symbol_rate": "32/45",
+          "fec": "34286",
+          "system": "",
+          "modulation": "16APSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11222",
+          "polarization": "V",
+          "symbol_rate": "",
+          "fec": "",
+          "system": "",
+          "modulation": "",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11262",
+          "polarization": "H",
+          "symbol_rate": "1/2",
+          "fec": "27500",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": [
+            "Erfan Halgheh TV",
+            "Iran National Revolution TV",
+            "Mellig TV",
+            "4U TV",
+            "Iran International",
+            "VoA 365"
+          ]
+        },
+        {
+          "frequency": "11304",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "29700",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Manoto",
+            "AVA Family",
+            "Home+",
+            "Persiana +",
+            "Simay-Azadi Iran National TV",
+            "Project Leon",
+            "Iran National Revolution TV",
+            "Sat 7 Pars",
+            "Kalemeh TV",
+            "BBC News Persian",
+            "Persiana Travel",
+            "Iran International",
+            "Nour TV",
+            "Setareh TV",
+            "Aryen TV",
+            "YourTime TV",
+            "Dej TV",
+            "Araz News"
+          ]
+        },
+        {
+          "frequency": "11356",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "35000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "ZBC TV",
+            "ZBC News",
+            "Jive TV",
+            "Southern African Development Community",
+            "KeYona TV",
+            "3K TV",
+            "Nkululeko Rusununguko TV",
+            "ZTN Prime"
+          ]
+        },
+        {
+          "frequency": "11387",
+          "polarization": "H",
+          "symbol_rate": "5/6",
+          "fec": "27500",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": [
+            "MBC Persia",
+            "4U Family",
+            "Kanal Jadid"
+          ]
+        },
+        {
+          "frequency": "11395",
+          "polarization": "V",
+          "symbol_rate": "5/6",
+          "fec": "7500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11444",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "3210",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": [
+            "MBC 1",
+            "MBC 2"
+          ]
+        },
+        {
+          "frequency": "11457",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "7500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11460",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "7500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11467",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "7500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11467",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "4800",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11477",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "4937",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11481",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "45000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Top Sports TV",
+            "Afro Centric Showcase",
+            "Afro Centric Royalty",
+            "Afro Centric Epic",
+            "Afro Centric Junior",
+            "Afro Centric Igbo",
+            "Afro Centric Yoruba",
+            "Afro Centric Hausa",
+            "Afro Centric Urban",
+            "Afro Centric Series",
+            "Afro Centric Pidgin",
+            "M-Dish TV",
+            "Outdoor Sport Channel",
+            "Tanzania Safari Channel",
+            "Liberty TV",
+            "Pet & Pal",
+            "Channels TV",
+            "Series Zone",
+            "Nina Novelas English",
+            "British Muslim TV",
+            "Football TV",
+            "Karaoke TV Kids",
+            "Stingray Naturescape",
+            "Cartoon TV (1)",
+            "Kids Zone (2)"
+          ]
+        },
+        {
+          "frequency": "11483",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "9874",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11483",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "3333",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11492",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "4200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11497",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "3674",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11505",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11508",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "7500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11514",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11517",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11521",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "3674",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11525",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11526",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "3674",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11543",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "6750",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11552",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "6750",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11569",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "9800",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11580",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11582",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11589",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11598",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "7120",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11600",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "7500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11604",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "2200",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11606",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "45000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Gaming TV",
+            "TNT TV"
+          ]
+        },
+        {
+          "frequency": "11607",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "3333",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11609",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "9700",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11612",
+          "polarization": "H",
+          "symbol_rate": "1/2",
+          "fec": "1480",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
+          "pls": "",
+          "channels": [
+            "Or Hachaim"
+          ]
+        },
+        {
+          "frequency": "11621",
+          "polarization": "V",
+          "symbol_rate": "5/6",
+          "fec": "2000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11637",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11648",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "3674",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11662",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "2222",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11662",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "2222",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11667",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "9700",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11667",
+          "polarization": "V",
+          "symbol_rate": "4/5",
+          "fec": "3780",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
+          "pls": "",
+          "channels": [
+            "Shams TV"
+          ]
+        },
+        {
+          "frequency": "11672",
+          "polarization": "V",
+          "symbol_rate": "4/5",
+          "fec": "3780",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
+          "pls": "",
+          "channels": [
+            "Kurdistan TV"
+          ]
+        },
+        {
+          "frequency": "11677",
+          "polarization": "V",
+          "symbol_rate": "4/5",
+          "fec": "5040",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
+          "pls": "",
+          "channels": [
+            "Kurdistan 24"
+          ]
+        },
+        {
+          "frequency": "11682",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "2500",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11683",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11685",
+          "polarization": "V",
+          "symbol_rate": "5/6",
+          "fec": "2500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11689",
+          "polarization": "V",
+          "symbol_rate": "4/5",
+          "fec": "5040",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
+          "pls": "",
+          "channels": [
+            "Ava News"
+          ]
+        },
+        {
+          "frequency": "11691",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "9874",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12509",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "3674",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12514",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "4800",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12520",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "4800",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12521",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "5000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12530",
+          "polarization": "H",
+          "symbol_rate": "1/2",
+          "fec": "1480",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
+          "pls": "",
+          "channels": [
+            "Or Hachaim"
+          ]
+        },
+        {
+          "frequency": "12534",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "4000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12538",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "4000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12538",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "4800",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12544",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "4800",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12555",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12562",
+          "polarization": "H",
+          "symbol_rate": "5/6",
+          "fec": "6975",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12591",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12600",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12604",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Peace TV English",
+            "Quran TV",
+            "Sunna TV",
+            "Emmanuel TV",
+            "Eagles TV",
+            "World Evangelism TV",
+            "IBN TV Africa",
+            "JW Broadcasting",
+            "JW Broadcasting",
+            "Haleluya TV",
+            "Mzee Wa Upako TV",
+            "Bloomberg TV Africa",
+            "Universal TV",
+            "Africa TV 2",
+            "Revival TV",
+            "Efatha TV",
+            "2M TV",
+            "Jehova Jire TV",
+            "Top Plus",
+            "AfroTurk TV",
+            "Thunder TV",
+            "Rabbi 1 TV",
+            "Holiness TV",
+            "ROC TV",
+            "Habari Maalum TV",
+            "Christ Mandate TV",
+            "Usambara Mountain TV",
+            "Salvation TV Global",
+            "Deep Life TV",
+            "AfroTurk Agro TV",
+            "Abood TV Plus"
+          ]
+        },
+        {
+          "frequency": "12608",
+          "polarization": "V",
+          "symbol_rate": "5/6",
+          "fec": "4600",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12614",
+          "polarization": "V",
+          "symbol_rate": "5/6",
+          "fec": "4600",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12620",
+          "polarization": "V",
+          "symbol_rate": "5/6",
+          "fec": "4600",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12626",
+          "polarization": "V",
+          "symbol_rate": "5/6",
+          "fec": "4600",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12632",
+          "polarization": "V",
+          "symbol_rate": "5/6",
+          "fec": "3674",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12633",
+          "polarization": "H",
+          "symbol_rate": "",
+          "fec": "",
+          "system": "",
+          "modulation": "",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12637",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "3674",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12639",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "4937",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12641",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "3674",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12646",
+          "polarization": "V",
+          "symbol_rate": "5/6",
+          "fec": "3674",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12648",
+          "polarization": "H",
+          "symbol_rate": "3/5",
+          "fec": "7500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12651",
+          "polarization": "V",
+          "symbol_rate": "5/6",
+          "fec": "3674",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12656",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "4936",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12657",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "2475",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Alforat TV"
+          ]
+        },
+        {
+          "frequency": "12674",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "3674",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12676",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "7500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12685",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12687",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "3674",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12695",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12705",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "4800",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12718",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "3600",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12726",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12735",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "21620",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "2200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "2S TV"
+          ]
+        },
+        {
+          "frequency": "21638",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "1100",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Bantamba TV"
+          ]
+        },
+        {
+          "frequency": "21663",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "21672",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "21681",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "21690",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "21699",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "21708",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "21717",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "21744",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "21763",
+          "polarization": "H",
+          "symbol_rate": "",
+          "fec": "7200",
+          "system": "DVB-S2",
+          "modulation": "",
+          "pls": "",
+          "channels": [
+            "<span class=\"__cf_email__\" data-cfemail=\"b4c3d1d6d9d5c7c0d1c6f4d8cddad3c7d5c09ad7dbd9\">[email&#160;protected]</span>"
+          ]
+        }
+      ]
+    },
+    {
+      "satellite_name": "BulgariaSat-1",
+      "degree": "1.9° E",
+      "num_channels": "260108",
+      "full_name": "BulgariaSat 1 at 1.9°E - LyngSat",
+      "last_update": "2026-04-09",
+      "total_transponders": 14,
+      "transponders": [
+        {
+          "frequency": "12073",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "VNT",
+            "Ambience TV"
+          ]
+        },
+        {
+          "frequency": "12092",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12111",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12169",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "TVR International",
+            "Epic Drama",
+            "Kanal 0"
+          ]
+        },
+        {
+          "frequency": "12207",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Evrokom",
+            "Fen Folk",
+            "BNT 4"
+          ]
+        },
+        {
+          "frequency": "12226",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12303",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "TV 1",
+            "Bulgaria 24",
+            "Rodina"
+          ]
+        },
+        {
+          "frequency": "12322",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "VTK",
+            "Planeta Folk"
+          ]
+        },
+        {
+          "frequency": "12341",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Balkanika Music TV"
+          ]
+        },
+        {
+          "frequency": "12360",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Nastoyashcheye Vremya"
+          ]
+        },
+        {
+          "frequency": "12380",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "TV Shumen",
+            "ERT World",
+            "TRT World",
+            "Freedom",
+            "Kanal 3"
+          ]
+        },
+        {
+          "frequency": "12418",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12458",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "DW English",
+            "Espreso TV",
+            "TV Duga +",
+            "RTP Mundo"
+          ]
+        },
+        {
+          "frequency": "12509",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "7500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "<span class=\"__cf_email__\" data-cfemail=\"fd8a989f909c8e89988fbd9184939a8e9c89d39e9290\">[email&#160;protected]</span>"
+          ]
+        }
+      ]
+    }
+  ]
 }
