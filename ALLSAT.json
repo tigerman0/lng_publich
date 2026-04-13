@@ -86,7 +86,7 @@
   {
     "satellite_name": "Intelsat-35e",
     "degree": "34.5° W",
-    "num_channels": "260410",
+    "num_channels": "260411",
     "postion": -345
   },
   {
@@ -110,7 +110,7 @@
   {
     "satellite_name": "SES-6",
     "degree": "40.5° W",
-    "num_channels": "260403",
+    "num_channels": "260411",
     "postion": -405
   },
   {
@@ -128,7 +128,7 @@
   {
     "satellite_name": "SES-14",
     "degree": "47.5° W",
-    "num_channels": "260410",
+    "num_channels": "260411",
     "postion": -475
   },
   {
@@ -140,7 +140,7 @@
   {
     "satellite_name": "Intelsat-34",
     "degree": "55.5° W",
-    "num_channels": "260327",
+    "num_channels": "260411",
     "postion": -555
   },
   {
@@ -410,7 +410,7 @@
   {
     "satellite_name": "Eutelsat-172B",
     "degree": "172.0° E",
-    "num_channels": "260410",
+    "num_channels": "260411",
     "postion": 1720
   },
   {
@@ -500,7 +500,7 @@
   {
     "satellite_name": "Telstar-18-Vantage",
     "degree": "138.0° E",
-    "num_channels": "260405",
+    "num_channels": "260411",
     "postion": 1380
   },
   {
@@ -512,7 +512,7 @@
   {
     "satellite_name": "Vinasat-1-2",
     "degree": "131.9° E",
-    "num_channels": "260405",
+    "num_channels": "260411",
     "postion": 1319
   },
   {
@@ -632,7 +632,7 @@
   {
     "satellite_name": "ChinaSat-11",
     "degree": "98.0° E",
-    "num_channels": "260410",
+    "num_channels": "260411",
     "postion": 980
   },
   {
@@ -752,7 +752,7 @@
   {
     "satellite_name": "Intelsat-20-36",
     "degree": "68.5° E",
-    "num_channels": "260409",
+    "num_channels": "260411",
     "postion": 685
   },
   {
@@ -770,7 +770,7 @@
   {
     "satellite_name": "Intelsat-39",
     "degree": "62.0° E",
-    "num_channels": "260407",
+    "num_channels": "260411",
     "postion": 620
   },
   {
@@ -787,9 +787,9 @@
   },
   {
     "satellite_name": "Express-AT1",
-    "degree": "56.5° E",
+    "degree": "57.0° E",
     "num_channels": "260304",
-    "postion": 565
+    "postion": 570
   },
   {
     "satellite_name": "Express-AT2",
