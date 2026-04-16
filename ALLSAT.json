@@ -38,7 +38,7 @@
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
-    "num_channels": "260408",
+    "num_channels": "260414",
     "postion": -80
   },
   {
@@ -146,7 +146,7 @@
   {
     "satellite_name": "Intelsat-21",
     "degree": "58.0° W",
-    "num_channels": "260208",
+    "num_channels": "260414",
     "postion": -580
   },
   {
@@ -632,7 +632,7 @@
   {
     "satellite_name": "ChinaSat-11",
     "degree": "98.0° E",
-    "num_channels": "260413",
+    "num_channels": "260414",
     "postion": 980
   },
   {
@@ -992,7 +992,7 @@
   {
     "satellite_name": "Eutelsat-3B-and-Rascom-QAF-1R",
     "degree": "3.0° E",
-    "num_channels": "260412",
+    "num_channels": "260414",
     "postion": 30
   },
   {
