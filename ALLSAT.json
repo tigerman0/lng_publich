@@ -20,7 +20,7 @@
   {
     "satellite_name": "Dror-1",
     "degree": "4.0° W",
-    "num_channels": "260409",
+    "num_channels": "260418",
     "postion": -40
   },
   {
@@ -38,7 +38,7 @@
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
-    "num_channels": "260416",
+    "num_channels": "260418",
     "postion": -80
   },
   {
@@ -584,7 +584,7 @@
   {
     "satellite_name": "Koreasat-5A",
     "degree": "113.0° E",
-    "num_channels": "260401",
+    "num_channels": "260418",
     "postion": 1130
   },
   {
@@ -632,7 +632,7 @@
   {
     "satellite_name": "ChinaSat-11",
     "degree": "98.0° E",
-    "num_channels": "260417",
+    "num_channels": "260418",
     "postion": 980
   },
   {
@@ -722,7 +722,7 @@
   {
     "satellite_name": "Apstar-7",
     "degree": "76.5° E",
-    "num_channels": "260407",
+    "num_channels": "260418",
     "postion": 765
   },
   {
@@ -740,7 +740,7 @@
   {
     "satellite_name": "Intelsat-22",
     "degree": "72.1° E",
-    "num_channels": "260401",
+    "num_channels": "260418",
     "postion": 721
   },
   {
@@ -752,7 +752,7 @@
   {
     "satellite_name": "Intelsat-20-36",
     "degree": "68.5° E",
-    "num_channels": "260413",
+    "num_channels": "260418",
     "postion": 685
   },
   {
@@ -884,7 +884,7 @@
   {
     "satellite_name": "Eutelsat-36D-and-Express-AMU1",
     "degree": "36.0° E",
-    "num_channels": "260417",
+    "num_channels": "260418",
     "postion": 360
   },
   {
@@ -968,7 +968,7 @@
   {
     "satellite_name": "Eutelsat-10B",
     "degree": "10.0° E",
-    "num_channels": "260412",
+    "num_channels": "260418",
     "postion": 100
   },
   {
@@ -992,7 +992,7 @@
   {
     "satellite_name": "Eutelsat-3B-and-Rascom-QAF-1R",
     "degree": "3.0° E",
-    "num_channels": "260417",
+    "num_channels": "260418",
     "postion": 30
   },
   {
