@@ -2,7 +2,7 @@
   {
     "satellite_name": "Thor-5-6-7-and-Intelsat-10-02",
     "degree": "0.8° W",
-    "num_channels": "260407",
+    "num_channels": "260419",
     "postion": -8
   },
   {
@@ -80,7 +80,7 @@
   {
     "satellite_name": "Hispasat-30W-5-30W-6",
     "degree": "30.0° W",
-    "num_channels": "260413",
+    "num_channels": "260419",
     "postion": -300
   },
   {
@@ -110,13 +110,13 @@
   {
     "satellite_name": "SES-6",
     "degree": "40.5° W",
-    "num_channels": "260413",
+    "num_channels": "260419",
     "postion": -405
   },
   {
     "satellite_name": "Sky-Brasil-1",
     "degree": "43.1° W",
-    "num_channels": "260324",
+    "num_channels": "260419",
     "postion": -431
   },
   {
@@ -182,7 +182,7 @@
   {
     "satellite_name": "Star-One-C4-D2",
     "degree": "70.0° W",
-    "num_channels": "260417",
+    "num_channels": "260419",
     "postion": -700
   },
   {
@@ -584,7 +584,7 @@
   {
     "satellite_name": "Koreasat-5A",
     "degree": "113.0° E",
-    "num_channels": "260418",
+    "num_channels": "260419",
     "postion": 1130
   },
   {
@@ -812,13 +812,13 @@
   {
     "satellite_name": "Al-Yah-1",
     "degree": "52.5° E",
-    "num_channels": "260416",
+    "num_channels": "260419",
     "postion": 525
   },
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
-    "num_channels": "260416",
+    "num_channels": "260419",
     "postion": 520
   },
   {
@@ -848,7 +848,7 @@
   {
     "satellite_name": "Cosmos-2520-and-Azerspace-2-Intelsat-38",
     "degree": "45.1° E",
-    "num_channels": "260416",
+    "num_channels": "260419",
     "postion": 451
   },
   {
@@ -956,7 +956,7 @@
   {
     "satellite_name": "Eutelsat-16A",
     "degree": "16.0° E",
-    "num_channels": "260416",
+    "num_channels": "260419",
     "postion": 160
   },
   {
@@ -968,7 +968,7 @@
   {
     "satellite_name": "Eutelsat-10B",
     "degree": "10.0° E",
-    "num_channels": "260418",
+    "num_channels": "260419",
     "postion": 100
   },
   {
@@ -986,7 +986,7 @@
   {
     "satellite_name": "Astra-4A-and-SES-5",
     "degree": "4.9° E",
-    "num_channels": "260321",
+    "num_channels": "260419",
     "postion": 49
   },
   {
