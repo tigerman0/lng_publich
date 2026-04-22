@@ -482,7 +482,7 @@
   {
     "satellite_name": "JCSAT-144C",
     "degree": "144.0° E",
-    "num_channels": "250819",
+    "num_channels": "260420",
     "postion": 1440
   },
   {
@@ -500,7 +500,7 @@
   {
     "satellite_name": "Telstar-18-Vantage",
     "degree": "138.0° E",
-    "num_channels": "260411",
+    "num_channels": "260420",
     "postion": 1380
   },
   {
@@ -512,7 +512,7 @@
   {
     "satellite_name": "Vinasat-1-2",
     "degree": "131.9° E",
-    "num_channels": "260411",
+    "num_channels": "260420",
     "postion": 1319
   },
   {
@@ -794,7 +794,7 @@
   {
     "satellite_name": "Express-AT2",
     "degree": "56.0° E",
-    "num_channels": "260416",
+    "num_channels": "260420",
     "postion": 560
   },
   {
@@ -932,7 +932,7 @@
   {
     "satellite_name": "Eutelsat-21B",
     "degree": "21.5° E",
-    "num_channels": "260412",
+    "num_channels": "260420",
     "postion": 215
   },
   {
@@ -956,7 +956,7 @@
   {
     "satellite_name": "Eutelsat-16A",
     "degree": "16.0° E",
-    "num_channels": "260419",
+    "num_channels": "260420",
     "postion": 160
   },
   {
@@ -968,7 +968,7 @@
   {
     "satellite_name": "Eutelsat-10B",
     "degree": "10.0° E",
-    "num_channels": "260419",
+    "num_channels": "260420",
     "postion": 100
   },
   {
