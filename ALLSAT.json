@@ -8,7 +8,7 @@
   {
     "satellite_name": "ABS-3A",
     "degree": "3.0° W",
-    "num_channels": "260412",
+    "num_channels": "260422",
     "postion": -30
   },
   {
@@ -56,7 +56,7 @@
   {
     "satellite_name": "Telstar-12-Vantage",
     "degree": "15.0° W",
-    "num_channels": "260304",
+    "num_channels": "260422",
     "postion": -150
   },
   {
@@ -116,7 +116,7 @@
   {
     "satellite_name": "Sky-Brasil-1",
     "degree": "43.1° W",
-    "num_channels": "260419",
+    "num_channels": "260422",
     "postion": -431
   },
   {
@@ -170,7 +170,7 @@
   {
     "satellite_name": "Eutelsat-65-West-A",
     "degree": "65.2° W",
-    "num_channels": "260214",
+    "num_channels": "260422",
     "postion": -652
   },
   {
@@ -584,7 +584,7 @@
   {
     "satellite_name": "Koreasat-5A",
     "degree": "113.0° E",
-    "num_channels": "260419",
+    "num_channels": "260422",
     "postion": 1130
   },
   {
@@ -596,7 +596,7 @@
   {
     "satellite_name": "SES-7-9-and-Merah-Putih",
     "degree": "108.1° E",
-    "num_channels": "260327",
+    "num_channels": "260422",
     "postion": 1081
   },
   {
@@ -626,7 +626,7 @@
   {
     "satellite_name": "AsiaSat-5",
     "degree": "100.5° E",
-    "num_channels": "260409",
+    "num_channels": "260422",
     "postion": 1005
   },
   {
@@ -716,7 +716,7 @@
   {
     "satellite_name": "Thaicom-6-8",
     "degree": "78.5° E",
-    "num_channels": "260421",
+    "num_channels": "260422",
     "postion": 785
   },
   {
@@ -794,7 +794,7 @@
   {
     "satellite_name": "Express-AT2",
     "degree": "56.0° E",
-    "num_channels": "260421",
+    "num_channels": "260422",
     "postion": 560
   },
   {
