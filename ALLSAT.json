@@ -38,7 +38,7 @@
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
-    "num_channels": "260418",
+    "num_channels": "260423",
     "postion": -80
   },
   {
@@ -116,7 +116,7 @@
   {
     "satellite_name": "Sky-Brasil-1",
     "degree": "43.1° W",
-    "num_channels": "260422",
+    "num_channels": "260423",
     "postion": -431
   },
   {
@@ -182,7 +182,7 @@
   {
     "satellite_name": "Star-One-C4-D2",
     "degree": "70.0° W",
-    "num_channels": "260419",
+    "num_channels": "260423",
     "postion": -700
   },
   {
@@ -224,7 +224,7 @@
   {
     "satellite_name": "Arsat-2",
     "degree": "81.0° W",
-    "num_channels": "260321",
+    "num_channels": "260423",
     "postion": -810
   },
   {
@@ -422,7 +422,7 @@
   {
     "satellite_name": "Intelsat-19",
     "degree": "166.0° E",
-    "num_channels": "260319",
+    "num_channels": "260423",
     "postion": 1660
   },
   {
@@ -524,7 +524,7 @@
   {
     "satellite_name": "LaoSat-1",
     "degree": "128.5° E",
-    "num_channels": "260315",
+    "num_channels": "260423",
     "postion": 1285
   },
   {
@@ -602,7 +602,7 @@
   {
     "satellite_name": "AsiaSat-7",
     "degree": "105.5° E",
-    "num_channels": "260416",
+    "num_channels": "260423",
     "postion": 1055
   },
   {
@@ -632,7 +632,7 @@
   {
     "satellite_name": "ChinaSat-11",
     "degree": "98.0° E",
-    "num_channels": "260418",
+    "num_channels": "260423",
     "postion": 980
   },
   {
@@ -758,7 +758,7 @@
   {
     "satellite_name": "Intelsat-17",
     "degree": "66.0° E",
-    "num_channels": "260417",
+    "num_channels": "260423",
     "postion": 660
   },
   {
@@ -794,7 +794,7 @@
   {
     "satellite_name": "Express-AT2",
     "degree": "56.0° E",
-    "num_channels": "260422",
+    "num_channels": "260423",
     "postion": 560
   },
   {
@@ -956,7 +956,7 @@
   {
     "satellite_name": "Eutelsat-16A",
     "degree": "16.0° E",
-    "num_channels": "260420",
+    "num_channels": "260423",
     "postion": 160
   },
   {
