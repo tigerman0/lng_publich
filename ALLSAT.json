@@ -68,7 +68,7 @@
   {
     "satellite_name": "SES-4",
     "degree": "22.0° W",
-    "num_channels": "260416",
+    "num_channels": "260424",
     "postion": -220
   },
   {
@@ -80,7 +80,7 @@
   {
     "satellite_name": "Hispasat-30W-5-30W-6",
     "degree": "30.0° W",
-    "num_channels": "260421",
+    "num_channels": "260424",
     "postion": -300
   },
   {
@@ -116,7 +116,7 @@
   {
     "satellite_name": "Sky-Brasil-1",
     "degree": "43.1° W",
-    "num_channels": "260423",
+    "num_channels": "260424",
     "postion": -431
   },
   {
@@ -632,7 +632,7 @@
   {
     "satellite_name": "ChinaSat-11",
     "degree": "98.0° E",
-    "num_channels": "260423",
+    "num_channels": "260424",
     "postion": 980
   },
   {
@@ -716,7 +716,7 @@
   {
     "satellite_name": "Thaicom-6-8",
     "degree": "78.5° E",
-    "num_channels": "260422",
+    "num_channels": "260424",
     "postion": 785
   },
   {
@@ -794,7 +794,7 @@
   {
     "satellite_name": "Express-AT2",
     "degree": "56.0° E",
-    "num_channels": "260423",
+    "num_channels": "260424",
     "postion": 560
   },
   {
@@ -980,7 +980,7 @@
   {
     "satellite_name": "Eutelsat-7B-7C",
     "degree": "7.0° E",
-    "num_channels": "260421",
+    "num_channels": "260424",
     "postion": 70
   },
   {
