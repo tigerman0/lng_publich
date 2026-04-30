@@ -12,12 +12,6 @@
     "postion": -30
   },
   {
-    "satellite_name": "Amos-3",
-    "degree": "4.0° W",
-    "num_channels": "260331",
-    "postion": -40
-  },
-  {
     "satellite_name": "Dror-1",
     "degree": "4.0° W",
     "num_channels": "260418",
@@ -38,7 +32,7 @@
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
-    "num_channels": "260426",
+    "num_channels": "260428",
     "postion": -80
   },
   {
@@ -146,7 +140,7 @@
   {
     "satellite_name": "Intelsat-21",
     "degree": "58.0° W",
-    "num_channels": "260421",
+    "num_channels": "260428",
     "postion": -580
   },
   {
@@ -224,7 +218,7 @@
   {
     "satellite_name": "Arsat-2",
     "degree": "81.0° W",
-    "num_channels": "260427",
+    "num_channels": "260428",
     "postion": -810
   },
   {
@@ -318,7 +312,7 @@
     "postion": -1100
   },
   {
-    "satellite_name": "Anik-F2-F4",
+    "satellite_name": "Anik-F2",
     "degree": "111.1° W",
     "num_channels": "060331",
     "postion": -1111
@@ -524,7 +518,7 @@
   {
     "satellite_name": "LaoSat-1",
     "degree": "128.5° E",
-    "num_channels": "260425",
+    "num_channels": "260428",
     "postion": 1285
   },
   {
@@ -794,7 +788,7 @@
   {
     "satellite_name": "Express-AT2",
     "degree": "56.0° E",
-    "num_channels": "260427",
+    "num_channels": "260428",
     "postion": 560
   },
   {
@@ -932,7 +926,7 @@
   {
     "satellite_name": "Eutelsat-21B",
     "degree": "21.5° E",
-    "num_channels": "260427",
+    "num_channels": "260428",
     "postion": 215
   },
   {
@@ -944,7 +938,7 @@
   {
     "satellite_name": "Astra-1N-1P",
     "degree": "19.2° E",
-    "num_channels": "260415",
+    "num_channels": "260428",
     "postion": 192
   },
   {
@@ -988,6 +982,12 @@
     "degree": "4.9° E",
     "num_channels": "260419",
     "postion": 49
+  },
+  {
+    "satellite_name": "Amos-3",
+    "degree": "4.5° E",
+    "num_channels": "260331",
+    "postion": 45
   },
   {
     "satellite_name": "Eutelsat-3B-and-Rascom-QAF-1R",
