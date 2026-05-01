@@ -32,7 +32,7 @@
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
-    "num_channels": "260428",
+    "num_channels": "260429",
     "postion": -80
   },
   {
@@ -494,7 +494,7 @@
   {
     "satellite_name": "Telstar-18-Vantage",
     "degree": "138.0° E",
-    "num_channels": "260420",
+    "num_channels": "260428",
     "postion": 1380
   },
   {
@@ -572,7 +572,7 @@
   {
     "satellite_name": "ChinaSat-6E",
     "degree": "115.5° E",
-    "num_channels": "260425",
+    "num_channels": "260429",
     "postion": 1155
   },
   {
@@ -788,7 +788,7 @@
   {
     "satellite_name": "Express-AT2",
     "degree": "56.0° E",
-    "num_channels": "260428",
+    "num_channels": "260429",
     "postion": 560
   },
   {
@@ -806,7 +806,7 @@
   {
     "satellite_name": "Al-Yah-1",
     "degree": "52.5° E",
-    "num_channels": "260419",
+    "num_channels": "260429",
     "postion": 525
   },
   {
