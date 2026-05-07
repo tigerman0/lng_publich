@@ -176,7 +176,7 @@
   {
     "satellite_name": "Star-One-C4-D2",
     "degree": "70.0° W",
-    "num_channels": "260504",
+    "num_channels": "260505",
     "postion": -700
   },
   {
@@ -775,9 +775,9 @@
   },
   {
     "satellite_name": "Express-AT1",
-    "degree": "58.0° E",
+    "degree": "58.5° E",
     "num_channels": "260304",
-    "postion": 580
+    "postion": 585
   },
   {
     "satellite_name": "NSS-12",
@@ -788,7 +788,7 @@
   {
     "satellite_name": "Express-AT2",
     "degree": "56.0° E",
-    "num_channels": "260504",
+    "num_channels": "260505",
     "postion": 560
   },
   {
@@ -956,7 +956,7 @@
   {
     "satellite_name": "Hotbird-13F-13G",
     "degree": "13.0° E",
-    "num_channels": "260430",
+    "num_channels": "260505",
     "postion": 130
   },
   {
@@ -966,16 +966,16 @@
     "postion": 100
   },
   {
+    "satellite_name": "Amos-3",
+    "degree": "9.5° E",
+    "num_channels": "260331",
+    "postion": 95
+  },
+  {
     "satellite_name": "Eutelsat-9B-and-Ka-Sat-9A",
     "degree": "9.0° E",
     "num_channels": "260122",
     "postion": 90
-  },
-  {
-    "satellite_name": "Amos-3",
-    "degree": "8.5° E",
-    "num_channels": "260331",
-    "postion": 85
   },
   {
     "satellite_name": "Eutelsat-7B-7C",
