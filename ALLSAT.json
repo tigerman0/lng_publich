@@ -26,7 +26,7 @@
   {
     "satellite_name": "Nilesat-201-301-and-Eutelsat-7-West-A",
     "degree": "7.1° W",
-    "num_channels": "260506",
+    "num_channels": "260507",
     "postion": -71
   },
   {
@@ -788,7 +788,7 @@
   {
     "satellite_name": "Express-AT2",
     "degree": "56.0° E",
-    "num_channels": "260506",
+    "num_channels": "260507",
     "postion": 560
   },
   {
@@ -932,7 +932,7 @@
   {
     "satellite_name": "Arabsat-5C",
     "degree": "20.0° E",
-    "num_channels": "260502",
+    "num_channels": "260507",
     "postion": 200
   },
   {
@@ -960,15 +960,15 @@
     "postion": 130
   },
   {
+    "satellite_name": "Amos-3",
+    "degree": "10.5° E",
+    "num_channels": "260331",
+    "postion": 105
+  },
+  {
     "satellite_name": "Eutelsat-10B",
     "degree": "10.0° E",
     "num_channels": "260502",
-    "postion": 100
-  },
-  {
-    "satellite_name": "Amos-3",
-    "degree": "10.0° E",
-    "num_channels": "260331",
     "postion": 100
   },
   {
