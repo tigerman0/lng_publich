@@ -32,7 +32,7 @@
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
-    "num_channels": "260506",
+    "num_channels": "260508",
     "postion": -80
   },
   {
@@ -134,7 +134,7 @@
   {
     "satellite_name": "Intelsat-34",
     "degree": "55.5° W",
-    "num_channels": "260411",
+    "num_channels": "260508",
     "postion": -555
   },
   {
@@ -350,7 +350,7 @@
   {
     "satellite_name": "Galaxy-18",
     "degree": "123.0° W",
-    "num_channels": "260324",
+    "num_channels": "260508",
     "postion": -1230
   },
   {
@@ -494,7 +494,7 @@
   {
     "satellite_name": "Telstar-18-Vantage",
     "degree": "138.0° E",
-    "num_channels": "260428",
+    "num_channels": "260508",
     "postion": 1380
   },
   {
@@ -578,7 +578,7 @@
   {
     "satellite_name": "Koreasat-5A",
     "degree": "113.0° E",
-    "num_channels": "260422",
+    "num_channels": "260508",
     "postion": 1130
   },
   {
@@ -596,7 +596,7 @@
   {
     "satellite_name": "AsiaSat-7",
     "degree": "105.5° E",
-    "num_channels": "260503",
+    "num_channels": "260508",
     "postion": 1055
   },
   {
@@ -788,7 +788,7 @@
   {
     "satellite_name": "Express-AT2",
     "degree": "56.0° E",
-    "num_channels": "260507",
+    "num_channels": "260508",
     "postion": 560
   },
   {
@@ -866,7 +866,7 @@
   {
     "satellite_name": "Hellas-Sat-3-4",
     "degree": "39.0° E",
-    "num_channels": "260409",
+    "num_channels": "260508",
     "postion": 390
   },
   {
@@ -926,7 +926,7 @@
   {
     "satellite_name": "Eutelsat-21B",
     "degree": "21.5° E",
-    "num_channels": "260501",
+    "num_channels": "260508",
     "postion": 215
   },
   {
@@ -950,7 +950,7 @@
   {
     "satellite_name": "Eutelsat-16A",
     "degree": "16.0° E",
-    "num_channels": "260506",
+    "num_channels": "260508",
     "postion": 160
   },
   {
@@ -998,7 +998,7 @@
   {
     "satellite_name": "BulgariaSat-1",
     "degree": "1.9° E",
-    "num_channels": "260312",
+    "num_channels": "260508",
     "postion": 19
   }
 ]
