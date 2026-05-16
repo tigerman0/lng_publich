@@ -440,7 +440,7 @@
   {
     "satellite_name": "Optus-D3-10",
     "degree": "156.0° E",
-    "num_channels": "260401",
+    "num_channels": "260514",
     "postion": 1560
   },
   {
@@ -955,14 +955,14 @@
   },
   {
     "satellite_name": "Amos-3",
-    "degree": "13.5° E",
+    "degree": "15.0° E",
     "num_channels": "260331",
-    "postion": 135
+    "postion": 150
   },
   {
     "satellite_name": "Hotbird-13F-13G",
     "degree": "13.0° E",
-    "num_channels": "260512",
+    "num_channels": "260514",
     "postion": 130
   },
   {
