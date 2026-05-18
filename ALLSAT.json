@@ -32,7 +32,7 @@
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
-    "num_channels": "260511",
+    "num_channels": "260516",
     "postion": -80
   },
   {
@@ -62,7 +62,7 @@
   {
     "satellite_name": "SES-4",
     "degree": "22.0° W",
-    "num_channels": "260502",
+    "num_channels": "260516",
     "postion": -220
   },
   {
@@ -134,7 +134,7 @@
   {
     "satellite_name": "Intelsat-34",
     "degree": "55.5° W",
-    "num_channels": "260508",
+    "num_channels": "260516",
     "postion": -555
   },
   {
@@ -146,7 +146,7 @@
   {
     "satellite_name": "Amazonas-2-3-5",
     "degree": "61.0° W",
-    "num_channels": "260314",
+    "num_channels": "260516",
     "postion": -610
   },
   {
@@ -416,7 +416,7 @@
   {
     "satellite_name": "Intelsat-19",
     "degree": "166.0° E",
-    "num_channels": "260515",
+    "num_channels": "260516",
     "postion": 1660
   },
   {
@@ -752,7 +752,7 @@
   {
     "satellite_name": "Intelsat-20-36",
     "degree": "68.5° E",
-    "num_channels": "260515",
+    "num_channels": "260516",
     "postion": 685
   },
   {
@@ -794,7 +794,7 @@
   {
     "satellite_name": "Express-AT2",
     "degree": "56.0° E",
-    "num_channels": "260513",
+    "num_channels": "260516",
     "postion": 560
   },
   {
@@ -878,7 +878,7 @@
   {
     "satellite_name": "Paksat-1R-MM1",
     "degree": "38.1° E",
-    "num_channels": "261515",
+    "num_channels": "260515",
     "postion": 381
   },
   {
@@ -954,21 +954,21 @@
     "postion": 170
   },
   {
+    "satellite_name": "Amos-3",
+    "degree": "16.5° E",
+    "num_channels": "260331",
+    "postion": 165
+  },
+  {
     "satellite_name": "Eutelsat-16A",
     "degree": "16.0° E",
     "num_channels": "260509",
     "postion": 160
   },
   {
-    "satellite_name": "Amos-3",
-    "degree": "15.0° E",
-    "num_channels": "260331",
-    "postion": 150
-  },
-  {
     "satellite_name": "Hotbird-13F-13G",
     "degree": "13.0° E",
-    "num_channels": "260515",
+    "num_channels": "260516",
     "postion": 130
   },
   {
