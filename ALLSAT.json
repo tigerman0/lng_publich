@@ -32,7 +32,7 @@
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
-    "num_channels": "260527",
+    "num_channels": "260530",
     "postion": -80
   },
   {
@@ -62,7 +62,7 @@
   {
     "satellite_name": "SES-4",
     "degree": "22.0° W",
-    "num_channels": "260524",
+    "num_channels": "260530",
     "postion": -220
   },
   {
@@ -224,7 +224,7 @@
   {
     "satellite_name": "Arsat-2",
     "degree": "81.0° W",
-    "num_channels": "260521",
+    "num_channels": "260530",
     "postion": -810
   },
   {
@@ -716,7 +716,7 @@
   {
     "satellite_name": "Thaicom-6-8",
     "degree": "78.5° E",
-    "num_channels": "260523",
+    "num_channels": "260530",
     "postion": 785
   },
   {
@@ -788,7 +788,7 @@
   {
     "satellite_name": "NSS-12",
     "degree": "57.0° E",
-    "num_channels": "260521",
+    "num_channels": "260530",
     "postion": 570
   },
   {
@@ -812,13 +812,13 @@
   {
     "satellite_name": "Al-Yah-1",
     "degree": "52.5° E",
-    "num_channels": "260529",
+    "num_channels": "260530",
     "postion": 525
   },
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
-    "num_channels": "260529",
+    "num_channels": "260530",
     "postion": 520
   },
   {
@@ -866,7 +866,7 @@
   {
     "satellite_name": "Express-AM7",
     "degree": "40.0° E",
-    "num_channels": "260521",
+    "num_channels": "260530",
     "postion": 400
   },
   {
@@ -913,14 +913,14 @@
   },
   {
     "satellite_name": "Amos-3",
-    "degree": "26.0° E",
+    "degree": "26.5° E",
     "num_channels": "260331",
-    "postion": 260
+    "postion": 265
   },
   {
     "satellite_name": "Badr-7-8-and-Eshail-2",
     "degree": "26.0° E",
-    "num_channels": "260521",
+    "num_channels": "260530",
     "postion": 260
   },
   {
@@ -962,7 +962,7 @@
   {
     "satellite_name": "Eutelsat-16A",
     "degree": "16.0° E",
-    "num_channels": "260528",
+    "num_channels": "260530",
     "postion": 160
   },
   {
@@ -986,7 +986,7 @@
   {
     "satellite_name": "Eutelsat-7B-7C",
     "degree": "7.0° E",
-    "num_channels": "260529",
+    "num_channels": "260530",
     "postion": 70
   },
   {
