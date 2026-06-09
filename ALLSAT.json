@@ -32,7 +32,7 @@
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
-    "num_channels": "260604",
+    "num_channels": "260607",
     "postion": -80
   },
   {
@@ -530,7 +530,7 @@
   {
     "satellite_name": "LaoSat-1",
     "degree": "128.5° E",
-    "num_channels": "260606",
+    "num_channels": "260607",
     "postion": 1285
   },
   {
@@ -632,7 +632,7 @@
   {
     "satellite_name": "AsiaSat-5",
     "degree": "100.5° E",
-    "num_channels": "260527",
+    "num_channels": "260607",
     "postion": 1005
   },
   {
@@ -782,7 +782,7 @@
   {
     "satellite_name": "NSS-12",
     "degree": "57.0° E",
-    "num_channels": "260602",
+    "num_channels": "260607",
     "postion": 570
   },
   {
@@ -800,13 +800,13 @@
   {
     "satellite_name": "Express-AM6",
     "degree": "53.0° E",
-    "num_channels": "260524",
+    "num_channels": "260607",
     "postion": 530
   },
   {
     "satellite_name": "Al-Yah-1",
     "degree": "52.5° E",
-    "num_channels": "260606",
+    "num_channels": "260607",
     "postion": 525
   },
   {
@@ -956,19 +956,19 @@
   {
     "satellite_name": "Eutelsat-16A",
     "degree": "16.0° E",
-    "num_channels": "260606",
+    "num_channels": "260607",
     "postion": 160
   },
   {
     "satellite_name": "Hotbird-13F-13G",
     "degree": "13.0° E",
-    "num_channels": "260606",
+    "num_channels": "260607",
     "postion": 130
   },
   {
     "satellite_name": "Eutelsat-10B",
     "degree": "10.0° E",
-    "num_channels": "260525",
+    "num_channels": "260607",
     "postion": 100
   },
   {
@@ -998,7 +998,7 @@
   {
     "satellite_name": "BulgariaSat-1",
     "degree": "1.9° E",
-    "num_channels": "260508",
+    "num_channels": "260607",
     "postion": 19
   }
 ]
