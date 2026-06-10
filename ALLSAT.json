@@ -518,7 +518,7 @@
   {
     "satellite_name": "Vinasat-1-2",
     "degree": "131.9° E",
-    "num_channels": "260420",
+    "num_channels": "260608",
     "postion": 1319
   },
   {
@@ -548,7 +548,7 @@
   {
     "satellite_name": "JCSAT-4B",
     "degree": "124.0° E",
-    "num_channels": "260529",
+    "num_channels": "260608",
     "postion": 1240
   },
   {
@@ -812,7 +812,7 @@
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
-    "num_channels": "260606",
+    "num_channels": "260608",
     "postion": 520
   },
   {
@@ -872,7 +872,7 @@
   {
     "satellite_name": "Paksat-1R-MM1",
     "degree": "38.1° E",
-    "num_channels": "260525",
+    "num_channels": "260608",
     "postion": 381
   },
   {
@@ -889,9 +889,9 @@
   },
   {
     "satellite_name": "Amos-3",
-    "degree": "31.5° E",
+    "degree": "33.0° E",
     "num_channels": "260331",
-    "postion": 315
+    "postion": 330
   },
   {
     "satellite_name": "Turksat-5A",
@@ -920,7 +920,7 @@
   {
     "satellite_name": "Eshail-1",
     "degree": "25.5° E",
-    "num_channels": "260606",
+    "num_channels": "260608",
     "postion": 255
   },
   {
@@ -944,7 +944,7 @@
   {
     "satellite_name": "Astra-1N-1P",
     "degree": "19.2° E",
-    "num_channels": "260606",
+    "num_channels": "260608",
     "postion": 192
   },
   {
