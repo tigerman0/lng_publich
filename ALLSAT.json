@@ -8,7 +8,7 @@
   {
     "satellite_name": "ABS-3A",
     "degree": "3.0° W",
-    "num_channels": "260504",
+    "num_channels": "260609",
     "postion": -30
   },
   {
@@ -26,13 +26,13 @@
   {
     "satellite_name": "Nilesat-201-301-and-Eutelsat-7-West-A",
     "degree": "7.1° W",
-    "num_channels": "260603",
+    "num_channels": "260609",
     "postion": -71
   },
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
-    "num_channels": "260607",
+    "num_channels": "260609",
     "postion": -80
   },
   {
@@ -146,7 +146,7 @@
   {
     "satellite_name": "Amazonas-3-5-Nexus",
     "degree": "61.0° W",
-    "num_channels": "260214",
+    "num_channels": "260609",
     "postion": -610
   },
   {
@@ -584,7 +584,7 @@
   {
     "satellite_name": "ChinaSat-6E",
     "degree": "115.5° E",
-    "num_channels": "260502",
+    "num_channels": "260609",
     "postion": 1155
   },
   {
@@ -668,7 +668,7 @@
   {
     "satellite_name": "ChinaSat-9C",
     "degree": "92.2° E",
-    "num_channels": "260425",
+    "num_channels": "260609",
     "postion": 922
   },
   {
@@ -716,7 +716,7 @@
   {
     "satellite_name": "Thaicom-6-8",
     "degree": "78.5° E",
-    "num_channels": "260530",
+    "num_channels": "260609",
     "postion": 785
   },
   {
@@ -788,7 +788,7 @@
   {
     "satellite_name": "Express-AT2",
     "degree": "56.0° E",
-    "num_channels": "260606",
+    "num_channels": "260609",
     "postion": 560
   },
   {
@@ -806,13 +806,13 @@
   {
     "satellite_name": "Al-Yah-1",
     "degree": "52.5° E",
-    "num_channels": "260607",
+    "num_channels": "260609",
     "postion": 525
   },
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
-    "num_channels": "260608",
+    "num_channels": "260609",
     "postion": 520
   },
   {
@@ -878,7 +878,7 @@
   {
     "satellite_name": "Eutelsat-36D-and-Express-AMU1",
     "degree": "36.0° E",
-    "num_channels": "260421",
+    "num_channels": "260609",
     "postion": 360
   },
   {
@@ -926,7 +926,7 @@
   {
     "satellite_name": "Astra-3C",
     "degree": "23.5° E",
-    "num_channels": "260606",
+    "num_channels": "260609",
     "postion": 235
   },
   {
@@ -962,7 +962,7 @@
   {
     "satellite_name": "Hotbird-13F-13G",
     "degree": "13.0° E",
-    "num_channels": "260607",
+    "num_channels": "260609",
     "postion": 130
   },
   {
