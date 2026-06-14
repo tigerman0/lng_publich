@@ -32,7 +32,7 @@
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
-    "num_channels": "260611",
+    "num_channels": "260612",
     "postion": -80
   },
   {
@@ -554,7 +554,7 @@
   {
     "satellite_name": "AsiaSat-9",
     "degree": "122.0° E",
-    "num_channels": "260610",
+    "num_channels": "260612",
     "postion": 1220
   },
   {
@@ -674,7 +674,7 @@
   {
     "satellite_name": "Measat-3b-3d",
     "degree": "91.5° E",
-    "num_channels": "260611",
+    "num_channels": "260612",
     "postion": 915
   },
   {
@@ -788,7 +788,7 @@
   {
     "satellite_name": "Express-AT2",
     "degree": "56.0° E",
-    "num_channels": "260611",
+    "num_channels": "260612",
     "postion": 560
   },
   {
@@ -812,7 +812,7 @@
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
-    "num_channels": "260611",
+    "num_channels": "260612",
     "postion": 520
   },
   {
@@ -842,7 +842,7 @@
   {
     "satellite_name": "Cosmos-2520-and-Azerspace-2-Intelsat-38",
     "degree": "45.1° E",
-    "num_channels": "260603",
+    "num_channels": "260612",
     "postion": 451
   },
   {
@@ -883,9 +883,9 @@
   },
   {
     "satellite_name": "Amos-3",
-    "degree": "35.0° E",
+    "degree": "35.5° E",
     "num_channels": "260331",
-    "postion": 350
+    "postion": 355
   },
   {
     "satellite_name": "Eutelsat-33F",
@@ -902,7 +902,7 @@
   {
     "satellite_name": "Arabsat-5A-6A",
     "degree": "30.5° E",
-    "num_channels": "260611",
+    "num_channels": "260612",
     "postion": 305
   },
   {
@@ -962,13 +962,13 @@
   {
     "satellite_name": "Hotbird-13F-13G",
     "degree": "13.0° E",
-    "num_channels": "260610",
+    "num_channels": "260612",
     "postion": 130
   },
   {
     "satellite_name": "Eutelsat-10B",
     "degree": "10.0° E",
-    "num_channels": "260607",
+    "num_channels": "260612",
     "postion": 100
   },
   {
@@ -980,7 +980,7 @@
   {
     "satellite_name": "Eutelsat-7B-7C",
     "degree": "7.0° E",
-    "num_channels": "260530",
+    "num_channels": "260612",
     "postion": 70
   },
   {
