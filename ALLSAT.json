@@ -812,7 +812,7 @@
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
-    "num_channels": "260613",
+    "num_channels": "260614",
     "postion": 520
   },
   {
@@ -860,7 +860,7 @@
   {
     "satellite_name": "Express-AM7",
     "degree": "40.0° E",
-    "num_channels": "260610",
+    "num_channels": "260614",
     "postion": 400
   },
   {
@@ -980,7 +980,7 @@
   {
     "satellite_name": "Eutelsat-7B-7C",
     "degree": "7.0° E",
-    "num_channels": "260613",
+    "num_channels": "260614",
     "postion": 70
   },
   {
