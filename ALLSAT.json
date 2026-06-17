@@ -110,7 +110,7 @@
   {
     "satellite_name": "Sky-Brasil-1",
     "degree": "43.1° W",
-    "num_channels": "260424",
+    "num_channels": "260615",
     "postion": -431
   },
   {
@@ -674,7 +674,7 @@
   {
     "satellite_name": "Measat-3b-3d",
     "degree": "91.5° E",
-    "num_channels": "260612",
+    "num_channels": "260615",
     "postion": 915
   },
   {
@@ -806,13 +806,13 @@
   {
     "satellite_name": "Al-Yah-1",
     "degree": "52.5° E",
-    "num_channels": "260611",
+    "num_channels": "260615",
     "postion": 525
   },
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
-    "num_channels": "260614",
+    "num_channels": "260615",
     "postion": 520
   },
   {
@@ -836,7 +836,7 @@
   {
     "satellite_name": "Azerspace-1",
     "degree": "46.0° E",
-    "num_channels": "260529",
+    "num_channels": "260615",
     "postion": 460
   },
   {
@@ -866,7 +866,7 @@
   {
     "satellite_name": "Hellas-Sat-3-4",
     "degree": "39.0° E",
-    "num_channels": "260606",
+    "num_channels": "260615",
     "postion": 390
   },
   {
@@ -877,9 +877,9 @@
   },
   {
     "satellite_name": "Amos-3",
-    "degree": "36.5° E",
+    "degree": "38.0° E",
     "num_channels": "260331",
-    "postion": 365
+    "postion": 380
   },
   {
     "satellite_name": "Eutelsat-36D-and-Express-AMU1",
@@ -950,7 +950,7 @@
   {
     "satellite_name": "Amos-17",
     "degree": "17.0° E",
-    "num_channels": "260518",
+    "num_channels": "260615",
     "postion": 170
   },
   {
@@ -962,7 +962,7 @@
   {
     "satellite_name": "Hotbird-13F-13G",
     "degree": "13.0° E",
-    "num_channels": "260613",
+    "num_channels": "260615",
     "postion": 130
   },
   {
