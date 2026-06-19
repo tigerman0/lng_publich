@@ -32,7 +32,7 @@
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
-    "num_channels": "260616",
+    "num_channels": "260617",
     "postion": -80
   },
   {
@@ -44,7 +44,7 @@
   {
     "satellite_name": "Express-AM8",
     "degree": "14.0° W",
-    "num_channels": "260520",
+    "num_channels": "260617",
     "postion": -140
   },
   {
@@ -182,7 +182,7 @@
   {
     "satellite_name": "Arsat-1",
     "degree": "71.8° W",
-    "num_channels": "260521",
+    "num_channels": "260617",
     "postion": -718
   },
   {
@@ -542,7 +542,7 @@
   {
     "satellite_name": "ChinaSat-6D",
     "degree": "125.0° E",
-    "num_channels": "260416",
+    "num_channels": "260617",
     "postion": 1250
   },
   {
@@ -584,7 +584,7 @@
   {
     "satellite_name": "ChinaSat-6E",
     "degree": "115.5° E",
-    "num_channels": "260609",
+    "num_channels": "260617",
     "postion": 1155
   },
   {
@@ -668,7 +668,7 @@
   {
     "satellite_name": "ChinaSat-9C",
     "degree": "92.2° E",
-    "num_channels": "260609",
+    "num_channels": "260617",
     "postion": 922
   },
   {
@@ -710,7 +710,7 @@
   {
     "satellite_name": "Express-80",
     "degree": "80.0° E",
-    "num_channels": "260604",
+    "num_channels": "260617",
     "postion": 800
   },
   {
@@ -864,6 +864,12 @@
     "postion": 400
   },
   {
+    "satellite_name": "Amos-3",
+    "degree": "39.5° E",
+    "num_channels": "260331",
+    "postion": 395
+  },
+  {
     "satellite_name": "Hellas-Sat-3-4",
     "degree": "39.0° E",
     "num_channels": "260615",
@@ -874,12 +880,6 @@
     "degree": "38.1° E",
     "num_channels": "260608",
     "postion": 381
-  },
-  {
-    "satellite_name": "Amos-3",
-    "degree": "38.0° E",
-    "num_channels": "260331",
-    "postion": 380
   },
   {
     "satellite_name": "Eutelsat-36D-and-Express-AMU1",
@@ -932,7 +932,7 @@
   {
     "satellite_name": "Eutelsat-21B",
     "degree": "21.5° E",
-    "num_channels": "260613",
+    "num_channels": "260617",
     "postion": 215
   },
   {
@@ -950,13 +950,13 @@
   {
     "satellite_name": "Amos-17",
     "degree": "17.0° E",
-    "num_channels": "260615",
+    "num_channels": "260617",
     "postion": 170
   },
   {
     "satellite_name": "Eutelsat-16A",
     "degree": "16.0° E",
-    "num_channels": "260616",
+    "num_channels": "260617",
     "postion": 160
   },
   {
@@ -998,7 +998,7 @@
   {
     "satellite_name": "BulgariaSat-1",
     "degree": "1.9° E",
-    "num_channels": "260607",
+    "num_channels": "260617",
     "postion": 19
   }
 ]
