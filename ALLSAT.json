@@ -32,7 +32,7 @@
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
-    "num_channels": "260617",
+    "num_channels": "260620",
     "postion": -80
   },
   {
@@ -656,7 +656,7 @@
   {
     "satellite_name": "SES-8",
     "degree": "95.0° E",
-    "num_channels": "260619",
+    "num_channels": "260620",
     "postion": 950
   },
   {
@@ -716,7 +716,7 @@
   {
     "satellite_name": "Thaicom-6-8",
     "degree": "78.5° E",
-    "num_channels": "260611",
+    "num_channels": "260620",
     "postion": 785
   },
   {
@@ -764,13 +764,13 @@
   {
     "satellite_name": "Amos-4",
     "degree": "65.0° E",
-    "num_channels": "260619",
+    "num_channels": "260620",
     "postion": 650
   },
   {
     "satellite_name": "Intelsat-39",
     "degree": "62.0° E",
-    "num_channels": "260605",
+    "num_channels": "260620",
     "postion": 620
   },
   {
@@ -812,7 +812,7 @@
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
-    "num_channels": "260619",
+    "num_channels": "260620",
     "postion": 520
   },
   {
@@ -962,7 +962,7 @@
   {
     "satellite_name": "Hotbird-13F-13G",
     "degree": "13.0° E",
-    "num_channels": "260616",
+    "num_channels": "260620",
     "postion": 130
   },
   {
