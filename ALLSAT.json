@@ -80,7 +80,7 @@
   {
     "satellite_name": "Intelsat-35e",
     "degree": "34.5° W",
-    "num_channels": "260619",
+    "num_channels": "260621",
     "postion": -345
   },
   {
@@ -548,13 +548,13 @@
   {
     "satellite_name": "JCSAT-4B",
     "degree": "124.0° E",
-    "num_channels": "260608",
+    "num_channels": "260621",
     "postion": 1240
   },
   {
     "satellite_name": "AsiaSat-9",
     "degree": "122.0° E",
-    "num_channels": "260616",
+    "num_channels": "260621",
     "postion": 1220
   },
   {
@@ -602,7 +602,7 @@
   {
     "satellite_name": "SES-7-9-and-Merah-Putih",
     "degree": "108.1° E",
-    "num_channels": "260602",
+    "num_channels": "260621",
     "postion": 1081
   },
   {
@@ -716,7 +716,7 @@
   {
     "satellite_name": "Thaicom-6-8",
     "degree": "78.5° E",
-    "num_channels": "260620",
+    "num_channels": "260621",
     "postion": 785
   },
   {
@@ -806,13 +806,13 @@
   {
     "satellite_name": "Al-Yah-1",
     "degree": "52.5° E",
-    "num_channels": "260616",
+    "num_channels": "260621",
     "postion": 525
   },
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
-    "num_channels": "260620",
+    "num_channels": "260621",
     "postion": 520
   },
   {
