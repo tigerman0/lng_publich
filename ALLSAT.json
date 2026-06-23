@@ -148,5 +148,857 @@
     "degree": "61.0° W",
     "postion": -610,
     "num_channels": "260609"
+  },
+  {
+    "satellite_name": "EchoStar-16",
+    "degree": "61.5° W",
+    "postion": -615,
+    "num_channels": "260112"
+  },
+  {
+    "satellite_name": "Telstar-14R",
+    "degree": "63.0° W",
+    "postion": -630,
+    "num_channels": "250712"
+  },
+  {
+    "satellite_name": "Eutelsat-65-West-A",
+    "degree": "65.2° W",
+    "postion": -652,
+    "num_channels": "260510"
+  },
+  {
+    "satellite_name": "SES-10",
+    "degree": "67.0° W",
+    "postion": -670,
+    "num_channels": "260619"
+  },
+  {
+    "satellite_name": "Star-One-C4-D2",
+    "degree": "70.0° W",
+    "postion": -700,
+    "num_channels": "260525"
+  },
+  {
+    "satellite_name": "Arsat-1",
+    "degree": "71.8° W",
+    "postion": -718,
+    "num_channels": "260617"
+  },
+  {
+    "satellite_name": "Amazonas-2",
+    "degree": "72.0° W",
+    "postion": -720,
+    "num_channels": "260523"
+  },
+  {
+    "satellite_name": "Nimiq-5",
+    "degree": "72.7° W",
+    "postion": -727,
+    "num_channels": "251231"
+  },
+  {
+    "satellite_name": "Hispasat-74W-1",
+    "degree": "73.9° W",
+    "postion": -739,
+    "num_channels": "260613"
+  },
+  {
+    "satellite_name": "Star-One-C3",
+    "degree": "75.0° W",
+    "postion": -750,
+    "num_channels": "260502"
+  },
+  {
+    "satellite_name": "QuetzSat-1",
+    "degree": "77.0° W",
+    "postion": -770,
+    "num_channels": "260102"
+  },
+  {
+    "satellite_name": "Sky-Mexico-1",
+    "degree": "78.8° W",
+    "postion": -788,
+    "num_channels": "260105"
+  },
+  {
+    "satellite_name": "Arsat-2",
+    "degree": "81.0° W",
+    "postion": -810,
+    "num_channels": "260618"
+  },
+  {
+    "satellite_name": "Star-One-D1",
+    "degree": "84.0° W",
+    "postion": -840,
+    "num_channels": "260606"
+  },
+  {
+    "satellite_name": "SiriusXM-8-9",
+    "degree": "85.0° W",
+    "postion": -850,
+    "num_channels": "260205"
+  },
+  {
+    "satellite_name": "SES-2-and-TKSat-1",
+    "degree": "87.1° W",
+    "postion": -871,
+    "num_channels": "260523"
+  },
+  {
+    "satellite_name": "Galaxy-36",
+    "degree": "89.0° W",
+    "postion": -890,
+    "num_channels": "250817"
+  },
+  {
+    "satellite_name": "Galaxy-32-and-Nimiq-6",
+    "degree": "91.0° W",
+    "postion": -910,
+    "num_channels": "250802"
+  },
+  {
+    "satellite_name": "Galaxy-35",
+    "degree": "93.1° W",
+    "postion": -931,
+    "num_channels": "260412"
+  },
+  {
+    "satellite_name": "Galaxy-3C-and-Intelsat-30-31",
+    "degree": "95.1° W",
+    "postion": -951,
+    "num_channels": "220108"
+  },
+  {
+    "satellite_name": "Galaxy-19",
+    "degree": "97.0° W",
+    "postion": -970,
+    "num_channels": "260616"
+  },
+  {
+    "satellite_name": "Galaxy-16-and-T11-T14",
+    "degree": "99.1° W",
+    "postion": -991,
+    "num_channels": "260506"
+  },
+  {
+    "satellite_name": "T9S-T16-and-SES-1",
+    "degree": "101.0° W",
+    "postion": -1010,
+    "num_channels": "200711"
+  },
+  {
+    "satellite_name": "T12-and-SES-18",
+    "degree": "103.0° W",
+    "postion": -1030,
+    "num_channels": "180927"
+  },
+  {
+    "satellite_name": "SES-3",
+    "degree": "103.0° W",
+    "postion": -1030,
+    "num_channels": "201105"
+  },
+  {
+    "satellite_name": "EchoStar-105-SES-11",
+    "degree": "105.0° W",
+    "postion": -1050,
+    "num_channels": "260509"
+  },
+  {
+    "satellite_name": "Anik-F1R-G1",
+    "degree": "107.3° W",
+    "postion": -1073,
+    "num_channels": "260328"
+  },
+  {
+    "satellite_name": "T5-and-EchoStar-10-11",
+    "degree": "110.0° W",
+    "postion": -1100,
+    "num_channels": "100331"
+  },
+  {
+    "satellite_name": "Anik-F2",
+    "degree": "111.1° W",
+    "postion": -1111,
+    "num_channels": "060331"
+  },
+  {
+    "satellite_name": "Eutelsat-115-West-B",
+    "degree": "114.9° W",
+    "postion": -1149,
+    "num_channels": "251124"
+  },
+  {
+    "satellite_name": "SiriusXM-5-10",
+    "degree": "115.7° W",
+    "postion": -1157,
+    "num_channels": "260205"
+  },
+  {
+    "satellite_name": "Eutelsat-117-West-A-B",
+    "degree": "116.9° W",
+    "postion": -1169,
+    "num_channels": "260613"
+  },
+  {
+    "satellite_name": "Anik-F3-and-T8-and-EchoStar-14",
+    "degree": "119.0° W",
+    "postion": -1190,
+    "num_channels": "240922"
+  },
+  {
+    "satellite_name": "Galaxy-31",
+    "degree": "121.0° W",
+    "postion": -1210,
+    "num_channels": "260125"
+  },
+  {
+    "satellite_name": "Galaxy-18",
+    "degree": "123.0° W",
+    "postion": -1230,
+    "num_channels": "260511"
+  },
+  {
+    "satellite_name": "Galaxy-30",
+    "degree": "125.0° W",
+    "postion": -1250,
+    "num_channels": "241105"
+  },
+  {
+    "satellite_name": "Galaxy-37-Horizons-4",
+    "degree": "127.0° W",
+    "postion": -1270,
+    "num_channels": "260415"
+  },
+  {
+    "satellite_name": "SES-21",
+    "degree": "131.0° W",
+    "postion": -1310,
+    "num_channels": "260316"
+  },
+  {
+    "satellite_name": "Galaxy-33",
+    "degree": "133.0° W",
+    "postion": -1330,
+    "num_channels": "260306"
+  },
+  {
+    "satellite_name": "SES-19",
+    "degree": "135.0° W",
+    "postion": -1350,
+    "num_channels": "260327"
+  },
+  {
+    "satellite_name": "SES-22",
+    "degree": "139.0° W",
+    "postion": -1390,
+    "num_channels": "240424"
+  },
+  {
+    "satellite_name": "NSS-9",
+    "degree": "177.0° W",
+    "postion": -1770,
+    "num_channels": "190104"
+  },
+  {
+    "satellite_name": "Intelsat-18",
+    "degree": "180.0° E",
+    "postion": 1800,
+    "num_channels": "260605"
+  },
+  {
+    "satellite_name": "Eutelsat-172B",
+    "degree": "172.0° E",
+    "postion": 1720,
+    "num_channels": "260411"
+  },
+  {
+    "satellite_name": "Horizons-3e",
+    "degree": "169.0° E",
+    "postion": 1690,
+    "num_channels": "260501"
+  },
+  {
+    "satellite_name": "Intelsat-19",
+    "degree": "166.0° E",
+    "postion": 1660,
+    "num_channels": "260602"
+  },
+  {
+    "satellite_name": "Superbird-B3",
+    "degree": "162.0° E",
+    "postion": 1620,
+    "num_channels": "250821"
+  },
+  {
+    "satellite_name": "Measat-3a-and-Koreasat-6",
+    "degree": "160.0° E",
+    "postion": 1600,
+    "num_channels": "250201"
+  },
+  {
+    "satellite_name": "ABS-6",
+    "degree": "159.0° E",
+    "postion": 1590,
+    "num_channels": "250102"
+  },
+  {
+    "satellite_name": "Optus-D3",
+    "degree": "156.0° E",
+    "postion": 1560,
+    "num_channels": "260515"
+  },
+  {
+    "satellite_name": "Optus-10",
+    "degree": "156.0° E",
+    "postion": 1560,
+    "num_channels": "260527"
+  },
+  {
+    "satellite_name": "JCSAT-2B",
+    "degree": "154.0° E",
+    "postion": 1540,
+    "num_channels": "260526"
+  },
+  {
+    "satellite_name": "Optus-D1",
+    "degree": "152.0° E",
+    "postion": 1520,
+    "num_channels": "251116"
+  },
+  {
+    "satellite_name": "BRIsat",
+    "degree": "150.5° E",
+    "postion": 1505,
+    "num_channels": "240304"
+  },
+  {
+    "satellite_name": "Nusantara-Satu",
+    "degree": "146.0° E",
+    "postion": 1460,
+    "num_channels": "260511"
+  },
+  {
+    "satellite_name": "Express-AMU7",
+    "degree": "145.0° E",
+    "postion": 1450,
+    "num_channels": "241006"
+  },
+  {
+    "satellite_name": "JCSAT-144C",
+    "degree": "144.0° E",
+    "postion": 1440,
+    "num_channels": "260420"
+  },
+  {
+    "satellite_name": "Apstar-9",
+    "degree": "142.0° E",
+    "postion": 1420,
+    "num_channels": "260412"
+  },
+  {
+    "satellite_name": "Express-AM5",
+    "degree": "140.0° E",
+    "postion": 1400,
+    "num_channels": "260503"
+  },
+  {
+    "satellite_name": "Telstar-18-Vantage",
+    "degree": "138.0° E",
+    "postion": 1380,
+    "num_channels": "260619"
+  },
+  {
+    "satellite_name": "Apstar-6C",
+    "degree": "134.0° E",
+    "postion": 1340,
+    "num_channels": "260517"
+  },
+  {
+    "satellite_name": "Vinasat-1-2",
+    "degree": "131.9° E",
+    "postion": 1319,
+    "num_channels": "260608"
+  },
+  {
+    "satellite_name": "ChinaSat-6C",
+    "degree": "130.5° E",
+    "postion": 1305,
+    "num_channels": "260303"
+  },
+  {
+    "satellite_name": "LaoSat-1",
+    "degree": "128.5° E",
+    "postion": 1285,
+    "num_channels": "260607"
+  },
+  {
+    "satellite_name": "JCSAT-3A",
+    "degree": "128.0° E",
+    "postion": 1280,
+    "num_channels": "260415"
+  },
+  {
+    "satellite_name": "ChinaSat-6D",
+    "degree": "125.0° E",
+    "postion": 1250,
+    "num_channels": "260617"
+  },
+  {
+    "satellite_name": "JCSAT-4B",
+    "degree": "124.0° E",
+    "postion": 1240,
+    "num_channels": "260621"
+  },
+  {
+    "satellite_name": "AsiaSat-9",
+    "degree": "122.0° E",
+    "postion": 1220,
+    "num_channels": "260621"
+  },
+  {
+    "satellite_name": "AsiaSat-6-Thaicom-7",
+    "degree": "120.0° E",
+    "postion": 1200,
+    "num_channels": "260407"
+  },
+  {
+    "satellite_name": "Thaicom-4-and-Bangladesh-1",
+    "degree": "119.3° E",
+    "postion": 1193,
+    "num_channels": "201119"
+  },
+  {
+    "satellite_name": "Telkom-3S",
+    "degree": "118.0° E",
+    "postion": 1180,
+    "num_channels": "250424"
+  },
+  {
+    "satellite_name": "Koreasat-6A-7",
+    "degree": "116.0° E",
+    "postion": 1160,
+    "num_channels": "260130"
+  },
+  {
+    "satellite_name": "ChinaSat-6E",
+    "degree": "115.5° E",
+    "postion": 1155,
+    "num_channels": "260617"
+  },
+  {
+    "satellite_name": "Koreasat-5A",
+    "degree": "113.0° E",
+    "postion": 1130,
+    "num_channels": "260518"
+  },
+  {
+    "satellite_name": "BSAT-3C-JCSAT-110R-and-JCSAT-110A-and-BSAT-4A",
+    "degree": "110.0° E",
+    "postion": 1100,
+    "num_channels": "250717"
+  },
+  {
+    "satellite_name": "SES-7-9-and-Merah-Putih",
+    "degree": "108.1° E",
+    "postion": 1081,
+    "num_channels": "260621"
+  },
+  {
+    "satellite_name": "AsiaSat-7",
+    "degree": "105.5° E",
+    "postion": 1055,
+    "num_channels": "260522"
+  },
+  {
+    "satellite_name": "AsiaSat-8",
+    "degree": "105.3° E",
+    "postion": 1053,
+    "num_channels": "260407"
+  },
+  {
+    "satellite_name": "Express-AMU3",
+    "degree": "103.0° E",
+    "postion": 1030,
+    "num_channels": "260502"
+  },
+  {
+    "satellite_name": "ChinaSat-9B",
+    "degree": "101.4° E",
+    "postion": 1014,
+    "num_channels": "251224"
+  },
+  {
+    "satellite_name": "AsiaSat-5",
+    "degree": "100.5° E",
+    "postion": 1005,
+    "num_channels": "260611"
+  },
+  {
+    "satellite_name": "ChinaSat-11",
+    "degree": "98.0° E",
+    "postion": 980,
+    "num_channels": "260527"
+  },
+  {
+    "satellite_name": "G-Sat-9",
+    "degree": "97.3° E",
+    "postion": 973,
+    "num_channels": "260426"
+  },
+  {
+    "satellite_name": "Express-103",
+    "degree": "96.5° E",
+    "postion": 965,
+    "num_channels": "260503"
+  },
+  {
+    "satellite_name": "SES-8-12",
+    "degree": "95.0° E",
+    "postion": 950,
+    "num_channels": "260620"
+  },
+  {
+    "satellite_name": "G-Sat-15-17",
+    "degree": "93.5° E",
+    "postion": 935,
+    "num_channels": "260619"
+  },
+  {
+    "satellite_name": "ChinaSat-9C",
+    "degree": "92.2° E",
+    "postion": 922,
+    "num_channels": "260617"
+  },
+  {
+    "satellite_name": "Measat-3b-3d",
+    "degree": "91.5° E",
+    "postion": 915,
+    "num_channels": "260618"
+  },
+  {
+    "satellite_name": "Yamal-401",
+    "degree": "90.0° E",
+    "postion": 900,
+    "num_channels": "260526"
+  },
+  {
+    "satellite_name": "ST-2",
+    "degree": "88.0° E",
+    "postion": 880,
+    "num_channels": "260613"
+  },
+  {
+    "satellite_name": "ChinaSat-12",
+    "degree": "87.5° E",
+    "postion": 875,
+    "num_channels": "220729"
+  },
+  {
+    "satellite_name": "KazSat-2",
+    "degree": "86.5° E",
+    "postion": 865,
+    "num_channels": "260107"
+  },
+  {
+    "satellite_name": "G-Sat-10-24-30",
+    "degree": "83.0° E",
+    "postion": 830,
+    "num_channels": "260606"
+  },
+  {
+    "satellite_name": "Express-80",
+    "degree": "80.0° E",
+    "postion": 800,
+    "num_channels": "260619"
+  },
+  {
+    "satellite_name": "Thaicom-6-8",
+    "degree": "78.5° E",
+    "postion": 785,
+    "num_channels": "260621"
+  },
+  {
+    "satellite_name": "Apstar-7",
+    "degree": "76.5° E",
+    "postion": 765,
+    "num_channels": "260606"
+  },
+  {
+    "satellite_name": "ABS-2-2A",
+    "degree": "75.0° E",
+    "postion": 750,
+    "num_channels": "260522"
+  },
+  {
+    "satellite_name": "G-Sat-18",
+    "degree": "74.0° E",
+    "postion": 740,
+    "num_channels": "251111"
+  },
+  {
+    "satellite_name": "Intelsat-22",
+    "degree": "72.1° E",
+    "postion": 721,
+    "num_channels": "260418"
+  },
+  {
+    "satellite_name": "Eutelsat-70B",
+    "degree": "70.5° E",
+    "postion": 705,
+    "num_channels": "260605"
+  },
+  {
+    "satellite_name": "Intelsat-20-36",
+    "degree": "68.5° E",
+    "postion": 685,
+    "num_channels": "260616"
+  },
+  {
+    "satellite_name": "Intelsat-17",
+    "degree": "66.0° E",
+    "postion": 660,
+    "num_channels": "260527"
+  },
+  {
+    "satellite_name": "Amos-4",
+    "degree": "65.0° E",
+    "postion": 650,
+    "num_channels": "260620"
+  },
+  {
+    "satellite_name": "Intelsat-39",
+    "degree": "62.0° E",
+    "postion": 620,
+    "num_channels": "260620"
+  },
+  {
+    "satellite_name": "KazSat-3",
+    "degree": "58.5° E",
+    "postion": 585,
+    "num_channels": "260605"
+  },
+  {
+    "satellite_name": "NSS-12",
+    "degree": "57.0° E",
+    "postion": 570,
+    "num_channels": "260607"
+  },
+  {
+    "satellite_name": "Express-AT2",
+    "degree": "56.0° E",
+    "postion": 560,
+    "num_channels": "260622"
+  },
+  {
+    "satellite_name": "G-Sat-16-and-Yamal-402",
+    "degree": "54.9° E",
+    "postion": 549,
+    "num_channels": "260311"
+  },
+  {
+    "satellite_name": "Express-AM6",
+    "degree": "53.0° E",
+    "postion": 530,
+    "num_channels": "260619"
+  },
+  {
+    "satellite_name": "Al-Yah-1",
+    "degree": "52.5° E",
+    "postion": 525,
+    "num_channels": "260621"
+  },
+  {
+    "satellite_name": "TurkmenAlem-MonacoSat",
+    "degree": "52.0° E",
+    "postion": 520,
+    "num_channels": "260622"
+  },
+  {
+    "satellite_name": "Belintersat-1",
+    "degree": "51.5° E",
+    "postion": 515,
+    "num_channels": "260525"
+  },
+  {
+    "satellite_name": "Turksat-4B",
+    "degree": "50.0° E",
+    "postion": 500,
+    "num_channels": "250623"
+  },
+  {
+    "satellite_name": "Yamal-601",
+    "degree": "49.0° E",
+    "postion": 490,
+    "num_channels": "260421"
+  },
+  {
+    "satellite_name": "Azerspace-1",
+    "degree": "46.0° E",
+    "postion": 460,
+    "num_channels": "260615"
+  },
+  {
+    "satellite_name": "Cosmos-2520-and-Azerspace-2-Intelsat-38",
+    "degree": "45.1° E",
+    "postion": 451,
+    "num_channels": "260619"
+  },
+  {
+    "satellite_name": "Amos-3",
+    "degree": "43.0° E",
+    "postion": 430,
+    "num_channels": "260331"
+  },
+  {
+    "satellite_name": "NigComSat-1R",
+    "degree": "42.5° E",
+    "postion": 425,
+    "num_channels": "240622"
+  },
+  {
+    "satellite_name": "Turksat-3A-4A-5B-6A",
+    "degree": "42.0° E",
+    "postion": 420,
+    "num_channels": "260604"
+  },
+  {
+    "satellite_name": "Express-AM7",
+    "degree": "40.0° E",
+    "postion": 400,
+    "num_channels": "260619"
+  },
+  {
+    "satellite_name": "Hellas-Sat-3-4",
+    "degree": "39.0° E",
+    "postion": 390,
+    "num_channels": "260615"
+  },
+  {
+    "satellite_name": "Paksat-1R-MM1",
+    "degree": "38.1° E",
+    "postion": 381,
+    "num_channels": "260608"
+  },
+  {
+    "satellite_name": "Eutelsat-36D-and-Express-AMU1",
+    "degree": "36.0° E",
+    "postion": 360,
+    "num_channels": "260622"
+  },
+  {
+    "satellite_name": "Eutelsat-33F",
+    "degree": "33.0° E",
+    "postion": 330,
+    "num_channels": "250928"
+  },
+  {
+    "satellite_name": "Turksat-5A",
+    "degree": "31.0° E",
+    "postion": 310,
+    "num_channels": "260522"
+  },
+  {
+    "satellite_name": "Arabsat-5A-6A",
+    "degree": "30.5° E",
+    "postion": 305,
+    "num_channels": "260612"
+  },
+  {
+    "satellite_name": "Astra-2E-2F-2G",
+    "degree": "28.3° E",
+    "postion": 283,
+    "num_channels": "260512"
+  },
+  {
+    "satellite_name": "Badr-7-8-and-Eshail-2",
+    "degree": "26.0° E",
+    "postion": 260,
+    "num_channels": "260606"
+  },
+  {
+    "satellite_name": "Eshail-1",
+    "degree": "25.5° E",
+    "postion": 255,
+    "num_channels": "260611"
+  },
+  {
+    "satellite_name": "Astra-3C",
+    "degree": "23.5° E",
+    "postion": 235,
+    "num_channels": "260610"
+  },
+  {
+    "satellite_name": "Eutelsat-21B",
+    "degree": "21.5° E",
+    "postion": 215,
+    "num_channels": "260617"
+  },
+  {
+    "satellite_name": "Arabsat-5C",
+    "degree": "20.0° E",
+    "postion": 200,
+    "num_channels": "260521"
+  },
+  {
+    "satellite_name": "Astra-1N-1P",
+    "degree": "19.2° E",
+    "postion": 192,
+    "num_channels": "260608"
+  },
+  {
+    "satellite_name": "Amos-17",
+    "degree": "17.0° E",
+    "postion": 170,
+    "num_channels": "260617"
+  },
+  {
+    "satellite_name": "Eutelsat-16A",
+    "degree": "16.0° E",
+    "postion": 160,
+    "num_channels": "260619"
+  },
+  {
+    "satellite_name": "Hotbird-13F-13G",
+    "degree": "13.0° E",
+    "postion": 130,
+    "num_channels": "260622"
+  },
+  {
+    "satellite_name": "Eutelsat-10B",
+    "degree": "10.0° E",
+    "postion": 100,
+    "num_channels": "260612"
+  },
+  {
+    "satellite_name": "Eutelsat-9B-and-Ka-Sat-9A",
+    "degree": "9.0° E",
+    "postion": 90,
+    "num_channels": "260122"
+  },
+  {
+    "satellite_name": "Eutelsat-7B-7C",
+    "degree": "7.0° E",
+    "postion": 70,
+    "num_channels": "260614"
+  },
+  {
+    "satellite_name": "Astra-4A-and-SES-5",
+    "degree": "4.9° E",
+    "postion": 49,
+    "num_channels": "260502"
+  },
+  {
+    "satellite_name": "Eutelsat-3B-and-Rascom-QAF-1R",
+    "degree": "3.0° E",
+    "postion": 30,
+    "num_channels": "260610"
+  },
+  {
+    "satellite_name": "BulgariaSat-1",
+    "degree": "1.9° E",
+    "postion": 19,
+    "num_channels": "260617"
   }
 ]
