@@ -1,11 +1,12 @@
 {
-  "extraction_date": "2026-06-23 05:05:17",
+  "extraction_date": "2026-06-23 09:11:09",
   "total_satellites": 167,
   "satellites": [
     {
       "satellite_name": "Thor-5-6-7-and-Intelsat-10-02",
       "degree": "0.8° W",
       "postion": -8,
+      "online_degree": "0.8° W",
       "num_channels": "260419",
       "full_name": "Thor 5/6/7 & Intelsat 10-02 at 0.8°W - LyngSat",
       "last_update": "2026-06-21",
@@ -1152,9 +1153,7 @@
           "system": "DVB-S",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"f28597909f9381869780b29e8b9c95819386dc919d9f\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -1162,6 +1161,7 @@
       "satellite_name": "ABS-3A",
       "degree": "3.0° W",
       "postion": -30,
+      "online_degree": "3.0° W",
       "num_channels": "260611",
       "full_name": "ABS 3A at 3.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -1500,9 +1500,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"4f382a2d222e3c3b2a3d0f233621283c2e3b612c2022\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -1510,6 +1508,7 @@
       "satellite_name": "Dror-1",
       "degree": "4.0° W",
       "postion": -40,
+      "online_degree": "4.0° W",
       "num_channels": "260418",
       "full_name": "Dror 1 at 4.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -1568,9 +1567,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"daadbfb8b7bba9aebfa89ab6a3b4bda9bbaef4b9b5b7\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -1578,6 +1575,7 @@
       "satellite_name": "Eutelsat-5-West-B",
       "degree": "5.0° W",
       "postion": -50,
+      "online_degree": "5.0° W",
       "num_channels": "260527",
       "full_name": "Eutelsat 5 West B at 5.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -2140,16 +2138,16 @@
             "TFX",
             "LCP Assemblée Nationale",
             "Public Sénat",
-            "LCI",
-            "<span class=\"__cf_email__\" data-cfemail=\"7f081a1d121e0c0b1a0d3f130611180c1e0b511c1012\">[email&#160;protected]</span>"
+            "LCI"
           ]
         }
       ]
     },
     {
       "satellite_name": "Nilesat-201-301-and-Eutelsat-7-West-A",
-      "degree": "7.1° W",
-      "postion": -71,
+      "degree": "7.0° W",
+      "postion": -70,
+      "online_degree": "7.1° W",
       "num_channels": "260609",
       "full_name": "Nilesat 201/301 & Eutelsat 7 West A at 7.1°W - LyngSat",
       "last_update": "2026-06-21",
@@ -3335,8 +3333,7 @@
           "modulation": "",
           "pls": "",
           "channels": [
-            "On Sport 1",
-            "<span class=\"__cf_email__\" data-cfemail=\"661103040b0715120314260a1f08011507124805090b\">[email&#160;protected]</span>"
+            "On Sport 1"
           ]
         }
       ]
@@ -3345,6 +3342,7 @@
       "satellite_name": "Eutelsat-8-West-B",
       "degree": "8.0° W",
       "postion": -80,
+      "online_degree": "8.0° W",
       "num_channels": "260620",
       "full_name": "Eutelsat 8 West B at 8.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -4485,9 +4483,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"126577707f7361667760527e6b7c756173663c717d7f\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -4495,6 +4491,7 @@
       "satellite_name": "Express-AM44",
       "degree": "11.0° W",
       "postion": -110,
+      "online_degree": "11.0° W",
       "num_channels": "240727",
       "full_name": "Express AM44 at 11.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -4509,8 +4506,7 @@
           "modulation": "",
           "pls": "",
           "channels": [
-            "Rossiya 24",
-            "<span class=\"__cf_email__\" data-cfemail=\"aaddcfc8c7cbd9decfd8eac6d3c4cdd9cbde84c9c5c7\">[email&#160;protected]</span>"
+            "Rossiya 24"
           ]
         }
       ]
@@ -4519,6 +4515,7 @@
       "satellite_name": "Express-AM8",
       "degree": "14.0° W",
       "postion": -140,
+      "online_degree": "14.0° W",
       "num_channels": "260617",
       "full_name": "Express AM8 at 14.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -4795,9 +4792,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"522537303f3321263720123e2b3c352133267c313d3f\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -4805,6 +4800,7 @@
       "satellite_name": "Telstar-12-Vantage",
       "degree": "15.0° W",
       "postion": -150,
+      "online_degree": "15.0° W",
       "num_channels": "260619",
       "full_name": "Telstar 12 Vantage at 15.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -5002,8 +4998,7 @@
             "CCTV Entertainment",
             "CCTV 4 Europe",
             "National Geographic UK",
-            "MTN Special Events 2",
-            "<span class=\"__cf_email__\" data-cfemail=\"94e3f1f6f9f5e7e0f1e6d4f8edfaf3e7f5e0baf7fbf9\">[email&#160;protected]</span>"
+            "MTN Special Events 2"
           ]
         }
       ]
@@ -5012,6 +5007,7 @@
       "satellite_name": "Intelsat-37e",
       "degree": "18.0° W",
       "postion": -180,
+      "online_degree": "18.0° W",
       "num_channels": "260315",
       "full_name": "Intelsat 37e at 18.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -5193,9 +5189,7 @@
           "system": "DVB-S2",
           "modulation": "QPSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"f78092959a9684839285b79b8e9990849683d994989a\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -5203,6 +5197,7 @@
       "satellite_name": "SES-4",
       "degree": "22.0° W",
       "postion": -220,
+      "online_degree": "22.0° W",
       "num_channels": "260530",
       "full_name": "SES 4 at 22.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -5745,9 +5740,7 @@
           "system": "DVB-S2",
           "modulation": "QPSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"c4b3a1a6a9a5b7b0a1b684a8bdaaa3b7a5b0eaa7aba9\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -5755,6 +5748,7 @@
       "satellite_name": "Alcomsat-1",
       "degree": "24.8° W",
       "postion": -248,
+      "online_degree": "24.8° W",
       "num_channels": "260208",
       "full_name": "Alcomsat 1 at 24.8°W - LyngSat",
       "last_update": "2026-06-21",
@@ -5832,8 +5826,7 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": [
-            "RASD TV",
-            "<span class=\"__cf_email__\" data-cfemail=\"82f5e7e0efe3f1f6e7f0c2eefbece5f1e3f6ace1edef\">[email&#160;protected]</span>"
+            "RASD TV"
           ]
         }
       ]
@@ -5842,6 +5835,7 @@
       "satellite_name": "Hispasat-30W-5-30W-6",
       "degree": "30.0° W",
       "postion": -300,
+      "online_degree": "30.0° W",
       "num_channels": "260517",
       "full_name": "Hispasat 30W-5/30W-6 at 30.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -6461,9 +6455,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"e29587808f8391968790a28e9b8c85918396cc818d8f\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -6471,6 +6463,7 @@
       "satellite_name": "Intelsat-35e",
       "degree": "34.5° W",
       "postion": -345,
+      "online_degree": "34.5° W",
       "num_channels": "260621",
       "full_name": "Intelsat 35e at 34.5°W - LyngSat",
       "last_update": "2026-06-21",
@@ -6733,9 +6726,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"8afdefe8e7ebf9feeff8cae6f3e4edf9ebfea4e9e5e7\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -6743,6 +6734,7 @@
       "satellite_name": "Hispasat-36W-1",
       "degree": "36.0° W",
       "postion": -360,
+      "online_degree": "36.0° W",
       "num_channels": "240908",
       "full_name": "Hispasat 36W-1 at 36.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -6753,6 +6745,7 @@
       "satellite_name": "NSS-10",
       "degree": "37.4° W",
       "postion": -374,
+      "online_degree": "37.4° W",
       "num_channels": "170724",
       "full_name": "NSS 10 at 37.4°W - LyngSat",
       "last_update": "2026-06-21",
@@ -6803,8 +6796,7 @@
           "modulation": "",
           "pls": "",
           "channels": [
-            "Ant1 Satellite",
-            "<span class=\"__cf_email__\" data-cfemail=\"b4c3d1d6d9d5c7c0d1c6f4d8cddad3c7d5c09ad7dbd9\">[email&#160;protected]</span>"
+            "Ant1 Satellite"
           ]
         }
       ]
@@ -6813,6 +6805,7 @@
       "satellite_name": "Telstar-11N",
       "degree": "37.6° W",
       "postion": -376,
+      "online_degree": "37.6° W",
       "num_channels": "250826",
       "full_name": "Telstar 11N at 37.6°W - LyngSat",
       "last_update": "2026-06-21",
@@ -6827,8 +6820,7 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": [
-            "Reuters Live",
-            "<span class=\"__cf_email__\" data-cfemail=\"463123242b2735322334062a3f28213527326825292b\">[email&#160;protected]</span>"
+            "Reuters Live"
           ]
         }
       ]
@@ -6837,6 +6829,7 @@
       "satellite_name": "SES-6",
       "degree": "40.5° W",
       "postion": -405,
+      "online_degree": "40.5° W",
       "num_channels": "260616",
       "full_name": "SES 6 at 40.5°W - LyngSat",
       "last_update": "2026-06-21",
@@ -7689,9 +7682,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"671002050a0614130215270b1e09001406134904080a\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -7699,6 +7690,7 @@
       "satellite_name": "Sky-Brasil-1",
       "degree": "43.1° W",
       "postion": -431,
+      "online_degree": "43.1° W",
       "num_channels": "260615",
       "full_name": "Sky Brasil 1 at 43.1°W - LyngSat",
       "last_update": "2026-06-21",
@@ -8168,9 +8160,7 @@
           "system": "DVB-S2",
           "modulation": "QPSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"413624232c2032352433012d382f263220356f222e2c\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -8178,6 +8168,7 @@
       "satellite_name": "Intelsat-14",
       "degree": "45.0° W",
       "postion": -450,
+      "online_degree": "45.0° W",
       "num_channels": "260521",
       "full_name": "Intelsat 14 at 45.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -8637,9 +8628,7 @@
           "system": "DVB-S2",
           "modulation": "QPSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"3a4d5f58575b494e5f487a5643545d495b4e14595557\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -8647,6 +8636,7 @@
       "satellite_name": "SES-14",
       "degree": "47.5° W",
       "postion": -475,
+      "online_degree": "47.5° W",
       "num_channels": "260603",
       "full_name": "SES 14 at 47.5°W - LyngSat",
       "last_update": "2026-06-21",
@@ -8819,9 +8809,7 @@
           "system": "",
           "modulation": "16APSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"671002050a0614130215270b1e09001406134904080a\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -8829,6 +8817,7 @@
       "satellite_name": "Intelsat-23",
       "degree": "53.0° W",
       "postion": -530,
+      "online_degree": "53.0° W",
       "num_channels": "260502",
       "full_name": "Intelsat 23 at 53.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -8863,8 +8852,7 @@
           "modulation": "",
           "pls": "",
           "channels": [
-            "Canal 27",
-            "<span class=\"__cf_email__\" data-cfemail=\"4f382a2d222e3c3b2a3d0f233621283c2e3b612c2022\">[email&#160;protected]</span>"
+            "Canal 27"
           ]
         }
       ]
@@ -8873,6 +8861,7 @@
       "satellite_name": "Intelsat-34",
       "degree": "55.5° W",
       "postion": -555,
+      "online_degree": "55.5° W",
       "num_channels": "260517",
       "full_name": "Intelsat 34 at 55.5°W - LyngSat",
       "last_update": "2026-06-21",
@@ -9587,8 +9576,7 @@
             "Las Estrellas Latinoamérica",
             "Tlnovelas América",
             "Univisión Latinoamérica",
-            "TUDN México",
-            "<span class=\"__cf_email__\" data-cfemail=\"8cfbe9eee1edfff8e9fecce0f5e2ebffedf8a2efe3e1\">[email&#160;protected]</span>"
+            "TUDN México"
           ]
         }
       ]
@@ -9597,6 +9585,7 @@
       "satellite_name": "Intelsat-21",
       "degree": "58.0° W",
       "postion": -580,
+      "online_degree": "58.0° W",
       "num_channels": "260613",
       "full_name": "Intelsat 21 at 58.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -10343,8 +10332,7 @@
           "modulation": "",
           "pls": "",
           "channels": [
-            "Sky View",
-            "<span class=\"__cf_email__\" data-cfemail=\"0572606768647671607745697c6b627664712b666a68\">[email&#160;protected]</span>"
+            "Sky View"
           ]
         }
       ]
@@ -10353,6 +10341,7 @@
       "satellite_name": "Amazonas-3-5-Nexus",
       "degree": "61.0° W",
       "postion": -610,
+      "online_degree": "61.0° W",
       "num_channels": "260609",
       "full_name": "Amazonas 3/5/Nexus at 61.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -10685,9 +10674,7 @@
           "system": "DVB-S",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"dfa8babdb2beacabbaad9fb3a6b1b8acbeabf1bcb0b2\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -10695,6 +10682,7 @@
       "satellite_name": "EchoStar-16",
       "degree": "61.5° W",
       "postion": -615,
+      "online_degree": "61.5° W",
       "num_channels": "260112",
       "full_name": "EchoStar 16 at 61.5°W - LyngSat",
       "last_update": "2026-06-21",
@@ -11978,9 +11966,7 @@
           "system": "DVB-S",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"aed9cbccc3cfdddacbdceec2d7c0c9ddcfda80cdc1c3\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -11988,6 +11974,7 @@
       "satellite_name": "Telstar-14R",
       "degree": "63.0° W",
       "postion": -630,
+      "online_degree": "63.0° W",
       "num_channels": "250712",
       "full_name": "Telstar 14R at 63.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -12048,8 +12035,7 @@
             "Unisa 4",
             "Unisa 5",
             "Unisa 6",
-            "Unisa 7",
-            "<span class=\"__cf_email__\" data-cfemail=\"daadbfb8b7bba9aebfa89ab6a3b4bda9bbaef4b9b5b7\">[email&#160;protected]</span>"
+            "Unisa 7"
           ]
         }
       ]
@@ -12058,6 +12044,7 @@
       "satellite_name": "Eutelsat-65-West-A",
       "degree": "65.2° W",
       "postion": -652,
+      "online_degree": "65.2° W",
       "num_channels": "260510",
       "full_name": "Eutelsat 65 West A at 65.2°W - LyngSat",
       "last_update": "2026-06-21",
@@ -12644,8 +12631,7 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": [
-            "TV Mais Conasems",
-            "<span class=\"__cf_email__\" data-cfemail=\"8dfae8efe0ecfef9e8ffcde1f4e3eafeecf9a3eee2e0\">[email&#160;protected]</span>"
+            "TV Mais Conasems"
           ]
         }
       ]
@@ -12654,6 +12640,7 @@
       "satellite_name": "SES-10",
       "degree": "67.0° W",
       "postion": -670,
+      "online_degree": "67.0° W",
       "num_channels": "260619",
       "full_name": "SES 10 at 67.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -12752,9 +12739,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"98effdfaf5f9ebecfdead8f4e1f6ffebf9ecb6fbf7f5\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -12762,6 +12747,7 @@
       "satellite_name": "Star-One-C4-D2",
       "degree": "70.0° W",
       "postion": -700,
+      "online_degree": "70.0° W",
       "num_channels": "260525",
       "full_name": "Star One C4/D2 at 70.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -14242,9 +14228,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"097e6c6b64687a7d6c7b496570676e7a687d276a6664\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -14252,6 +14236,7 @@
       "satellite_name": "Arsat-1",
       "degree": "71.8° W",
       "postion": -718,
+      "online_degree": "71.8° W",
       "num_channels": "260617",
       "full_name": "Arsat 1 at 71.8°W - LyngSat",
       "last_update": "2026-06-21",
@@ -14625,8 +14610,7 @@
           "modulation": "",
           "pls": "",
           "channels": [
-            "TV Canal 9",
-            "<span class=\"__cf_email__\" data-cfemail=\"99eefcfbf4f8eaedfcebd9f5e0f7feeaf8edb7faf6f4\">[email&#160;protected]</span>"
+            "TV Canal 9"
           ]
         }
       ]
@@ -14635,6 +14619,7 @@
       "satellite_name": "Amazonas-2",
       "degree": "72.0° W",
       "postion": -720,
+      "online_degree": "72.0° W",
       "num_channels": "260523",
       "full_name": "Amazonas 2 at 72.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -14728,9 +14713,7 @@
           "system": "",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"d9aebcbbb4b8aaadbcab99b5a0b7beaab8adf7bab6b4\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -14738,6 +14721,7 @@
       "satellite_name": "Nimiq-5",
       "degree": "72.7° W",
       "postion": -727,
+      "online_degree": "72.7° W",
       "num_channels": "251231",
       "full_name": "Nimiq 5 at 72.7°W - LyngSat",
       "last_update": "2026-06-21",
@@ -14996,9 +14980,7 @@
           "system": "DVB-S",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"2453414649455750415664485d4a435745500a474b49\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -15006,6 +14988,7 @@
       "satellite_name": "Hispasat-74W-1",
       "degree": "73.9° W",
       "postion": -739,
+      "online_degree": "73.9° W",
       "num_channels": "260613",
       "full_name": "Hispasat 74W-1 at 73.9°W - LyngSat",
       "last_update": "2026-06-21",
@@ -15050,8 +15033,7 @@
           "modulation": "QPSK",
           "pls": "",
           "channels": [
-            "NTV",
-            "<span class=\"__cf_email__\" data-cfemail=\"3542505758544641504775594c5b524654411b565a58\">[email&#160;protected]</span>"
+            "NTV"
           ]
         }
       ]
@@ -15060,6 +15042,7 @@
       "satellite_name": "Star-One-C3",
       "degree": "75.0° W",
       "postion": -750,
+      "online_degree": "75.0° W",
       "num_channels": "260502",
       "full_name": "Star One C3 at 75.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -15763,9 +15746,7 @@
           "system": "",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"91e6f4f3fcf0e2e5f4e3d1fde8fff6e2f0e5bff2fefc\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -15773,6 +15754,7 @@
       "satellite_name": "QuetzSat-1",
       "degree": "77.0° W",
       "postion": -770,
+      "online_degree": "77.0° W",
       "num_channels": "260102",
       "full_name": "QuetzSat 1 at 77.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -15941,9 +15923,7 @@
           "system": "DVB-S",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"e39486818e8290978691a38f9a8d84908297cd808c8e\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -15951,6 +15931,7 @@
       "satellite_name": "Sky-Mexico-1",
       "degree": "78.8° W",
       "postion": -788,
+      "online_degree": "78.8° W",
       "num_channels": "260105",
       "full_name": "Sky Mexico 1 at 78.8°W - LyngSat",
       "last_update": "2026-06-21",
@@ -16154,9 +16135,7 @@
           "system": "DVB-S",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"d4a3b1b6b9b5a7a0b1a694b8adbab3a7b5a0fab7bbb9\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -16164,6 +16143,7 @@
       "satellite_name": "Arsat-2",
       "degree": "81.0° W",
       "postion": -810,
+      "online_degree": "81.0° W",
       "num_channels": "260618",
       "full_name": "Arsat 2 at 81.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -16227,8 +16207,7 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": [
-            "Unicanal",
-            "<span class=\"__cf_email__\" data-cfemail=\"592e3c3b34382a2d3c2b193520373e2a382d773a3634\">[email&#160;protected]</span>"
+            "Unicanal"
           ]
         }
       ]
@@ -16237,6 +16216,7 @@
       "satellite_name": "Star-One-D1",
       "degree": "84.0° W",
       "postion": -840,
+      "online_degree": "84.0° W",
       "num_channels": "260606",
       "full_name": "Star One D1 at 84.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -16394,8 +16374,7 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": [
-            "TV Sagres",
-            "<span class=\"__cf_email__\" data-cfemail=\"770012151a1604031205371b0e19100416035914181a\">[email&#160;protected]</span>"
+            "TV Sagres"
           ]
         }
       ]
@@ -16404,6 +16383,7 @@
       "satellite_name": "SiriusXM-8-9",
       "degree": "85.0° W",
       "postion": -850,
+      "online_degree": "85.0° W",
       "num_channels": "260205",
       "full_name": "SiriusXM 8/9 at 85.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -16417,9 +16397,7 @@
           "system": "",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"92e5f7f0fff3e1e6f7e0d2feebfcf5e1f3e6bcf1fdff\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -16427,6 +16405,7 @@
       "satellite_name": "SES-2-and-TKSat-1",
       "degree": "87.1° W",
       "postion": -871,
+      "online_degree": "87.1° W",
       "num_channels": "260523",
       "full_name": "SES 2 & TKSat 1 at 87.1°W - LyngSat",
       "last_update": "2026-06-21",
@@ -16686,8 +16665,7 @@
             "TV Nuevo Tiempo",
             "Ayni TV",
             "RA TV",
-            "ABE Educativo",
-            "<span class=\"__cf_email__\" data-cfemail=\"b1c6d4d3dcd0c2c5d4c3f1ddc8dfd6c2d0c59fd2dedc\">[email&#160;protected]</span>"
+            "ABE Educativo"
           ]
         }
       ]
@@ -16696,6 +16674,7 @@
       "satellite_name": "Galaxy-36",
       "degree": "89.0° W",
       "postion": -890,
+      "online_degree": "89.0° W",
       "num_channels": "250817",
       "full_name": "Galaxy 36 at 89.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -16749,9 +16728,7 @@
           "system": "DVB-S2",
           "modulation": "16APSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"d5a2b0b7b8b4a6a1b0a795b9acbbb2a6b4a1fbb6bab8\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -16759,6 +16736,7 @@
       "satellite_name": "Galaxy-32-and-Nimiq-6",
       "degree": "91.0° W",
       "postion": -910,
+      "online_degree": "91.0° W",
       "num_channels": "250802",
       "full_name": "Galaxy 32 & Nimiq 6 at 91.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -17214,9 +17192,7 @@
           "system": "DVB-S",
           "modulation": "8PSK Turbo",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"c3b4a6a1aea2b0b7a6b183afbaada4b0a2b7eda0acae\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -17224,6 +17200,7 @@
       "satellite_name": "Galaxy-35",
       "degree": "93.1° W",
       "postion": -931,
+      "online_degree": "93.1° W",
       "num_channels": "260412",
       "full_name": "Galaxy 35 at 93.1°W - LyngSat",
       "last_update": "2026-06-21",
@@ -17286,8 +17263,7 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": [
-            "The CW",
-            "<span class=\"__cf_email__\" data-cfemail=\"582f3d3a35392b2c3d2a183421363f2b392c763b3735\">[email&#160;protected]</span>"
+            "The CW"
           ]
         }
       ]
@@ -17296,6 +17272,7 @@
       "satellite_name": "Galaxy-3C-and-Intelsat-30-31",
       "degree": "95.1° W",
       "postion": -951,
+      "online_degree": "95.1° W",
       "num_channels": "220108",
       "full_name": "Galaxy 3C & Intelsat 30/31 at 95.1°W - LyngSat",
       "last_update": "2026-06-21",
@@ -17409,6 +17386,7 @@
       "satellite_name": "Galaxy-19",
       "degree": "97.0° W",
       "postion": -970,
+      "online_degree": "97.0° W",
       "num_channels": "260616",
       "full_name": "Galaxy 19 at 97.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -17739,8 +17717,7 @@
             "M4 Sport+",
             "Qatar TV",
             "MTA 8 America",
-            "MTA 3 Al-Arabia",
-            "<span class=\"__cf_email__\" data-cfemail=\"087f6d6a65697b7c6d7a486471666f7b697c266b6765\">[email&#160;protected]</span>"
+            "MTA 3 Al-Arabia"
           ]
         }
       ]
@@ -17749,6 +17726,7 @@
       "satellite_name": "Galaxy-16-and-T11-T14",
       "degree": "99.1° W",
       "postion": -991,
+      "online_degree": "99.1° W",
       "num_channels": "260506",
       "full_name": "Galaxy 16 & T11/T14 at 99.1°W - LyngSat",
       "last_update": "2026-06-21",
@@ -17860,9 +17838,7 @@
           "system": "DVB-S2D",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"592e3c3b34382a2d3c2b193520373e2a382d773a3634\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -17870,6 +17846,7 @@
       "satellite_name": "T9S-T16-and-SES-1",
       "degree": "101.0° W",
       "postion": -1010,
+      "online_degree": "101.0° W",
       "num_channels": "200711",
       "full_name": "T9S/T16 & SES 1 at 101.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -18448,9 +18425,7 @@
           "system": "",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"aaddcfc8c7cbd9decfd8eac6d3c4cdd9cbde84c9c5c7\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -18458,6 +18433,7 @@
       "satellite_name": "T12-and-SES-18",
       "degree": "103.0° W",
       "postion": -1030,
+      "online_degree": "103.0° W",
       "num_channels": "180927",
       "full_name": "T12 & SES 18 at 103.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -18783,9 +18759,7 @@
           "system": "DVB-S2D",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"1b6c7e79767a686f7e695b7762757c687a6f35787476\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -18793,6 +18767,7 @@
       "satellite_name": "SES-3",
       "degree": "103.0° W",
       "postion": -1030,
+      "online_degree": "103.0° W",
       "num_channels": "201105",
       "full_name": "SES 3 at 103.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -18803,6 +18778,7 @@
       "satellite_name": "EchoStar-105-SES-11",
       "degree": "105.0° W",
       "postion": -1050,
+      "online_degree": "105.0° W",
       "num_channels": "260509",
       "full_name": "EchoStar 105/SES 11 at 105.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -19019,8 +18995,7 @@
           "channels": [
             "Veterans Affairs Knowledge Network 1",
             "Veterans Affairs Knowledge Network 2",
-            "Veterans Affairs Knowledge Network 3",
-            "<span class=\"__cf_email__\" data-cfemail=\"7502101718140601100735190c1b120614015b161a18\">[email&#160;protected]</span>"
+            "Veterans Affairs Knowledge Network 3"
           ]
         }
       ]
@@ -19029,6 +19004,7 @@
       "satellite_name": "Anik-F1R-G1",
       "degree": "107.3° W",
       "postion": -1073,
+      "online_degree": "107.3° W",
       "num_channels": "260328",
       "full_name": "Anik F1R/G1 at 107.3°W - LyngSat",
       "last_update": "2026-06-21",
@@ -19204,9 +19180,7 @@
           "system": "",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"0d7a686f606c7e79687f4d6174636a7e6c79236e6260\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -19214,6 +19188,7 @@
       "satellite_name": "T5-and-EchoStar-10-11",
       "degree": "110.0° W",
       "postion": -1100,
+      "online_degree": "110.0° W",
       "num_channels": "100331",
       "full_name": "T5 & EchoStar 10/11 at 110.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -20389,9 +20364,7 @@
           "system": "DVB-S",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"215644434c4052554453614d584f465240550f424e4c\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -20399,6 +20372,7 @@
       "satellite_name": "Anik-F2",
       "degree": "111.1° W",
       "postion": -1111,
+      "online_degree": "111.1° W",
       "num_channels": "060331",
       "full_name": "Anik F2 at 111.1°W - LyngSat",
       "last_update": "2026-06-21",
@@ -20472,9 +20446,7 @@
           "system": "DVB-S",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"2552404748445651405765495c4b425644510b464a48\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -20482,6 +20454,7 @@
       "satellite_name": "Eutelsat-115-West-B",
       "degree": "114.9° W",
       "postion": -1149,
+      "online_degree": "114.9° W",
       "num_channels": "251124",
       "full_name": "Eutelsat 115 West B at 114.9°W - LyngSat",
       "last_update": "2026-06-21",
@@ -20586,8 +20559,7 @@
           "channels": [
             "Canal 22 México",
             "MX Nuestro Cine",
-            "Canal 22 México",
-            "<span class=\"__cf_email__\" data-cfemail=\"c9beacaba4a8babdacbb89a5b0a7aebaa8bde7aaa6a4\">[email&#160;protected]</span>"
+            "Canal 22 México"
           ]
         }
       ]
@@ -20596,6 +20568,7 @@
       "satellite_name": "SiriusXM-5-10",
       "degree": "115.7° W",
       "postion": -1157,
+      "online_degree": "115.7° W",
       "num_channels": "260205",
       "full_name": "SiriusXM 5/10 at 115.7°W - LyngSat",
       "last_update": "2026-06-21",
@@ -20609,9 +20582,7 @@
           "system": "",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"bfc8daddd2decccbdacdffd3c6d1d8ccdecb91dcd0d2\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -20619,6 +20590,7 @@
       "satellite_name": "Eutelsat-117-West-A-B",
       "degree": "116.9° W",
       "postion": -1169,
+      "online_degree": "116.9° W",
       "num_channels": "260613",
       "full_name": "Eutelsat 117 West A/B at 116.9°W - LyngSat",
       "last_update": "2026-06-21",
@@ -21762,8 +21734,7 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": [
-            "BYU TV",
-            "<span class=\"__cf_email__\" data-cfemail=\"96e1f3f4fbf7e5e2f3e4d6faeff8f1e5f7e2b8f5f9fb\">[email&#160;protected]</span>"
+            "BYU TV"
           ]
         }
       ]
@@ -21772,6 +21743,7 @@
       "satellite_name": "Anik-F3-and-T8-and-EchoStar-14",
       "degree": "119.0° W",
       "postion": -1190,
+      "online_degree": "119.0° W",
       "num_channels": "240922",
       "full_name": "Anik F3 & T8 & EchoStar 14 at 119.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -22947,9 +22919,7 @@
           "system": "",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"621507000f0311160710220e1b0c051103164c010d0f\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -22957,6 +22927,7 @@
       "satellite_name": "Galaxy-31",
       "degree": "121.0° W",
       "postion": -1210,
+      "online_degree": "121.0° W",
       "num_channels": "260125",
       "full_name": "Galaxy 31 at 121.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -23031,9 +23002,7 @@
           "system": "DVB-S",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"fd8a989f909c8e89988fbd9184939a8e9c89d39e9290\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -23041,6 +23010,7 @@
       "satellite_name": "Galaxy-18",
       "degree": "123.0° W",
       "postion": -1230,
+      "online_degree": "123.0° W",
       "num_channels": "260511",
       "full_name": "Galaxy 18 at 123.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -23198,8 +23168,7 @@
           "modulation": "",
           "pls": "",
           "channels": [
-            "KBS World",
-            "<span class=\"__cf_email__\" data-cfemail=\"7d0a181f101c0e09180f3d1104131a0e1c09531e1210\">[email&#160;protected]</span>"
+            "KBS World"
           ]
         }
       ]
@@ -23208,6 +23177,7 @@
       "satellite_name": "Galaxy-30",
       "degree": "125.0° W",
       "postion": -1250,
+      "online_degree": "125.0° W",
       "num_channels": "241105",
       "full_name": "Galaxy 30 at 125.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -23399,8 +23369,7 @@
             "Showtime Women East",
             "Flix East",
             "Showtime Family Zone East",
-            "Smithsonian Channel East",
-            "<span class=\"__cf_email__\" data-cfemail=\"f88f9d9a95998b8c9d8ab89481969f8b998cd69b9795\">[email&#160;protected]</span>"
+            "Smithsonian Channel East"
           ]
         }
       ]
@@ -23409,6 +23378,7 @@
       "satellite_name": "Galaxy-37-Horizons-4",
       "degree": "127.0° W",
       "postion": -1270,
+      "online_degree": "127.0° W",
       "num_channels": "260415",
       "full_name": "Galaxy 37/Horizons 4 at 127.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -23540,8 +23510,7 @@
             "TLC West",
             "Motortrend",
             "Animal Planet West",
-            "Oprah Winfrey Network West",
-            "<span class=\"__cf_email__\" data-cfemail=\"dfa8babdb2beacabbaad9fb3a6b1b8acbeabf1bcb0b2\">[email&#160;protected]</span>"
+            "Oprah Winfrey Network West"
           ]
         }
       ]
@@ -23550,6 +23519,7 @@
       "satellite_name": "SES-21",
       "degree": "131.0° W",
       "postion": -1310,
+      "online_degree": "131.0° W",
       "num_channels": "260324",
       "full_name": "SES 21 at 131.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -23598,8 +23568,7 @@
             "BabyFirst TV",
             "Baby TV USA",
             "AXS TV",
-            "HDNet Movies",
-            "<span class=\"__cf_email__\" data-cfemail=\"106775727d7163647562507c697e776371643e737f7d\">[email&#160;protected]</span>"
+            "HDNet Movies"
           ]
         }
       ]
@@ -23608,6 +23577,7 @@
       "satellite_name": "Galaxy-33",
       "degree": "133.0° W",
       "postion": -1330,
+      "online_degree": "133.0° W",
       "num_channels": "260306",
       "full_name": "Galaxy 33 at 133.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -23801,9 +23771,7 @@
           "system": "DVB-S2",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"a5d2c0c7c8c4d6d1c0d7e5c9dccbc2d6c4d18bc6cac8\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -23811,6 +23779,7 @@
       "satellite_name": "SES-19",
       "degree": "135.0° W",
       "postion": -1350,
+      "online_degree": "135.0° W",
       "num_channels": "260327",
       "full_name": "SES 19 at 135.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -23863,8 +23832,7 @@
             "Cine Sony",
             "Sony Movies USA",
             "Ovation",
-            "Newsmax TV",
-            "<span class=\"__cf_email__\" data-cfemail=\"84f3e1e6e9e5f7f0e1f6c4e8fdeae3f7e5f0aae7ebe9\">[email&#160;protected]</span>"
+            "Newsmax TV"
           ]
         }
       ]
@@ -23873,6 +23841,7 @@
       "satellite_name": "SES-22",
       "degree": "139.0° W",
       "postion": -1390,
+      "online_degree": "139.0° W",
       "num_channels": "240424",
       "full_name": "SES 22 at 139.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -23892,8 +23861,7 @@
             "PBS Kids",
             "KTOO 360 TV",
             "KUAC-TV",
-            "KAKM-TV",
-            "<span class=\"__cf_email__\" data-cfemail=\"d6a1b3b4bbb7a5a2b3a496baafb8b1a5b7a2f8b5b9bb\">[email&#160;protected]</span>"
+            "KAKM-TV"
           ]
         }
       ]
@@ -23902,6 +23870,7 @@
       "satellite_name": "NSS-9",
       "degree": "177.0° W",
       "postion": -1770,
+      "online_degree": "177.0° W",
       "num_channels": "190104",
       "full_name": "NSS 9 at 177.0°W - LyngSat",
       "last_update": "2026-06-21",
@@ -23938,8 +23907,7 @@
           "modulation": "QPSK",
           "pls": "",
           "channels": [
-            "BYU TV Global",
-            "<span class=\"__cf_email__\" data-cfemail=\"aed9cbccc3cfdddacbdceec2d7c0c9ddcfda80cdc1c3\">[email&#160;protected]</span>"
+            "BYU TV Global"
           ]
         }
       ]
@@ -23948,6 +23916,7 @@
       "satellite_name": "Intelsat-18",
       "degree": "180.0° E",
       "postion": 1800,
+      "online_degree": "180.0° E",
       "num_channels": "260605",
       "full_name": "Intelsat 18 at 180.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -24154,8 +24123,7 @@
           "modulation": "QPSK",
           "pls": "",
           "channels": [
-            "Caledonia",
-            "<span class=\"__cf_email__\" data-cfemail=\"dfa8babdb2beacabbaad9fb3a6b1b8acbeabf1bcb0b2\">[email&#160;protected]</span>"
+            "Caledonia"
           ]
         }
       ]
@@ -24164,6 +24132,7 @@
       "satellite_name": "Eutelsat-172B",
       "degree": "172.0° E",
       "postion": 1720,
+      "online_degree": "172.0° E",
       "num_channels": "260411",
       "full_name": "Eutelsat 172B at 172.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -24406,8 +24375,7 @@
             "Alarabiya",
             "Nile Cinema",
             "Nile Drama",
-            "Iraqia General",
-            "<span class=\"__cf_email__\" data-cfemail=\"0572606768647671607745697c6b627664712b666a68\">[email&#160;protected]</span>"
+            "Iraqia General"
           ]
         }
       ]
@@ -24416,6 +24384,7 @@
       "satellite_name": "Horizons-3e",
       "degree": "169.0° E",
       "postion": 1690,
+      "online_degree": "169.0° E",
       "num_channels": "260501",
       "full_name": "Horizons 3e at 169.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -24433,8 +24402,7 @@
             "AFN Prime Pacific",
             "AFN News",
             "AFN Sports",
-            "AFN Sports 2",
-            "<span class=\"__cf_email__\" data-cfemail=\"7e091b1c131f0d0a1b0c3e120710190d1f0a501d1113\">[email&#160;protected]</span>"
+            "AFN Sports 2"
           ]
         }
       ]
@@ -24443,6 +24411,7 @@
       "satellite_name": "Intelsat-19",
       "degree": "166.0° E",
       "postion": 1660,
+      "online_degree": "166.0° E",
       "num_channels": "260602",
       "full_name": "Intelsat 19 at 166.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -24883,9 +24852,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"6413010609051710011624081d0a031705104a070b09\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -24893,6 +24860,7 @@
       "satellite_name": "Superbird-B3",
       "degree": "162.0° E",
       "postion": 1620,
+      "online_degree": "162.0° E",
       "num_channels": "250821",
       "full_name": "Superbird B3 at 162.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -24998,9 +24966,7 @@
           "system": "DVB-S",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"e29587808f8391968790a28e9b8c85918396cc818d8f\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -25008,6 +24974,7 @@
       "satellite_name": "Measat-3a-and-Koreasat-6",
       "degree": "160.0° E",
       "postion": 1600,
+      "online_degree": "160.0° E",
       "num_channels": "250201",
       "full_name": "Measat 3a & Koreasat 6 at 160.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -25287,9 +25254,7 @@
           "system": "DVB-S2",
           "modulation": "QPSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"710614131c1002051403311d081f160210055f121e1c\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -25297,6 +25262,7 @@
       "satellite_name": "ABS-6",
       "degree": "159.0° E",
       "postion": 1590,
+      "online_degree": "159.0° E",
       "num_channels": "250102",
       "full_name": "ABS 6 at 159.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -25312,8 +25278,7 @@
           "pls": "",
           "channels": [
             "IBC 13",
-            "Congress TV",
-            "<span class=\"__cf_email__\" data-cfemail=\"f5829097989486819087b5998c9b92869481db969a98\">[email&#160;protected]</span>"
+            "Congress TV"
           ]
         }
       ]
@@ -25322,6 +25287,7 @@
       "satellite_name": "Optus-D3",
       "degree": "156.0° E",
       "postion": 1560,
+      "online_degree": "156.0° E",
       "num_channels": "260515",
       "full_name": "Optus D3 at 156.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -25365,9 +25331,7 @@
           "system": "",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"631406010e0210170611230f1a0d041002174d000c0e\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -25375,6 +25339,7 @@
       "satellite_name": "Optus-10",
       "degree": "156.0° E",
       "postion": 1560,
+      "online_degree": "156.0° E",
       "num_channels": "260527",
       "full_name": "Optus 10 at 156.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -25706,9 +25671,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"e5928087888496918097a5899c8b82968491cb868a88\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -25716,6 +25679,7 @@
       "satellite_name": "JCSAT-2B",
       "degree": "154.0° E",
       "postion": 1540,
+      "online_degree": "154.0° E",
       "num_channels": "260526",
       "full_name": "JCSAT 2B at 154.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -25781,9 +25745,7 @@
           "system": "DVB-S2",
           "modulation": "QPSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"a2d5c7c0cfc3d1d6c7d0e2cedbccc5d1c3d68cc1cdcf\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -25791,6 +25753,7 @@
       "satellite_name": "Optus-D1",
       "degree": "152.0° E",
       "postion": 1520,
+      "online_degree": "152.0° E",
       "num_channels": "251116",
       "full_name": "Optus D1 at 152.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -25814,9 +25777,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"8dfae8efe0ecfef9e8ffcde1f4e3eafeecf9a3eee2e0\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -25824,6 +25785,7 @@
       "satellite_name": "BRIsat",
       "degree": "150.5° E",
       "postion": 1505,
+      "online_degree": "150.5° E",
       "num_channels": "240304",
       "full_name": "BRIsat at 150.5°E - LyngSat",
       "last_update": "2026-06-21",
@@ -25847,9 +25809,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"8bfceee9e6eaf8ffeef9cbe7f2e5ecf8eaffa5e8e4e6\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -25857,6 +25817,7 @@
       "satellite_name": "Nusantara-Satu",
       "degree": "146.0° E",
       "postion": 1460,
+      "online_degree": "146.0° E",
       "num_channels": "260511",
       "full_name": "Nusantara Satu at 146.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -25881,8 +25842,7 @@
           "modulation": "QPSK",
           "pls": "",
           "channels": [
-            "Madani TV",
-            "<span class=\"__cf_email__\" data-cfemail=\"097e6c6b64687a7d6c7b496570676e7a687d276a6664\">[email&#160;protected]</span>"
+            "Madani TV"
           ]
         }
       ]
@@ -25891,6 +25851,7 @@
       "satellite_name": "Express-AMU7",
       "degree": "145.0° E",
       "postion": 1450,
+      "online_degree": "145.0° E",
       "num_channels": "241006",
       "full_name": "Express AMU7 at 145.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -26070,8 +26031,7 @@
             "Telekanal Zvezda +8",
             "Mir +8",
             "TNT +8",
-            "Muz TV +8",
-            "<span class=\"__cf_email__\" data-cfemail=\"9fe8fafdf2feecebfaeddff3e6f1f8ecfeebb1fcf0f2\">[email&#160;protected]</span>"
+            "Muz TV +8"
           ]
         }
       ]
@@ -26080,6 +26040,7 @@
       "satellite_name": "JCSAT-144C",
       "degree": "144.0° E",
       "postion": 1440,
+      "online_degree": "144.0° E",
       "num_channels": "260420",
       "full_name": "JCSAT 144C at 144.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -26137,9 +26098,7 @@
           "system": "DVB-S",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"87f0e2e5eae6f4f3e2f5c7ebfee9e0f4e6f3a9e4e8ea\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -26147,6 +26106,7 @@
       "satellite_name": "Apstar-9",
       "degree": "142.0° E",
       "postion": 1420,
+      "online_degree": "142.0° E",
       "num_channels": "260412",
       "full_name": "Apstar 9 at 142.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -26190,9 +26150,7 @@
           "system": "",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"eb9c8e89868a989f8e99ab8792858c988a9fc5888486\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -26200,6 +26158,7 @@
       "satellite_name": "Express-AM5",
       "degree": "140.0° E",
       "postion": 1400,
+      "online_degree": "140.0° E",
       "num_channels": "260503",
       "full_name": "Express AM5 at 140.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -26313,9 +26272,7 @@
           "system": "DVB-S2",
           "modulation": "QPSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"1e697b7c737f6d6a7b6c5e726770796d7f6a307d7173\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -26323,6 +26280,7 @@
       "satellite_name": "Telstar-18-Vantage",
       "degree": "138.0° E",
       "postion": 1380,
+      "online_degree": "138.0° E",
       "num_channels": "260619",
       "full_name": "Telstar 18 Vantage at 138.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -26709,8 +26667,7 @@
             "GCN Korea",
             "One TV",
             "One TV Discover",
-            "GCN Korea",
-            "<span class=\"__cf_email__\" data-cfemail=\"e99e8c8b84889a9d8c9ba98590878e9a889dc78a8684\">[email&#160;protected]</span>"
+            "GCN Korea"
           ]
         }
       ]
@@ -26719,6 +26676,7 @@
       "satellite_name": "Apstar-6C",
       "degree": "134.0° E",
       "postion": 1340,
+      "online_degree": "134.0° E",
       "num_channels": "260517",
       "full_name": "Apstar 6C at 134.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -26875,9 +26833,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"fc8b999e919d8f88998ebc9085929b8f9d88d29f9391\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -26885,6 +26841,7 @@
       "satellite_name": "Vinasat-1-2",
       "degree": "131.9° E",
       "postion": 1319,
+      "online_degree": "131.9° E",
       "num_channels": "260608",
       "full_name": "Vinasat 1/2 at 131.9°E - LyngSat",
       "last_update": "2026-06-21",
@@ -27017,8 +26974,7 @@
             "VTV 8",
             "VTV 9",
             "Vietnam Today",
-            "VTV 6",
-            "<span class=\"__cf_email__\" data-cfemail=\"7e091b1c131f0d0a1b0c3e120710190d1f0a501d1113\">[email&#160;protected]</span>"
+            "VTV 6"
           ]
         }
       ]
@@ -27027,6 +26983,7 @@
       "satellite_name": "ChinaSat-6C",
       "degree": "130.5° E",
       "postion": 1305,
+      "online_degree": "130.5° E",
       "num_channels": "260303",
       "full_name": "ChinaSat 6C at 130.5°E - LyngSat",
       "last_update": "2026-06-21",
@@ -27051,8 +27008,7 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": [
-            "Bingtuan Satellite TV",
-            "<span class=\"__cf_email__\" data-cfemail=\"b7c0d2d5dad6c4c3d2c5f7dbced9d0c4d6c399d4d8da\">[email&#160;protected]</span>"
+            "Bingtuan Satellite TV"
           ]
         }
       ]
@@ -27061,6 +27017,7 @@
       "satellite_name": "LaoSat-1",
       "degree": "128.5° E",
       "postion": 1285,
+      "online_degree": "128.5° E",
       "num_channels": "260607",
       "full_name": "LaoSat 1 at 128.5°E - LyngSat",
       "last_update": "2026-06-21",
@@ -27355,9 +27312,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"2c5b494e414d5f58495e6c4055424b5f4d58024f4341\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -27365,6 +27320,7 @@
       "satellite_name": "JCSAT-3A",
       "degree": "128.0° E",
       "postion": 1280,
+      "online_degree": "128.0° E",
       "num_channels": "260415",
       "full_name": "JCSAT 3A at 128.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -27457,9 +27413,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"b1c6d4d3dcd0c2c5d4c3f1ddc8dfd6c2d0c59fd2dedc\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -27467,6 +27421,7 @@
       "satellite_name": "ChinaSat-6D",
       "degree": "125.0° E",
       "postion": 1250,
+      "online_degree": "125.0° E",
       "num_channels": "260617",
       "full_name": "ChinaSat 6D at 125.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -28042,8 +27997,7 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": [
-            "Shandong Satellite TV",
-            "<span class=\"__cf_email__\" data-cfemail=\"681f0d0a05091b1c0d1a280411060f1b091c460b0705\">[email&#160;protected]</span>"
+            "Shandong Satellite TV"
           ]
         }
       ]
@@ -28052,6 +28006,7 @@
       "satellite_name": "JCSAT-4B",
       "degree": "124.0° E",
       "postion": 1240,
+      "online_degree": "124.0° E",
       "num_channels": "260621",
       "full_name": "JCSAT 4B at 124.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -28213,9 +28168,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"b1c6d4d3dcd0c2c5d4c3f1ddc8dfd6c2d0c59fd2dedc\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -28223,6 +28176,7 @@
       "satellite_name": "AsiaSat-9",
       "degree": "122.0° E",
       "postion": 1220,
+      "online_degree": "122.0° E",
       "num_channels": "260621",
       "full_name": "AsiaSat 9 at 122.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -28685,9 +28639,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"f08795929d9183849582b09c899e97839184de939f9d\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -28695,6 +28647,7 @@
       "satellite_name": "AsiaSat-6-Thaicom-7",
       "degree": "120.0° E",
       "postion": 1200,
+      "online_degree": "120.0° E",
       "num_channels": "260407",
       "full_name": "AsiaSat 6/Thaicom 7 at 120.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -28794,9 +28747,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"4b3c2e29262a383f2e390b2732252c382a3f65282426\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -28804,6 +28755,7 @@
       "satellite_name": "Thaicom-4-and-Bangladesh-1",
       "degree": "119.3° E",
       "postion": 1193,
+      "online_degree": "119.3° E",
       "num_channels": "201119",
       "full_name": "Thaicom 4 & Bangladesh 1 at 119.3°E - LyngSat",
       "last_update": "2026-06-21",
@@ -29200,9 +29152,7 @@
           "system": "DVB-S2",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"ea9d8f88878b999e8f98aa8693848d998b9ec4898587\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -29210,6 +29160,7 @@
       "satellite_name": "Telkom-3S",
       "degree": "118.0° E",
       "postion": 1180,
+      "online_degree": "118.0° E",
       "num_channels": "250424",
       "full_name": "Telkom 3S at 118.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -29242,9 +29193,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"dfa8babdb2beacabbaad9fb3a6b1b8acbeabf1bcb0b2\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -29252,6 +29201,7 @@
       "satellite_name": "Koreasat-6A-7",
       "degree": "116.0° E",
       "postion": 1160,
+      "online_degree": "116.0° E",
       "num_channels": "260130",
       "full_name": "Koreasat 6A/7 at 116.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -29567,9 +29517,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"c3b4a6a1aea2b0b7a6b183afbaada4b0a2b7eda0acae\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -29577,6 +29525,7 @@
       "satellite_name": "ChinaSat-6E",
       "degree": "115.5° E",
       "postion": 1155,
+      "online_degree": "115.5° E",
       "num_channels": "260617",
       "full_name": "ChinaSat 6E at 115.5°E - LyngSat",
       "last_update": "2026-06-21",
@@ -30143,9 +30092,7 @@
           "system": "DVB-S",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"8bfceee9e6eaf8ffeef9cbe7f2e5ecf8eaffa5e8e4e6\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -30153,6 +30100,7 @@
       "satellite_name": "Koreasat-5A",
       "degree": "113.0° E",
       "postion": 1130,
+      "online_degree": "113.0° E",
       "num_channels": "260518",
       "full_name": "Koreasat 5A at 113.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -30298,8 +30246,7 @@
           "channels": [
             "KBS Korea",
             "YTN",
-            "KBS World",
-            "<span class=\"__cf_email__\" data-cfemail=\"324557505f5341465740725e4b5c554153461c515d5f\">[email&#160;protected]</span>"
+            "KBS World"
           ]
         }
       ]
@@ -30308,6 +30255,7 @@
       "satellite_name": "BSAT-3C-JCSAT-110R-and-JCSAT-110A-and-BSAT-4A",
       "degree": "110.0° E",
       "postion": 1100,
+      "online_degree": "110.0° E",
       "num_channels": "250717",
       "full_name": "BSAT 3C/JCSAT 110R & JCSAT 110A & BSAT 4A at 110.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -30651,9 +30599,7 @@
           "system": "",
           "modulation": "QPSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"3d4a585f505c4e49584f7d5144535a4e5c49135e5250\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -30661,6 +30607,7 @@
       "satellite_name": "SES-7-9-and-Merah-Putih",
       "degree": "108.1° E",
       "postion": 1081,
+      "online_degree": "108.1° E",
       "num_channels": "260621",
       "full_name": "SES 7/9 & Merah Putih at 108.1°E - LyngSat",
       "last_update": "2026-06-21",
@@ -31704,9 +31651,7 @@
           "system": "DVB-S2",
           "modulation": "QPSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"7e091b1c131f0d0a1b0c3e120710190d1f0a501d1113\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -31714,6 +31659,7 @@
       "satellite_name": "AsiaSat-7",
       "degree": "105.5° E",
       "postion": 1055,
+      "online_degree": "105.5° E",
       "num_channels": "260522",
       "full_name": "AsiaSat 7 at 105.5°E - LyngSat",
       "last_update": "2026-06-21",
@@ -32042,9 +31988,7 @@
           "system": "",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"93e4f6f1fef2e0e7f6e1d3ffeafdf4e0f2e7bdf0fcfe\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -32052,6 +31996,7 @@
       "satellite_name": "AsiaSat-8",
       "degree": "105.3° E",
       "postion": 1053,
+      "online_degree": "105.3° E",
       "num_channels": "260407",
       "full_name": "AsiaSat 8 at 105.3°E - LyngSat",
       "last_update": "2026-06-21",
@@ -32075,9 +32020,7 @@
           "system": "",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"1d6a787f707c6e69786f5d7164737a6e7c69337e7270\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -32085,6 +32028,7 @@
       "satellite_name": "Express-AMU3",
       "degree": "103.0° E",
       "postion": 1030,
+      "online_degree": "103.0° E",
       "num_channels": "260502",
       "full_name": "Express AMU3 at 103.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -32292,8 +32236,7 @@
             "Joson Jungang TV",
             "Ryongnamsan TV",
             "Mansudae TV",
-            "Cheyuk TV",
-            "<span class=\"__cf_email__\" data-cfemail=\"f18694939c9082859483b19d889f96829085df929e9c\">[email&#160;protected]</span>"
+            "Cheyuk TV"
           ]
         }
       ]
@@ -32302,6 +32245,7 @@
       "satellite_name": "ChinaSat-9B",
       "degree": "101.4° E",
       "postion": 1014,
+      "online_degree": "101.4° E",
       "num_channels": "251224",
       "full_name": "ChinaSat 9B at 101.4°E - LyngSat",
       "last_update": "2026-06-21",
@@ -32383,8 +32327,7 @@
             "CCTV 13",
             "CCTV 14",
             "CCTV 17",
-            "CETV 1",
-            "<span class=\"__cf_email__\" data-cfemail=\"3f485a5d525e4c4b5a4d7f534651584c5e4b115c5052\">[email&#160;protected]</span>"
+            "CETV 1"
           ]
         }
       ]
@@ -32393,6 +32336,7 @@
       "satellite_name": "AsiaSat-5",
       "degree": "100.5° E",
       "postion": 1005,
+      "online_degree": "100.5° E",
       "num_channels": "260611",
       "full_name": "AsiaSat 5 at 100.5°E - LyngSat",
       "last_update": "2026-06-21",
@@ -32831,9 +32775,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"037466616e6270776671436f7a6d647062772d606c6e\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -32841,6 +32783,7 @@
       "satellite_name": "ChinaSat-11",
       "degree": "98.0° E",
       "postion": 980,
+      "online_degree": "98.0° E",
       "num_channels": "260527",
       "full_name": "ChinaSat 11 at 98.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -32864,9 +32807,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"5b2c3e39363a282f3e291b3722353c283a2f75383436\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -32874,6 +32815,7 @@
       "satellite_name": "G-Sat-9",
       "degree": "97.3° E",
       "postion": 973,
+      "online_degree": "97.3° E",
       "num_channels": "260426",
       "full_name": "G-Sat 9 at 97.3°E - LyngSat",
       "last_update": "2026-06-21",
@@ -32974,8 +32916,7 @@
           "channels": [
             "BBS Channel 3",
             "BBS News",
-            "BBS TV",
-            "<span class=\"__cf_email__\" data-cfemail=\"7502101718140601100735190c1b120614015b161a18\">[email&#160;protected]</span>"
+            "BBS TV"
           ]
         }
       ]
@@ -32984,6 +32925,7 @@
       "satellite_name": "Express-103",
       "degree": "96.5° E",
       "postion": 965,
+      "online_degree": "96.5° E",
       "num_channels": "260503",
       "full_name": "Express 103 at 96.5°E - LyngSat",
       "last_update": "2026-06-21",
@@ -33076,9 +33018,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"a2d5c7c0cfc3d1d6c7d0e2cedbccc5d1c3d68cc1cdcf\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -33086,6 +33026,7 @@
       "satellite_name": "SES-8",
       "degree": "95.0° E",
       "postion": 950,
+      "online_degree": "95.0° E",
       "num_channels": "260620",
       "full_name": "SES 8 at 95.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -33179,9 +33120,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"0572606768647671607745697c6b627664712b666a68\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -33189,6 +33128,7 @@
       "satellite_name": "G-Sat-15-17",
       "degree": "93.5° E",
       "postion": 935,
+      "online_degree": "93.5° E",
       "num_channels": "260619",
       "full_name": "G-Sat 15/17 at 93.5°E - LyngSat",
       "last_update": "2026-06-21",
@@ -34677,8 +34617,7 @@
             "E-Vidya 197",
             "E-Vidya 198",
             "E-Vidya 199",
-            "E-Vidya 200",
-            "<span class=\"__cf_email__\" data-cfemail=\"7a0d1f18171b090e1f083a1603141d091b0e54191517\">[email&#160;protected]</span>"
+            "E-Vidya 200"
           ]
         }
       ]
@@ -34687,6 +34626,7 @@
       "satellite_name": "ChinaSat-9C",
       "degree": "92.2° E",
       "postion": 922,
+      "online_degree": "92.2° E",
       "num_channels": "260617",
       "full_name": "ChinaSat 9C at 92.2°E - LyngSat",
       "last_update": "2026-06-21",
@@ -34966,8 +34906,7 @@
             "Reviewing Classic Channel",
             "Xizang TV Chinese",
             "Jilin TV Satellite",
-            "Xizang TV Tibetan",
-            "<span class=\"__cf_email__\" data-cfemail=\"493e2c2b24283a3d2c3b092530272e3a283d672a2624\">[email&#160;protected]</span>"
+            "Xizang TV Tibetan"
           ]
         }
       ]
@@ -34976,6 +34915,7 @@
       "satellite_name": "Measat-3b-3d",
       "degree": "91.5° E",
       "postion": 915,
+      "online_degree": "91.5° E",
       "num_channels": "260618",
       "full_name": "Measat 3b/3d at 91.5°E - LyngSat",
       "last_update": "2026-06-21",
@@ -35696,9 +35636,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"631406010e0210170611230f1a0d041002174d000c0e\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -35706,6 +35644,7 @@
       "satellite_name": "Yamal-401",
       "degree": "90.0° E",
       "postion": 900,
+      "online_degree": "90.0° E",
       "num_channels": "260526",
       "full_name": "Yamal 401 at 90.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -36284,9 +36223,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"96e1f3f4fbf7e5e2f3e4d6faeff8f1e5f7e2b8f5f9fb\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -36294,6 +36231,7 @@
       "satellite_name": "ST-2",
       "degree": "88.0° E",
       "postion": 880,
+      "online_degree": "88.0° E",
       "num_channels": "260613",
       "full_name": "ST 2 at 88.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -36611,8 +36549,7 @@
           "modulation": "",
           "pls": "",
           "channels": [
-            "Good TV",
-            "<span class=\"__cf_email__\" data-cfemail=\"a9decccbc4c8daddccdbe9c5d0c7cedac8dd87cac6c4\">[email&#160;protected]</span>"
+            "Good TV"
           ]
         }
       ]
@@ -36621,6 +36558,7 @@
       "satellite_name": "ChinaSat-12",
       "degree": "87.5° E",
       "postion": 875,
+      "online_degree": "87.5° E",
       "num_channels": "220729",
       "full_name": "ChinaSat 12 at 87.5°E - LyngSat",
       "last_update": "2026-06-21",
@@ -36634,9 +36572,7 @@
           "system": "DVB-S2",
           "modulation": "QPSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"592e3c3b34382a2d3c2b193520373e2a382d773a3634\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -36644,6 +36580,7 @@
       "satellite_name": "KazSat-2",
       "degree": "86.5° E",
       "postion": 865,
+      "online_degree": "86.5° E",
       "num_channels": "260107",
       "full_name": "KazSat 2 at 86.5°E - LyngSat",
       "last_update": "2026-06-21",
@@ -36729,9 +36666,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"c1b6a4a3aca0b2b5a4b381adb8afa6b2a0b5efa2aeac\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -36739,6 +36674,7 @@
       "satellite_name": "G-Sat-10-24-30",
       "degree": "83.0° E",
       "postion": 830,
+      "online_degree": "83.0° E",
       "num_channels": "260606",
       "full_name": "G-Sat 10/24/30 at 83.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -37928,9 +37864,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"6c1b090e010d1f18091e2c0015020b1f0d18420f0301\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -37938,6 +37872,7 @@
       "satellite_name": "Express-80",
       "degree": "80.0° E",
       "postion": 800,
+      "online_degree": "80.0° E",
       "num_channels": "260619",
       "full_name": "Express 80 at 80.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -38161,8 +38096,7 @@
           "modulation": "QPSK",
           "pls": "",
           "channels": [
-            "RT News",
-            "<span class=\"__cf_email__\" data-cfemail=\"a8dfcdcac5c9dbdccddae8c4d1c6cfdbc9dc86cbc7c5\">[email&#160;protected]</span>"
+            "RT News"
           ]
         }
       ]
@@ -38171,6 +38105,7 @@
       "satellite_name": "Thaicom-6-8",
       "degree": "78.5° E",
       "postion": 785,
+      "online_degree": "78.5° E",
       "num_channels": "260621",
       "full_name": "Thaicom 6/8 at 78.5°E - LyngSat",
       "last_update": "2026-06-21",
@@ -39100,8 +39035,7 @@
             "Oto Shopping 3",
             "Oto Shopping 6",
             "Neramit 67",
-            "World Entertainment TV",
-            "<span class=\"__cf_email__\" data-cfemail=\"592e3c3b34382a2d3c2b193520373e2a382d773a3634\">[email&#160;protected]</span>"
+            "World Entertainment TV"
           ]
         }
       ]
@@ -39110,6 +39044,7 @@
       "satellite_name": "Apstar-7",
       "degree": "76.5° E",
       "postion": 765,
+      "online_degree": "76.5° E",
       "num_channels": "260606",
       "full_name": "Apstar 7 at 76.5°E - LyngSat",
       "last_update": "2026-06-21",
@@ -39585,8 +39520,7 @@
           "modulation": "QPSK",
           "pls": "",
           "channels": [
-            "Supreme Master TV",
-            "<span class=\"__cf_email__\" data-cfemail=\"c4b3a1a6a9a5b7b0a1b684a8bdaaa3b7a5b0eaa7aba9\">[email&#160;protected]</span>"
+            "Supreme Master TV"
           ]
         }
       ]
@@ -39595,6 +39529,7 @@
       "satellite_name": "ABS-2-2A",
       "degree": "75.0° E",
       "postion": 750,
+      "online_degree": "75.0° E",
       "num_channels": "260522",
       "full_name": "ABS 2/2A at 75.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -40054,8 +39989,7 @@
             "ITV 1 Delay",
             "BFBS Extra Delay",
             "BFBS Extra 2",
-            "Kantipur TV",
-            "<span class=\"__cf_email__\" data-cfemail=\"2552404748445651405765495c4b425644510b464a48\">[email&#160;protected]</span>"
+            "Kantipur TV"
           ]
         }
       ]
@@ -40064,6 +39998,7 @@
       "satellite_name": "G-Sat-18",
       "degree": "74.0° E",
       "postion": 740,
+      "online_degree": "74.0° E",
       "num_channels": "251111",
       "full_name": "G-Sat 18 at 74.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -40102,9 +40037,7 @@
           "system": "DVB-S",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"c8bfadaaa5a9bbbcadba88a4b1a6afbba9bce6aba7a5\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -40112,6 +40045,7 @@
       "satellite_name": "Intelsat-22",
       "degree": "72.1° E",
       "postion": 721,
+      "online_degree": "72.1° E",
       "num_channels": "260418",
       "full_name": "Intelsat 22 at 72.1°E - LyngSat",
       "last_update": "2026-06-21",
@@ -40297,9 +40231,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"83f4e6e1eee2f0f7e6f1c3effaede4f0e2f7ade0ecee\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -40307,6 +40239,7 @@
       "satellite_name": "Eutelsat-70B",
       "degree": "70.5° E",
       "postion": 705,
+      "online_degree": "70.5° E",
       "num_channels": "260605",
       "full_name": "Eutelsat 70B at 70.5°E - LyngSat",
       "last_update": "2026-06-21",
@@ -40571,8 +40504,7 @@
           "modulation": "QPSK",
           "pls": "",
           "channels": [
-            "MTA 7 Asia",
-            "<span class=\"__cf_email__\" data-cfemail=\"3e495b5c535f4d4a5b4c7e524750594d5f4a105d5153\">[email&#160;protected]</span>"
+            "MTA 7 Asia"
           ]
         }
       ]
@@ -40581,6 +40513,7 @@
       "satellite_name": "Intelsat-20-36",
       "degree": "68.5° E",
       "postion": 685,
+      "online_degree": "68.5° E",
       "num_channels": "260616",
       "full_name": "Intelsat 20/36 at 68.5°E - LyngSat",
       "last_update": "2026-06-21",
@@ -41888,8 +41821,7 @@
             "Dunamis TV",
             "APTIM TV",
             "Ebenezer TV",
-            "Temple TV",
-            "<span class=\"__cf_email__\" data-cfemail=\"4e392b2c232f3d3a2b3c0e223720293d2f3a602d2123\">[email&#160;protected]</span>"
+            "Temple TV"
           ]
         }
       ]
@@ -41898,6 +41830,7 @@
       "satellite_name": "Intelsat-17",
       "degree": "66.0° E",
       "postion": 660,
+      "online_degree": "66.0° E",
       "num_channels": "260527",
       "full_name": "Intelsat 17 at 66.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -42337,9 +42270,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"265143444b4755524354664a5f48415547520845494b\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -42347,6 +42278,7 @@
       "satellite_name": "Amos-4",
       "degree": "65.0° E",
       "postion": 650,
+      "online_degree": "65.0° E",
       "num_channels": "260620",
       "full_name": "Amos 4 at 65.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -42410,8 +42342,7 @@
           "modulation": "QPSK",
           "pls": "",
           "channels": [
-            "NTV National",
-            "<span class=\"__cf_email__\" data-cfemail=\"e39486818e8290978691a38f9a8d84908297cd808c8e\">[email&#160;protected]</span>"
+            "NTV National"
           ]
         }
       ]
@@ -42420,6 +42351,7 @@
       "satellite_name": "Intelsat-39",
       "degree": "62.0° E",
       "postion": 620,
+      "online_degree": "62.0° E",
       "num_channels": "260620",
       "full_name": "Intelsat 39 at 62.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -42854,9 +42786,7 @@
           "system": "DVB-S2",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"e79082858a8694938295a78b9e8980948693c984888a\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -42864,6 +42794,7 @@
       "satellite_name": "KazSat-3",
       "degree": "58.5° E",
       "postion": 585,
+      "online_degree": "58.5° E",
       "num_channels": "260605",
       "full_name": "KazSat 3 at 58.5°E - LyngSat",
       "last_update": "2026-06-21",
@@ -42961,9 +42892,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"9cebf9fef1fdefe8f9eedcf0e5f2fbeffde8b2fff3f1\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -42971,6 +42900,7 @@
       "satellite_name": "NSS-12",
       "degree": "57.0° E",
       "postion": 570,
+      "online_degree": "57.0° E",
       "num_channels": "260607",
       "full_name": "NSS 12 at 57.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -43406,8 +43336,7 @@
             "FTV Telekanali",
             "Milliy TV",
             "O'zbekiston Tarixi",
-            "Lux.TV",
-            "<span class=\"__cf_email__\" data-cfemail=\"502735323d3123243522103c293e372331247e333f3d\">[email&#160;protected]</span>"
+            "Lux.TV"
           ]
         }
       ]
@@ -43416,6 +43345,7 @@
       "satellite_name": "Express-AT2",
       "degree": "56.0° E",
       "postion": 560,
+      "online_degree": "56.0° E",
       "num_channels": "260619",
       "full_name": "Express AT2 at 56.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -43594,9 +43524,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"265143444b4755524354664a5f48415547520845494b\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -43604,6 +43532,7 @@
       "satellite_name": "G-Sat-16-and-Yamal-402",
       "degree": "54.9° E",
       "postion": 549,
+      "online_degree": "54.9° E",
       "num_channels": "260311",
       "full_name": "G-Sat 16 & Yamal 402 at 54.9°E - LyngSat",
       "last_update": "2026-06-21",
@@ -43907,8 +43836,7 @@
             "Multilandia",
             "Travel + Adventure",
             "Telekanal Dikij",
-            "Usadba",
-            "<span class=\"__cf_email__\" data-cfemail=\"136476717e7260677661537f6a7d746072673d707c7e\">[email&#160;protected]</span>"
+            "Usadba"
           ]
         }
       ]
@@ -43917,6 +43845,7 @@
       "satellite_name": "Express-AM6",
       "degree": "53.0° E",
       "postion": 530,
+      "online_degree": "53.0° E",
       "num_channels": "260619",
       "full_name": "Express AM6 at 53.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -44528,8 +44457,7 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": [
-            "Allahdhah TV",
-            "<span class=\"__cf_email__\" data-cfemail=\"2a5d4f48474b595e4f586a4653444d594b5e04494547\">[email&#160;protected]</span>"
+            "Allahdhah TV"
           ]
         }
       ]
@@ -44538,6 +44466,7 @@
       "satellite_name": "Al-Yah-1",
       "degree": "52.5° E",
       "postion": 525,
+      "online_degree": "52.5° E",
       "num_channels": "260621",
       "full_name": "Al Yah 1 at 52.5°E - LyngSat",
       "last_update": "2026-06-21",
@@ -44884,8 +44813,7 @@
             "National Geographic Middle East",
             "National Geographic Wild Middle East",
             "Disney Channel Middle East",
-            "Disney Jr Middle East",
-            "<span class=\"__cf_email__\" data-cfemail=\"c5b2a0a7a8a4b6b1a0b785a9bcaba2b6a4b1eba6aaa8\">[email&#160;protected]</span>"
+            "Disney Jr Middle East"
           ]
         }
       ]
@@ -44894,6 +44822,7 @@
       "satellite_name": "TurkmenAlem-MonacoSat",
       "degree": "52.0° E",
       "postion": 520,
+      "online_degree": "52.0° E",
       "num_channels": "260621",
       "full_name": "TurkmenÄlem/MonacoSat at 52.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -45306,8 +45235,7 @@
             "Sky News International",
             "Discovery Channel Middle East",
             "Investigation Discovery Europe",
-            "TV Monaco",
-            "<span class=\"__cf_email__\" data-cfemail=\"f38496919e9280879681b39f8a9d94809287dd909c9e\">[email&#160;protected]</span>"
+            "TV Monaco"
           ]
         }
       ]
@@ -45316,6 +45244,7 @@
       "satellite_name": "Belintersat-1",
       "degree": "51.5° E",
       "postion": 515,
+      "online_degree": "51.5° E",
       "num_channels": "260525",
       "full_name": "Belintersat 1 at 51.5°E - LyngSat",
       "last_update": "2026-06-21",
@@ -45555,8 +45484,7 @@
             "Belarus 2",
             "Belarus 3",
             "Belarus 5",
-            "Perviy Informationniy",
-            "<span class=\"__cf_email__\" data-cfemail=\"6f180a0d020e1c1b0a1d2f031601081c0e1b410c0002\">[email&#160;protected]</span>"
+            "Perviy Informationniy"
           ]
         }
       ]
@@ -45565,6 +45493,7 @@
       "satellite_name": "Turksat-4B",
       "degree": "50.0° E",
       "postion": 500,
+      "online_degree": "50.0° E",
       "num_channels": "250623",
       "full_name": "Türksat 4B at 50.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -45588,9 +45517,7 @@
           "system": "DVB-S",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"b0c7d5d2ddd1c3c4d5c2f0dcc9ded7c3d1c49ed3dfdd\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -45598,6 +45525,7 @@
       "satellite_name": "Yamal-601",
       "degree": "49.0° E",
       "postion": 490,
+      "online_degree": "49.0° E",
       "num_channels": "260421",
       "full_name": "Yamal 601 at 49.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -46053,9 +45981,7 @@
           "system": "DVB-S",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"7d0a181f101c0e09180f3d1104131a0e1c09531e1210\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -46063,6 +45989,7 @@
       "satellite_name": "Azerspace-1",
       "degree": "46.0° E",
       "postion": 460,
+      "online_degree": "46.0° E",
       "num_channels": "260615",
       "full_name": "Azerspace 1 at 46.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -46681,9 +46608,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"dea9bbbcb3bfadaabbac9eb2a7b0b9adbfaaf0bdb1b3\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -46691,6 +46616,7 @@
       "satellite_name": "Cosmos-2520-and-Azerspace-2-Intelsat-38",
       "degree": "45.1° E",
       "postion": 451,
+      "online_degree": "45.1° E",
       "num_channels": "260619",
       "full_name": "Cosmos 2520 & Azerspace 2/Intelsat 38 at 45.1°E - LyngSat",
       "last_update": "2026-06-21",
@@ -46892,8 +46818,7 @@
           "modulation": "QPSK",
           "pls": "",
           "channels": [
-            "MBC 2",
-            "<span class=\"__cf_email__\" data-cfemail=\"c9beacaba4a8babdacbb89a5b0a7aebaa8bde7aaa6a4\">[email&#160;protected]</span>"
+            "MBC 2"
           ]
         }
       ]
@@ -46902,6 +46827,7 @@
       "satellite_name": "NigComSat-1R",
       "degree": "42.5° E",
       "postion": 425,
+      "online_degree": "42.5° E",
       "num_channels": "240622",
       "full_name": "NigComSat 1R at 42.5°E - LyngSat",
       "last_update": "2026-06-21",
@@ -47079,8 +47005,7 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": [
-            "Spectrum TV",
-            "<span class=\"__cf_email__\" data-cfemail=\"2c5b494e414d5f58495e6c4055424b5f4d58024f4341\">[email&#160;protected]</span>"
+            "Spectrum TV"
           ]
         }
       ]
@@ -47089,6 +47014,7 @@
       "satellite_name": "Turksat-3A-4A-5B-6A",
       "degree": "42.0° E",
       "postion": 420,
+      "online_degree": "42.0° E",
       "num_channels": "260604",
       "full_name": "Türksat 3A/4A/5B/6A at 42.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -48552,8 +48478,7 @@
             "Crystal TV Plus",
             "Crystal TV Prime",
             "TRT World",
-            "Lumen Christi TV",
-            "<span class=\"__cf_email__\" data-cfemail=\"d8afbdbab5b9abacbdaa98b4a1b6bfabb9acf6bbb7b5\">[email&#160;protected]</span>"
+            "Lumen Christi TV"
           ]
         }
       ]
@@ -48562,6 +48487,7 @@
       "satellite_name": "Amos-3",
       "degree": "41.0° E",
       "postion": 410,
+      "online_degree": "41.0° E",
       "num_channels": "260331",
       "full_name": "Amos 3 at 41.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -48595,9 +48521,7 @@
           "system": "",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"f78092959a9684839285b79b8e9990849683d994989a\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -48605,6 +48529,7 @@
       "satellite_name": "Express-AM7",
       "degree": "40.0° E",
       "postion": 400,
+      "online_degree": "40.0° E",
       "num_channels": "260619",
       "full_name": "Express AM7 at 40.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -49308,8 +49233,7 @@
             "Varzesh TV",
             "Salamat TV",
             "Tehran TV",
-            "IRIB UHD",
-            "<span class=\"__cf_email__\" data-cfemail=\"275042454a4654534255674b5e49405446530944484a\">[email&#160;protected]</span>"
+            "IRIB UHD"
           ]
         }
       ]
@@ -49318,6 +49242,7 @@
       "satellite_name": "Hellas-Sat-3-4",
       "degree": "39.0° E",
       "postion": 390,
+      "online_degree": "39.0° E",
       "num_channels": "260615",
       "full_name": "Hellas Sat 3/4 at 39.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -50006,8 +49931,7 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": [
-            "Kanal D Romania",
-            "<span class=\"__cf_email__\" data-cfemail=\"8dfae8efe0ecfef9e8ffcde1f4e3eafeecf9a3eee2e0\">[email&#160;protected]</span>"
+            "Kanal D Romania"
           ]
         }
       ]
@@ -50016,6 +49940,7 @@
       "satellite_name": "Paksat-1R-MM1",
       "degree": "38.1° E",
       "postion": 381,
+      "online_degree": "38.1° E",
       "num_channels": "260608",
       "full_name": "Paksat 1R/MM1 at 38.1°E - LyngSat",
       "last_update": "2026-06-21",
@@ -50783,8 +50708,7 @@
           "modulation": "",
           "pls": "",
           "channels": [
-            "Samaa Entertainment",
-            "<span class=\"__cf_email__\" data-cfemail=\"93e4f6f1fef2e0e7f6e1d3ffeafdf4e0f2e7bdf0fcfe\">[email&#160;protected]</span>"
+            "Samaa Entertainment"
           ]
         }
       ]
@@ -50793,6 +50717,7 @@
       "satellite_name": "Eutelsat-36D-and-Express-AMU1",
       "degree": "36.0° E",
       "postion": 360,
+      "online_degree": "36.0° E",
       "num_channels": "260616",
       "full_name": "Eutelsat 36D & Express AMU1 at 36.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -52132,9 +52057,7 @@
           "system": "",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"562133343b3725223324163a2f38312537227835393b\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -52142,6 +52065,7 @@
       "satellite_name": "Eutelsat-33F",
       "degree": "33.0° E",
       "postion": 330,
+      "online_degree": "33.0° E",
       "num_channels": "250928",
       "full_name": "Eutelsat 33F at 33.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -52205,9 +52129,7 @@
           "system": "DVB-S2",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"403725222d2133342532002c392e273321346e232f2d\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -52215,6 +52137,7 @@
       "satellite_name": "Turksat-5A",
       "degree": "31.0° E",
       "postion": 310,
+      "online_degree": "31.0° E",
       "num_channels": "260522",
       "full_name": "Türksat 5A at 31.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -52348,9 +52271,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"572032353a3624233225173b2e39302436237934383a\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -52358,6 +52279,7 @@
       "satellite_name": "Arabsat-5A-6A",
       "degree": "30.5° E",
       "postion": 305,
+      "online_degree": "30.5° E",
       "num_channels": "260612",
       "full_name": "Arabsat 5A/6A at 30.5°E - LyngSat",
       "last_update": "2026-06-21",
@@ -53088,9 +53010,7 @@
           "system": "DVB-S2",
           "modulation": "QPSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"f98e9c9b94988a8d9c8bb99580979e8a988dd79a9694\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -53098,6 +53018,7 @@
       "satellite_name": "Astra-2E-2F-2G",
       "degree": "28.3° E",
       "postion": 283,
+      "online_degree": "28.3° E",
       "num_channels": "260512",
       "full_name": "Astra 2E/2F/2G at 28.3°E - LyngSat",
       "last_update": "2026-06-21",
@@ -54485,9 +54406,7 @@
           "system": "DVB-S2",
           "modulation": "QPSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"2c5b494e414d5f58495e6c4055424b5f4d58024f4341\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -54495,6 +54414,7 @@
       "satellite_name": "Badr-7-8-and-Eshail-2",
       "degree": "26.0° E",
       "postion": 260,
+      "online_degree": "26.0° E",
       "num_channels": "260606",
       "full_name": "Badr 7/8 & Es'hail 2 at 26.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -55743,9 +55663,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"b5c2d0d7d8d4c6c1d0c7f5d9ccdbd2c6d4c19bd6dad8\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -55753,6 +55671,7 @@
       "satellite_name": "Eshail-1",
       "degree": "25.5° E",
       "postion": 255,
+      "online_degree": "25.5° E",
       "num_channels": "260611",
       "full_name": "Es'hail 1 at 25.5°E - LyngSat",
       "last_update": "2026-06-21",
@@ -56068,8 +55987,7 @@
             "Sorec TV",
             "Sloog",
             "L'Match",
-            "Sisal Loterie Nationale",
-            "<span class=\"__cf_email__\" data-cfemail=\"b2c5d7d0dfd3c1c6d7c0f2decbdcd5c1d3c69cd1dddf\">[email&#160;protected]</span>"
+            "Sisal Loterie Nationale"
           ]
         }
       ]
@@ -56078,6 +55996,7 @@
       "satellite_name": "Astra-3C",
       "degree": "23.5° E",
       "postion": 235,
+      "online_degree": "23.5° E",
       "num_channels": "260610",
       "full_name": "Astra 3C at 23.5°E - LyngSat",
       "last_update": "2026-06-21",
@@ -56490,9 +56409,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"136476717e7260677661537f6a7d746072673d707c7e\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -56500,6 +56417,7 @@
       "satellite_name": "Eutelsat-21B",
       "degree": "21.5° E",
       "postion": 215,
+      "online_degree": "21.5° E",
       "num_channels": "260617",
       "full_name": "Eutelsat 21B at 21.5°E - LyngSat",
       "last_update": "2026-06-21",
@@ -57551,9 +57469,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"abdccec9c6cad8dfced9ebc7d2c5ccd8cadf85c8c4c6\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -57561,6 +57477,7 @@
       "satellite_name": "Arabsat-5C",
       "degree": "20.0° E",
       "postion": 200,
+      "online_degree": "20.0° E",
       "num_channels": "260521",
       "full_name": "Arabsat 5C at 20.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -57691,9 +57608,7 @@
           "system": "",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"790e1c1b14180a0d1c0b391500171e0a180d571a1614\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -57701,6 +57616,7 @@
       "satellite_name": "Astra-1N-1P",
       "degree": "19.2° E",
       "postion": 192,
+      "online_degree": "19.2° E",
       "num_channels": "260608",
       "full_name": "Astra 1N/1P at 19.2°E - LyngSat",
       "last_update": "2026-06-21",
@@ -59130,9 +59046,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"b2c5d7d0dfd3c1c6d7c0f2decbdcd5c1d3c69cd1dddf\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -59140,6 +59054,7 @@
       "satellite_name": "Amos-17",
       "degree": "17.0° E",
       "postion": 170,
+      "online_degree": "17.0° E",
       "num_channels": "260617",
       "full_name": "Amos 17 at 17.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -59578,8 +59493,7 @@
           "modulation": "QPSK",
           "pls": "",
           "channels": [
-            "TCF",
-            "<span class=\"__cf_email__\" data-cfemail=\"0e796b6c636f7d7a6b7c4e627760697d6f7a206d6163\">[email&#160;protected]</span>"
+            "TCF"
           ]
         }
       ]
@@ -59588,6 +59502,7 @@
       "satellite_name": "Eutelsat-16A",
       "degree": "16.0° E",
       "postion": 160,
+      "online_degree": "16.0° E",
       "num_channels": "260619",
       "full_name": "Eutelsat 16A at 16.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -61201,8 +61116,7 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": [
-            "Bantamba TV",
-            "<span class=\"__cf_email__\" data-cfemail=\"c3b4a6a1aea2b0b7a6b183afbaada4b0a2b7eda0acae\">[email&#160;protected]</span>"
+            "Bantamba TV"
           ]
         }
       ]
@@ -61211,6 +61125,7 @@
       "satellite_name": "Hotbird-13F-13G",
       "degree": "13.0° E",
       "postion": 130,
+      "online_degree": "13.0° E",
       "num_channels": "260620",
       "full_name": "Hotbird 13F/13G at 13.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -62866,9 +62781,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"7403111619150700110634180d1a130715005a171b19\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -62876,6 +62789,7 @@
       "satellite_name": "Eutelsat-10B",
       "degree": "10.0° E",
       "postion": 100,
+      "online_degree": "10.0° E",
       "num_channels": "260612",
       "full_name": "Eutelsat 10B at 10.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -63466,8 +63380,7 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": [
-            "Zap Viva Internacional",
-            "<span class=\"__cf_email__\" data-cfemail=\"6413010609051710011624081d0a031705104a070b09\">[email&#160;protected]</span>"
+            "Zap Viva Internacional"
           ]
         }
       ]
@@ -63476,6 +63389,7 @@
       "satellite_name": "Eutelsat-9B-and-Ka-Sat-9A",
       "degree": "9.0° E",
       "postion": 90,
+      "online_degree": "9.0° E",
       "num_channels": "260122",
       "full_name": "Eutelsat 9B & Ka-Sat 9A at 9.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -64403,8 +64317,7 @@
             "Cúla 4",
             "Oireachtas TV",
             "RTÉ One +1",
-            "RTÉ 2 +1",
-            "<span class=\"__cf_email__\" data-cfemail=\"6b1c0e09060a181f0e192b0712050c180a1f45080406\">[email&#160;protected]</span>"
+            "RTÉ 2 +1"
           ]
         }
       ]
@@ -64413,6 +64326,7 @@
       "satellite_name": "Eutelsat-7B-7C",
       "degree": "7.0° E",
       "postion": 70,
+      "online_degree": "7.0° E",
       "num_channels": "260614",
       "full_name": "Eutelsat 7B/7C at 7.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -66139,9 +66053,7 @@
           "system": "DVB-S2",
           "modulation": "",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"7c0b191e111d0f08190e3c1005121b0f1d08521f1311\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -66149,6 +66061,7 @@
       "satellite_name": "Astra-4A-and-SES-5",
       "degree": "4.9° E",
       "postion": 49,
+      "online_degree": "4.9° E",
       "num_channels": "260502",
       "full_name": "Astra 4A & SES 5 at 4.9°E - LyngSat",
       "last_update": "2026-06-21",
@@ -66782,9 +66695,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"7e091b1c131f0d0a1b0c3e120710190d1f0a501d1113\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     },
@@ -66792,6 +66703,7 @@
       "satellite_name": "Eutelsat-3B-and-Rascom-QAF-1R",
       "degree": "3.0° E",
       "postion": 30,
+      "online_degree": "3.0° E",
       "num_channels": "260610",
       "full_name": "Eutelsat 3B & Rascom QAF 1R at 3.0°E - LyngSat",
       "last_update": "2026-06-21",
@@ -67771,8 +67683,7 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": [
-            "Alforat TV",
-            "<span class=\"__cf_email__\" data-cfemail=\"473022252a2634332235072b3e29203426336924282a\">[email&#160;protected]</span>"
+            "Alforat TV"
           ]
         }
       ]
@@ -67781,6 +67692,7 @@
       "satellite_name": "BulgariaSat-1",
       "degree": "1.9° E",
       "postion": 19,
+      "online_degree": "1.9° E",
       "num_channels": "260617",
       "full_name": "BulgariaSat 1 at 1.9°E - LyngSat",
       "last_update": "2026-06-21",
@@ -67957,9 +67869,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"c8bfadaaa5a9bbbcadba88a4b1a6afbba9bce6aba7a5\">[email&#160;protected]</span>"
-          ]
+          "channels": []
         }
       ]
     }
