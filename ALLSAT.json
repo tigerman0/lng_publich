@@ -63,7 +63,7 @@
     "satellite_name": "SES-4",
     "degree": "22.0° W",
     "postion": -220,
-    "num_channels": "260530"
+    "num_channels": "260623"
   },
   {
     "satellite_name": "Alcomsat-1",
@@ -177,7 +177,7 @@
     "satellite_name": "Star-One-C4-D2",
     "degree": "70.0° W",
     "postion": -700,
-    "num_channels": "260525"
+    "num_channels": "260623"
   },
   {
     "satellite_name": "Arsat-1",
@@ -549,13 +549,13 @@
     "satellite_name": "JCSAT-4B",
     "degree": "124.0° E",
     "postion": 1240,
-    "num_channels": "260621"
+    "num_channels": "260623"
   },
   {
     "satellite_name": "AsiaSat-9",
     "degree": "122.0° E",
     "postion": 1220,
-    "num_channels": "260621"
+    "num_channels": "260623"
   },
   {
     "satellite_name": "AsiaSat-6-Thaicom-7",
@@ -675,13 +675,13 @@
     "satellite_name": "Measat-3b-3d",
     "degree": "91.5° E",
     "postion": 915,
-    "num_channels": "260618"
+    "num_channels": "260623"
   },
   {
     "satellite_name": "Yamal-401",
     "degree": "90.0° E",
     "postion": 900,
-    "num_channels": "260526"
+    "num_channels": "260623"
   },
   {
     "satellite_name": "ST-2",
@@ -717,7 +717,7 @@
     "satellite_name": "Thaicom-6-8",
     "degree": "78.5° E",
     "postion": 785,
-    "num_channels": "260621"
+    "num_channels": "260623"
   },
   {
     "satellite_name": "Apstar-7",
@@ -771,7 +771,7 @@
     "satellite_name": "Intelsat-39",
     "degree": "62.0° E",
     "postion": 620,
-    "num_channels": "260620"
+    "num_channels": "260623"
   },
   {
     "satellite_name": "KazSat-3",
@@ -783,13 +783,13 @@
     "satellite_name": "NSS-12",
     "degree": "57.0° E",
     "postion": 570,
-    "num_channels": "260607"
+    "num_channels": "260623"
   },
   {
     "satellite_name": "Express-AT2",
     "degree": "56.0° E",
     "postion": 560,
-    "num_channels": "260622"
+    "num_channels": "260623"
   },
   {
     "satellite_name": "G-Sat-16-and-Yamal-402",
@@ -885,7 +885,7 @@
     "satellite_name": "Eutelsat-36D-and-Express-AMU1",
     "degree": "36.0° E",
     "postion": 360,
-    "num_channels": "260622"
+    "num_channels": "260623"
   },
   {
     "satellite_name": "Eutelsat-33F",
@@ -927,7 +927,7 @@
     "satellite_name": "Astra-3C",
     "degree": "23.5° E",
     "postion": 235,
-    "num_channels": "260610"
+    "num_channels": "260623"
   },
   {
     "satellite_name": "Eutelsat-21B",
@@ -987,7 +987,7 @@
     "satellite_name": "Astra-4A-and-SES-5",
     "degree": "4.9° E",
     "postion": 49,
-    "num_channels": "260502"
+    "num_channels": "260623"
   },
   {
     "satellite_name": "Eutelsat-3B-and-Rascom-QAF-1R",
