@@ -3,7 +3,7 @@
     "satellite_name": "Thor-5-6-7-and-Intelsat-10-02",
     "degree": "0.8° W",
     "postion": -8,
-    "num_channels": "260419"
+    "num_channels": "260624"
   },
   {
     "satellite_name": "ABS-3A",
@@ -81,7 +81,7 @@
     "satellite_name": "Intelsat-35e",
     "degree": "34.5° W",
     "postion": -345,
-    "num_channels": "260621"
+    "num_channels": "260624"
   },
   {
     "satellite_name": "Hispasat-36W-1",
@@ -501,13 +501,13 @@
     "satellite_name": "Express-AM5",
     "degree": "140.0° E",
     "postion": 1400,
-    "num_channels": "260503"
+    "num_channels": "260624"
   },
   {
     "satellite_name": "Telstar-18-Vantage",
     "degree": "138.0° E",
     "postion": 1380,
-    "num_channels": "260619"
+    "num_channels": "260624"
   },
   {
     "satellite_name": "Apstar-6C",
@@ -561,7 +561,7 @@
     "satellite_name": "AsiaSat-6-Thaicom-7",
     "degree": "120.0° E",
     "postion": 1200,
-    "num_channels": "260407"
+    "num_channels": "260624"
   },
   {
     "satellite_name": "Thaicom-4-and-Bangladesh-1",
@@ -801,7 +801,7 @@
     "satellite_name": "Express-AM6",
     "degree": "53.0° E",
     "postion": 530,
-    "num_channels": "260619"
+    "num_channels": "260624"
   },
   {
     "satellite_name": "Al-Yah-1",
@@ -813,7 +813,7 @@
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
     "postion": 520,
-    "num_channels": "260622"
+    "num_channels": "260624"
   },
   {
     "satellite_name": "Belintersat-1",
@@ -843,12 +843,12 @@
     "satellite_name": "Cosmos-2520-and-Azerspace-2-Intelsat-38",
     "degree": "45.1° E",
     "postion": 451,
-    "num_channels": "260619"
+    "num_channels": "260624"
   },
   {
     "satellite_name": "Amos-3",
-    "degree": "43.0° E",
-    "postion": 430,
+    "degree": "44.0° E",
+    "postion": 440,
     "num_channels": "260331"
   },
   {
