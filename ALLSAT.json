@@ -27,13 +27,13 @@
     "satellite_name": "Nilesat-201-301-and-Eutelsat-7-West-A",
     "degree": "7.0° W",
     "postion": -70,
-    "num_channels": "260629"
+    "num_channels": "260701"
   },
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
     "postion": -80,
-    "num_channels": "260630"
+    "num_channels": "260701"
   },
   {
     "satellite_name": "Express-AM44",
@@ -507,7 +507,7 @@
     "satellite_name": "Telstar-18-Vantage",
     "degree": "138.0° E",
     "postion": 1380,
-    "num_channels": "260624"
+    "num_channels": "260701"
   },
   {
     "satellite_name": "Apstar-6C",
@@ -555,7 +555,7 @@
     "satellite_name": "AsiaSat-9",
     "degree": "122.0° E",
     "postion": 1220,
-    "num_channels": "260628"
+    "num_channels": "260701"
   },
   {
     "satellite_name": "AsiaSat-6-Thaicom-7",
@@ -687,7 +687,7 @@
     "satellite_name": "Yamal-401",
     "degree": "90.0° E",
     "postion": 900,
-    "num_channels": "260623"
+    "num_channels": "260701"
   },
   {
     "satellite_name": "ST-2",
@@ -717,25 +717,25 @@
     "satellite_name": "Express-80",
     "degree": "80.0° E",
     "postion": 800,
-    "num_channels": "260630"
+    "num_channels": "260629"
   },
   {
     "satellite_name": "Thaicom-6-8",
     "degree": "78.5° E",
     "postion": 785,
-    "num_channels": "260630"
+    "num_channels": "260701"
   },
   {
     "satellite_name": "Apstar-7",
     "degree": "76.5° E",
     "postion": 765,
-    "num_channels": "260629"
+    "num_channels": "260701"
   },
   {
     "satellite_name": "ABS-2-2A",
     "degree": "75.0° E",
     "postion": 750,
-    "num_channels": "260627"
+    "num_channels": "260701"
   },
   {
     "satellite_name": "G-Sat-18",
@@ -813,7 +813,7 @@
     "satellite_name": "Al-Yah-1",
     "degree": "52.5° E",
     "postion": 525,
-    "num_channels": "260628"
+    "num_channels": "260701"
   },
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
@@ -825,7 +825,13 @@
     "satellite_name": "Belintersat-1",
     "degree": "51.5° E",
     "postion": 515,
-    "num_channels": "260628"
+    "num_channels": "260701"
+  },
+  {
+    "satellite_name": "Amos-3",
+    "degree": "50.0° E",
+    "postion": 500,
+    "num_channels": "250125"
   },
   {
     "satellite_name": "Turksat-4B",
@@ -840,12 +846,6 @@
     "num_channels": "260421"
   },
   {
-    "satellite_name": "Amos-3",
-    "degree": "48.5° E",
-    "postion": 485,
-    "num_channels": "250125"
-  },
-  {
     "satellite_name": "Azerspace-1",
     "degree": "46.0° E",
     "postion": 460,
@@ -855,7 +855,7 @@
     "satellite_name": "Cosmos-2520-and-Azerspace-2-Intelsat-38",
     "degree": "45.1° E",
     "postion": 451,
-    "num_channels": "260626"
+    "num_channels": "260701"
   },
   {
     "satellite_name": "NigComSat-1R",
@@ -885,7 +885,7 @@
     "satellite_name": "Paksat-1R-MM1",
     "degree": "38.1° E",
     "postion": 381,
-    "num_channels": "260629"
+    "num_channels": "260701"
   },
   {
     "satellite_name": "Eutelsat-36D-and-Express-AMU1",
@@ -951,25 +951,25 @@
     "satellite_name": "Astra-1N-1P",
     "degree": "19.2° E",
     "postion": 192,
-    "num_channels": "260608"
+    "num_channels": "260701"
   },
   {
     "satellite_name": "Amos-17",
     "degree": "17.0° E",
     "postion": 170,
-    "num_channels": "260626"
+    "num_channels": "260701"
   },
   {
     "satellite_name": "Eutelsat-16A",
     "degree": "16.0° E",
     "postion": 160,
-    "num_channels": "260627"
+    "num_channels": "260701"
   },
   {
     "satellite_name": "Hotbird-13F-13G",
     "degree": "13.0° E",
     "postion": 130,
-    "num_channels": "260625"
+    "num_channels": "260701"
   },
   {
     "satellite_name": "Eutelsat-10B",
