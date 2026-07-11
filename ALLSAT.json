@@ -81,7 +81,7 @@
     "satellite_name": "Intelsat-35e",
     "degree": "34.5° W",
     "postion": -345,
-    "num_channels": "260708"
+    "num_channels": "260709"
   },
   {
     "satellite_name": "Hispasat-36W-1",
@@ -117,7 +117,7 @@
     "satellite_name": "Intelsat-14",
     "degree": "45.0° W",
     "postion": -450,
-    "num_channels": "260708"
+    "num_channels": "260709"
   },
   {
     "satellite_name": "SES-14",
@@ -135,7 +135,7 @@
     "satellite_name": "Intelsat-34",
     "degree": "55.5° W",
     "postion": -555,
-    "num_channels": "260628"
+    "num_channels": "260709"
   },
   {
     "satellite_name": "Intelsat-21",
@@ -225,7 +225,7 @@
     "satellite_name": "Arsat-2",
     "degree": "81.0° W",
     "postion": -810,
-    "num_channels": "260708"
+    "num_channels": "260709"
   },
   {
     "satellite_name": "Star-One-D1",
@@ -255,7 +255,7 @@
     "satellite_name": "Galaxy-32-and-Nimiq-6",
     "degree": "91.0° W",
     "postion": -910,
-    "num_channels": "250802"
+    "num_channels": "260709"
   },
   {
     "satellite_name": "Galaxy-35",
@@ -753,7 +753,7 @@
     "satellite_name": "Intelsat-20-36",
     "degree": "68.5° E",
     "postion": 685,
-    "num_channels": "260705"
+    "num_channels": "260709"
   },
   {
     "satellite_name": "Intelsat-17",
@@ -786,16 +786,16 @@
     "num_channels": "260626"
   },
   {
+    "satellite_name": "Amos-3",
+    "degree": "56.0° E",
+    "postion": 560,
+    "num_channels": "250125"
+  },
+  {
     "satellite_name": "Express-AT2",
     "degree": "56.0° E",
     "postion": 560,
     "num_channels": "260703"
-  },
-  {
-    "satellite_name": "Amos-3",
-    "degree": "55.5° E",
-    "postion": 555,
-    "num_channels": "250125"
   },
   {
     "satellite_name": "G-Sat-16-and-Yamal-402",
@@ -813,13 +813,13 @@
     "satellite_name": "Al-Yah-1",
     "degree": "52.5° E",
     "postion": 525,
-    "num_channels": "260705"
+    "num_channels": "260709"
   },
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
     "postion": 520,
-    "num_channels": "260708"
+    "num_channels": "260709"
   },
   {
     "satellite_name": "Belintersat-1",
@@ -861,7 +861,7 @@
     "satellite_name": "Turksat-3A-4A-5B-6A",
     "degree": "42.0° E",
     "postion": 420,
-    "num_channels": "260702"
+    "num_channels": "260709"
   },
   {
     "satellite_name": "Express-AM7",
