@@ -411,7 +411,7 @@
     "satellite_name": "Eutelsat-172B",
     "degree": "172.0° E",
     "postion": 1720,
-    "num_channels": "260411"
+    "num_channels": "260711"
   },
   {
     "satellite_name": "Horizons-3e",
@@ -477,7 +477,7 @@
     "satellite_name": "Nusantara-Satu",
     "degree": "146.0° E",
     "postion": 1460,
-    "num_channels": "260511"
+    "num_channels": "260711"
   },
   {
     "satellite_name": "Express-AMU7",
@@ -495,7 +495,7 @@
     "satellite_name": "Apstar-9",
     "degree": "142.0° E",
     "postion": 1420,
-    "num_channels": "260412"
+    "num_channels": "201116"
   },
   {
     "satellite_name": "Express-AM5",
@@ -507,7 +507,7 @@
     "satellite_name": "Telstar-18-Vantage",
     "degree": "138.0° E",
     "postion": 1380,
-    "num_channels": "260701"
+    "num_channels": "260711"
   },
   {
     "satellite_name": "Apstar-6C",
@@ -609,7 +609,7 @@
     "satellite_name": "AsiaSat-7",
     "degree": "105.5° E",
     "postion": 1055,
-    "num_channels": "260627"
+    "num_channels": "260711"
   },
   {
     "satellite_name": "Express-AMU3",
@@ -687,7 +687,7 @@
     "satellite_name": "ST-2",
     "degree": "88.0° E",
     "postion": 880,
-    "num_channels": "260613"
+    "num_channels": "260711"
   },
   {
     "satellite_name": "ChinaSat-12",
@@ -711,7 +711,7 @@
     "satellite_name": "Express-80",
     "degree": "80.0° E",
     "postion": 800,
-    "num_channels": "260702"
+    "num_channels": "260711"
   },
   {
     "satellite_name": "Thaicom-6-8",
@@ -771,7 +771,7 @@
     "satellite_name": "Intelsat-39",
     "degree": "62.0° E",
     "postion": 620,
-    "num_channels": "260627"
+    "num_channels": "260711"
   },
   {
     "satellite_name": "KazSat-3",
@@ -780,16 +780,16 @@
     "num_channels": "260605"
   },
   {
+    "satellite_name": "Amos-3",
+    "degree": "58.0° E",
+    "postion": 580,
+    "num_channels": "250125"
+  },
+  {
     "satellite_name": "NSS-12",
     "degree": "57.0° E",
     "postion": 570,
     "num_channels": "260626"
-  },
-  {
-    "satellite_name": "Amos-3",
-    "degree": "57.0° E",
-    "postion": 570,
-    "num_channels": "250125"
   },
   {
     "satellite_name": "Express-AT2",
@@ -819,7 +819,7 @@
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
     "postion": 520,
-    "num_channels": "260710"
+    "num_channels": "260711"
   },
   {
     "satellite_name": "Belintersat-1",
@@ -843,13 +843,13 @@
     "satellite_name": "Azerspace-1",
     "degree": "46.0° E",
     "postion": 460,
-    "num_channels": "260708"
+    "num_channels": "260711"
   },
   {
     "satellite_name": "Cosmos-2520-and-Azerspace-2-Intelsat-38",
     "degree": "45.1° E",
     "postion": 451,
-    "num_channels": "260705"
+    "num_channels": "260711"
   },
   {
     "satellite_name": "NigComSat-1R",
@@ -879,7 +879,7 @@
     "satellite_name": "Paksat-1R-MM1",
     "degree": "38.1° E",
     "postion": 381,
-    "num_channels": "260701"
+    "num_channels": "260711"
   },
   {
     "satellite_name": "Eutelsat-36D-and-Express-AMU1",
@@ -951,13 +951,13 @@
     "satellite_name": "Amos-17",
     "degree": "17.0° E",
     "postion": 170,
-    "num_channels": "260706"
+    "num_channels": "260711"
   },
   {
     "satellite_name": "Eutelsat-16A",
     "degree": "16.0° E",
     "postion": 160,
-    "num_channels": "260708"
+    "num_channels": "260711"
   },
   {
     "satellite_name": "Hotbird-13F-13G",
@@ -969,7 +969,7 @@
     "satellite_name": "Eutelsat-10B",
     "degree": "10.0° E",
     "postion": 100,
-    "num_channels": "260704"
+    "num_channels": "260711"
   },
   {
     "satellite_name": "Eutelsat-9B-and-Ka-Sat-9A",
@@ -981,7 +981,7 @@
     "satellite_name": "Eutelsat-7B-7C",
     "degree": "7.0° E",
     "postion": 70,
-    "num_channels": "260705"
+    "num_channels": "260711"
   },
   {
     "satellite_name": "Astra-4A-and-SES-5",
@@ -993,7 +993,7 @@
     "satellite_name": "Eutelsat-3B-and-Rascom-QAF-1R",
     "degree": "3.0° E",
     "postion": 30,
-    "num_channels": "260628"
+    "num_channels": "260711"
   },
   {
     "satellite_name": "BulgariaSat-1",
