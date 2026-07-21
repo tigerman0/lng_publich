@@ -33,7 +33,7 @@
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
     "postion": -80,
-    "num_channels": "260718"
+    "num_channels": "260719"
   },
   {
     "satellite_name": "Express-AM44",
@@ -75,7 +75,7 @@
     "satellite_name": "Hispasat-30W-5-30W-6",
     "degree": "30.0° W",
     "postion": -300,
-    "num_channels": "260706"
+    "num_channels": "260719"
   },
   {
     "satellite_name": "Intelsat-35e",
@@ -549,7 +549,7 @@
     "satellite_name": "JCSAT-4B",
     "degree": "124.0° E",
     "postion": 1240,
-    "num_channels": "260712"
+    "num_channels": "260719"
   },
   {
     "satellite_name": "AsiaSat-9",
@@ -769,15 +769,15 @@
   },
   {
     "satellite_name": "Amos-3",
-    "degree": "63.0° E",
-    "postion": 630,
+    "degree": "64.0° E",
+    "postion": 640,
     "num_channels": "250125"
   },
   {
     "satellite_name": "Intelsat-39",
     "degree": "62.0° E",
     "postion": 620,
-    "num_channels": "260717"
+    "num_channels": "260719"
   },
   {
     "satellite_name": "KazSat-3",
@@ -813,7 +813,7 @@
     "satellite_name": "Al-Yah-1",
     "degree": "52.5° E",
     "postion": 525,
-    "num_channels": "260718"
+    "num_channels": "260719"
   },
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
@@ -969,7 +969,7 @@
     "satellite_name": "Eutelsat-10B",
     "degree": "10.0° E",
     "postion": 100,
-    "num_channels": "260712"
+    "num_channels": "260719"
   },
   {
     "satellite_name": "Eutelsat-9B-and-Ka-Sat-9A",
@@ -981,13 +981,13 @@
     "satellite_name": "Eutelsat-7B-7C",
     "degree": "7.0° E",
     "postion": 70,
-    "num_channels": "260717"
+    "num_channels": "260719"
   },
   {
     "satellite_name": "Astra-4A-and-SES-5",
     "degree": "4.9° E",
     "postion": 49,
-    "num_channels": "260718"
+    "num_channels": "260719"
   },
   {
     "satellite_name": "Eutelsat-3B-and-Rascom-QAF-1R",
