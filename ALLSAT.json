@@ -33,7 +33,7 @@
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
     "postion": -80,
-    "num_channels": "260726"
+    "num_channels": "260727"
   },
   {
     "satellite_name": "Express-AM44",
@@ -207,7 +207,7 @@
     "satellite_name": "Star-One-C3",
     "degree": "75.0° W",
     "postion": -750,
-    "num_channels": "260715"
+    "num_channels": "260727"
   },
   {
     "satellite_name": "QuetzSat-1",
@@ -519,7 +519,7 @@
     "satellite_name": "Vinasat-1-2",
     "degree": "131.9° E",
     "postion": 1319,
-    "num_channels": "260710"
+    "num_channels": "260727"
   },
   {
     "satellite_name": "ChinaSat-6C",
@@ -555,7 +555,7 @@
     "satellite_name": "AsiaSat-9",
     "degree": "122.0° E",
     "postion": 1220,
-    "num_channels": "260702"
+    "num_channels": "260727"
   },
   {
     "satellite_name": "AsiaSat-6-Thaicom-7",
@@ -648,10 +648,16 @@
     "num_channels": "260626"
   },
   {
-    "satellite_name": "SES-8-12",
+    "satellite_name": "SES-8",
     "degree": "95.0° E",
     "postion": 950,
     "num_channels": "260620"
+  },
+  {
+    "satellite_name": "SES-12",
+    "degree": "95.0° E",
+    "postion": 950,
+    "num_channels": "260727"
   },
   {
     "satellite_name": "G-Sat-15-17",
@@ -753,7 +759,7 @@
     "satellite_name": "Intelsat-20-36",
     "degree": "68.5° E",
     "postion": 685,
-    "num_channels": "260725"
+    "num_channels": "260727"
   },
   {
     "satellite_name": "Intelsat-17",
@@ -813,13 +819,13 @@
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
     "postion": 520,
-    "num_channels": "260725"
+    "num_channels": "260727"
   },
   {
     "satellite_name": "Belintersat-1",
     "degree": "51.5° E",
     "postion": 515,
-    "num_channels": "260724"
+    "num_channels": "260727"
   },
   {
     "satellite_name": "Turksat-4B",
@@ -897,7 +903,7 @@
     "satellite_name": "Arabsat-5A-6A",
     "degree": "30.5° E",
     "postion": 305,
-    "num_channels": "260712"
+    "num_channels": "260727"
   },
   {
     "satellite_name": "Astra-2E-2F-2G",
@@ -933,7 +939,7 @@
     "satellite_name": "Arabsat-5C",
     "degree": "20.0° E",
     "postion": 200,
-    "num_channels": "260712"
+    "num_channels": "260727"
   },
   {
     "satellite_name": "Astra-1N-1P",
