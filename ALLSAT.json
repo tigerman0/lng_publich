@@ -33,7 +33,7 @@
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
     "postion": -80,
-    "num_channels": "260727"
+    "num_channels": "260729"
   },
   {
     "satellite_name": "Express-AM44",
@@ -81,7 +81,7 @@
     "satellite_name": "Intelsat-35e",
     "degree": "34.5° W",
     "postion": -345,
-    "num_channels": "260725"
+    "num_channels": "260729"
   },
   {
     "satellite_name": "Hispasat-36W-1",
@@ -303,7 +303,7 @@
     "satellite_name": "EchoStar-105-SES-11",
     "degree": "105.0° W",
     "postion": -1050,
-    "num_channels": "260509"
+    "num_channels": "260729"
   },
   {
     "satellite_name": "Anik-F1R-G1",
@@ -681,7 +681,7 @@
     "satellite_name": "ST-2",
     "degree": "88.0° E",
     "postion": 880,
-    "num_channels": "260728"
+    "num_channels": "260729"
   },
   {
     "satellite_name": "ChinaSat-12",
@@ -739,8 +739,8 @@
   },
   {
     "satellite_name": "Amos-3",
-    "degree": "71.0° E",
-    "postion": 710,
+    "degree": "71.5° E",
+    "postion": 715,
     "num_channels": "250125"
   },
   {
@@ -753,7 +753,7 @@
     "satellite_name": "Intelsat-20-36",
     "degree": "68.5° E",
     "postion": 685,
-    "num_channels": "260727"
+    "num_channels": "260729"
   },
   {
     "satellite_name": "Intelsat-17",
@@ -765,7 +765,7 @@
     "satellite_name": "Amos-4",
     "degree": "65.0° E",
     "postion": 650,
-    "num_channels": "260620"
+    "num_channels": "260729"
   },
   {
     "satellite_name": "Intelsat-39",
@@ -783,7 +783,7 @@
     "satellite_name": "NSS-12",
     "degree": "57.0° E",
     "postion": 570,
-    "num_channels": "260728"
+    "num_channels": "260729"
   },
   {
     "satellite_name": "Express-AT2",
