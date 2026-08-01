@@ -33,7 +33,7 @@
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
     "postion": -80,
-    "num_channels": "260729"
+    "num_channels": "260730"
   },
   {
     "satellite_name": "Express-AM44",
@@ -111,7 +111,7 @@
     "satellite_name": "Sky-Brasil-1",
     "degree": "43.1° W",
     "postion": -431,
-    "num_channels": "260622"
+    "num_channels": "260730"
   },
   {
     "satellite_name": "Intelsat-14",
@@ -591,7 +591,7 @@
     "satellite_name": "Koreasat-5A",
     "degree": "113.0° E",
     "postion": 1130,
-    "num_channels": "260518"
+    "num_channels": "260730"
   },
   {
     "satellite_name": "BSAT-3C-JCSAT-110R-and-JCSAT-110A-and-BSAT-4A",
@@ -633,7 +633,7 @@
     "satellite_name": "ChinaSat-11",
     "degree": "98.0° E",
     "postion": 980,
-    "num_channels": "260702"
+    "num_channels": "260730"
   },
   {
     "satellite_name": "G-Sat-9",
@@ -657,13 +657,13 @@
     "satellite_name": "G-Sat-15-17",
     "degree": "93.5° E",
     "postion": 935,
-    "num_channels": "260723"
+    "num_channels": "260730"
   },
   {
     "satellite_name": "ChinaSat-9C",
     "degree": "92.2° E",
     "postion": 922,
-    "num_channels": "260617"
+    "num_channels": "260730"
   },
   {
     "satellite_name": "Measat-3b-3d",
@@ -747,7 +747,7 @@
     "satellite_name": "Eutelsat-70B",
     "degree": "70.5° E",
     "postion": 705,
-    "num_channels": "260726"
+    "num_channels": "260730"
   },
   {
     "satellite_name": "Intelsat-20-36",
@@ -771,7 +771,7 @@
     "satellite_name": "Intelsat-39",
     "degree": "62.0° E",
     "postion": 620,
-    "num_channels": "260720"
+    "num_channels": "260730"
   },
   {
     "satellite_name": "KazSat-3",
@@ -801,7 +801,7 @@
     "satellite_name": "Express-AM6",
     "degree": "53.0° E",
     "postion": 530,
-    "num_channels": "260728"
+    "num_channels": "260730"
   },
   {
     "satellite_name": "Al-Yah-1",
@@ -867,7 +867,7 @@
     "satellite_name": "Hellas-Sat-3-4",
     "degree": "39.0° E",
     "postion": 390,
-    "num_channels": "260630"
+    "num_channels": "260730"
   },
   {
     "satellite_name": "Paksat-1R-MM1",
