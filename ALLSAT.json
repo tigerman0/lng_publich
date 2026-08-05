@@ -33,7 +33,7 @@
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
     "postion": -80,
-    "num_channels": "260802"
+    "num_channels": "260803"
   },
   {
     "satellite_name": "Express-AM8",
@@ -45,7 +45,7 @@
     "satellite_name": "Telstar-12-Vantage",
     "degree": "15.0° W",
     "postion": -150,
-    "num_channels": "260726"
+    "num_channels": "260803"
   },
   {
     "satellite_name": "Intelsat-37e",
@@ -75,7 +75,7 @@
     "satellite_name": "Intelsat-35e",
     "degree": "34.5° W",
     "postion": -345,
-    "num_channels": "260801"
+    "num_channels": "260803"
   },
   {
     "satellite_name": "Hispasat-36W-1",
@@ -249,13 +249,13 @@
     "satellite_name": "Galaxy-32-and-Nimiq-6",
     "degree": "91.0° W",
     "postion": -910,
-    "num_channels": "260802"
+    "num_channels": "260803"
   },
   {
     "satellite_name": "Galaxy-35",
     "degree": "93.1° W",
     "postion": -931,
-    "num_channels": "260802"
+    "num_channels": "260803"
   },
   {
     "satellite_name": "Galaxy-3C-and-Intelsat-30-31",
@@ -579,7 +579,7 @@
     "satellite_name": "ChinaSat-6E",
     "degree": "115.5° E",
     "postion": 1155,
-    "num_channels": "260617"
+    "num_channels": "260803"
   },
   {
     "satellite_name": "Koreasat-5A",
@@ -646,12 +646,6 @@
     "degree": "95.0° E",
     "postion": 950,
     "num_channels": "260620"
-  },
-  {
-    "satellite_name": "SES-8-12",
-    "degree": "95.0° E",
-    "postion": 950,
-    "num_channels": "260731"
   },
   {
     "satellite_name": "G-Sat-15-17",
@@ -753,7 +747,7 @@
     "satellite_name": "Intelsat-20-36",
     "degree": "68.5° E",
     "postion": 685,
-    "num_channels": "260729"
+    "num_channels": "260803"
   },
   {
     "satellite_name": "Intelsat-17",
@@ -903,7 +897,7 @@
     "satellite_name": "Astra-2E-2F-2G",
     "degree": "28.3° E",
     "postion": 283,
-    "num_channels": "260728"
+    "num_channels": "260803"
   },
   {
     "satellite_name": "Badr-7-8-and-Eshail-2",
