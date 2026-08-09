@@ -33,7 +33,7 @@
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
     "postion": -80,
-    "num_channels": "260806"
+    "num_channels": "260807"
   },
   {
     "satellite_name": "Express-AM8",
@@ -99,7 +99,7 @@
     "satellite_name": "SES-6",
     "degree": "40.5° W",
     "postion": -405,
-    "num_channels": "260801"
+    "num_channels": "260807"
   },
   {
     "satellite_name": "Sky-Brasil-1",
@@ -177,7 +177,7 @@
     "satellite_name": "Arsat-1",
     "degree": "71.8° W",
     "postion": -718,
-    "num_channels": "260617"
+    "num_channels": "260807"
   },
   {
     "satellite_name": "Amazonas-2",
@@ -261,7 +261,7 @@
     "satellite_name": "Galaxy-3C",
     "degree": "94.9° W",
     "postion": -949,
-    "num_channels": "260805"
+    "num_channels": "260807"
   },
   {
     "satellite_name": "Intelsat-30-31",
@@ -318,12 +318,6 @@
     "num_channels": "250222"
   },
   {
-    "satellite_name": "Anik-F2",
-    "degree": "111.1° W",
-    "postion": -1111,
-    "num_channels": "060331"
-  },
-  {
     "satellite_name": "Eutelsat-115-West-B",
     "degree": "114.9° W",
     "postion": -1149,
@@ -339,7 +333,7 @@
     "satellite_name": "Eutelsat-117-West-A-B",
     "degree": "116.9° W",
     "postion": -1169,
-    "num_channels": "260731"
+    "num_channels": "260807"
   },
   {
     "satellite_name": "Anik-F3-and-T8-and-EchoStar-14",
@@ -387,7 +381,7 @@
     "satellite_name": "SES-19",
     "degree": "135.0° W",
     "postion": -1350,
-    "num_channels": "260327"
+    "num_channels": "260807"
   },
   {
     "satellite_name": "SES-22",
@@ -555,7 +549,7 @@
     "satellite_name": "AsiaSat-9",
     "degree": "122.0° E",
     "postion": 1220,
-    "num_channels": "260727"
+    "num_channels": "260807"
   },
   {
     "satellite_name": "AsiaSat-6-Thaicom-7",
@@ -715,8 +709,8 @@
   },
   {
     "satellite_name": "Amos-3",
-    "degree": "77.5° E",
-    "postion": 775,
+    "degree": "78.0° E",
+    "postion": 780,
     "num_channels": "250125"
   },
   {
@@ -843,7 +837,7 @@
     "satellite_name": "Azerspace-2-Intelsat-38",
     "degree": "45.1° E",
     "postion": 451,
-    "num_channels": "260804"
+    "num_channels": "260807"
   },
   {
     "satellite_name": "Cosmos-2520",
@@ -933,7 +927,7 @@
     "satellite_name": "Astra-3C",
     "degree": "23.5° E",
     "postion": 235,
-    "num_channels": "260722"
+    "num_channels": "260807"
   },
   {
     "satellite_name": "Eutelsat-21B",
