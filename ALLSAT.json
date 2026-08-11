@@ -207,7 +207,7 @@
     "satellite_name": "QuetzSat-1",
     "degree": "77.0° W",
     "postion": -770,
-    "num_channels": "260102"
+    "num_channels": "260809"
   },
   {
     "satellite_name": "Sky-Mexico-1",
@@ -531,7 +531,7 @@
     "satellite_name": "JCSAT-3A",
     "degree": "128.0° E",
     "postion": 1280,
-    "num_channels": "260415"
+    "num_channels": "260809"
   },
   {
     "satellite_name": "ChinaSat-6D",
@@ -709,8 +709,8 @@
   },
   {
     "satellite_name": "Amos-3",
-    "degree": "78.0° E",
-    "postion": 780,
+    "degree": "78.5° E",
+    "postion": 785,
     "num_channels": "250125"
   },
   {
@@ -747,7 +747,7 @@
     "satellite_name": "Intelsat-20-36",
     "degree": "68.5° E",
     "postion": 685,
-    "num_channels": "260806"
+    "num_channels": "260809"
   },
   {
     "satellite_name": "Intelsat-17",
@@ -771,7 +771,7 @@
     "satellite_name": "KazSat-3",
     "degree": "58.5° E",
     "postion": 585,
-    "num_channels": "260605"
+    "num_channels": "260809"
   },
   {
     "satellite_name": "NSS-12",
@@ -795,7 +795,7 @@
     "satellite_name": "Express-AM6",
     "degree": "53.0° E",
     "postion": 530,
-    "num_channels": "260730"
+    "num_channels": "260809"
   },
   {
     "satellite_name": "Al-Yah-1",
@@ -819,13 +819,13 @@
     "satellite_name": "Turksat-4B",
     "degree": "50.0° E",
     "postion": 500,
-    "num_channels": "260715"
+    "num_channels": "260809"
   },
   {
     "satellite_name": "Yamal-601",
     "degree": "49.0° E",
     "postion": 490,
-    "num_channels": "260421"
+    "num_channels": "260809"
   },
   {
     "satellite_name": "Azerspace-1",
@@ -837,7 +837,7 @@
     "satellite_name": "Azerspace-2-Intelsat-38",
     "degree": "45.1° E",
     "postion": 451,
-    "num_channels": "260807"
+    "num_channels": "260809"
   },
   {
     "satellite_name": "Cosmos-2520",
@@ -873,7 +873,7 @@
     "satellite_name": "Paksat-MM1",
     "degree": "38.2° E",
     "postion": 382,
-    "num_channels": "260808"
+    "num_channels": "260809"
   },
   {
     "satellite_name": "Paksat-1R",
