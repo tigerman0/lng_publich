@@ -289,8 +289,8 @@
   },
   {
     "satellite_name": "T12-and-SES-18",
-    "degree": "103.0° W",
-    "postion": -1030,
+    "degree": "102.9° W",
+    "postion": -1029,
     "num_channels": "180927"
   },
   {
@@ -702,16 +702,16 @@
     "num_channels": "260724"
   },
   {
-    "satellite_name": "Thaicom-6-8",
-    "degree": "78.5° E",
-    "postion": 785,
-    "num_channels": "260808"
-  },
-  {
     "satellite_name": "Amos-3",
     "degree": "78.5° E",
     "postion": 785,
     "num_channels": "250125"
+  },
+  {
+    "satellite_name": "Thaicom-6-8",
+    "degree": "78.5° E",
+    "postion": 785,
+    "num_channels": "260808"
   },
   {
     "satellite_name": "Apstar-7",
@@ -801,7 +801,7 @@
     "satellite_name": "Al-Yah-1",
     "degree": "52.5° E",
     "postion": 525,
-    "num_channels": "260806"
+    "num_channels": "260810"
   },
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
@@ -909,7 +909,7 @@
     "satellite_name": "Astra-2E-2F-2G",
     "degree": "28.3° E",
     "postion": 283,
-    "num_channels": "260806"
+    "num_channels": "260810"
   },
   {
     "satellite_name": "Badr-7-8-and-Eshail-2",
