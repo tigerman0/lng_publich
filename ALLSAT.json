@@ -255,7 +255,7 @@
     "satellite_name": "Galaxy-35",
     "degree": "93.1° W",
     "postion": -931,
-    "num_channels": "260804"
+    "num_channels": "260813"
   },
   {
     "satellite_name": "Galaxy-3C",
@@ -438,12 +438,6 @@
     "num_channels": "250102"
   },
   {
-    "satellite_name": "Optus-D3",
-    "degree": "156.0° E",
-    "postion": 1560,
-    "num_channels": "260515"
-  },
-  {
     "satellite_name": "Optus-10",
     "degree": "156.0° E",
     "postion": 1560,
@@ -585,7 +579,7 @@
     "satellite_name": "Koreasat-5A",
     "degree": "113.0° E",
     "postion": 1130,
-    "num_channels": "260730"
+    "num_channels": "260813"
   },
   {
     "satellite_name": "BSAT-3C-JCSAT-110R-and-JCSAT-110A-and-BSAT-4A",
@@ -627,7 +621,7 @@
     "satellite_name": "ChinaSat-11",
     "degree": "98.0° E",
     "postion": 980,
-    "num_channels": "260730"
+    "num_channels": "260813"
   },
   {
     "satellite_name": "G-Sat-9",
@@ -663,7 +657,7 @@
     "satellite_name": "Measat-3b-3d",
     "degree": "91.5° E",
     "postion": 915,
-    "num_channels": "260811"
+    "num_channels": "260813"
   },
   {
     "satellite_name": "Yamal-401",
@@ -702,16 +696,16 @@
     "num_channels": "260724"
   },
   {
+    "satellite_name": "Amos-3",
+    "degree": "79.5° E",
+    "postion": 795,
+    "num_channels": "250125"
+  },
+  {
     "satellite_name": "Thaicom-6-8",
     "degree": "78.5° E",
     "postion": 785,
     "num_channels": "260811"
-  },
-  {
-    "satellite_name": "Amos-3",
-    "degree": "77.5° E",
-    "postion": 775,
-    "num_channels": "250125"
   },
   {
     "satellite_name": "Apstar-7",
@@ -747,7 +741,7 @@
     "satellite_name": "Intelsat-20-36",
     "degree": "68.5° E",
     "postion": 685,
-    "num_channels": "260809"
+    "num_channels": "260813"
   },
   {
     "satellite_name": "Intelsat-17",
@@ -837,7 +831,7 @@
     "satellite_name": "Azerspace-2-Intelsat-38",
     "degree": "45.1° E",
     "postion": 451,
-    "num_channels": "260809"
+    "num_channels": "260813"
   },
   {
     "satellite_name": "Cosmos-2520",
@@ -873,7 +867,7 @@
     "satellite_name": "Paksat-MM1",
     "degree": "38.2° E",
     "postion": 382,
-    "num_channels": "260812"
+    "num_channels": "260813"
   },
   {
     "satellite_name": "Paksat-1R",
@@ -903,7 +897,7 @@
     "satellite_name": "Arabsat-5A-6A",
     "degree": "30.5° E",
     "postion": 305,
-    "num_channels": "260802"
+    "num_channels": "260813"
   },
   {
     "satellite_name": "Astra-2E-2F-2G",
