@@ -1,5 +1,5 @@
 {
-  "extraction_date": "2026-08-15 02:14:18",
+  "extraction_date": "2026-08-16 02:21:53",
   "total_satellites": 166,
   "satellites": [
     {
@@ -9,7 +9,7 @@
       "online_degree": "0.8° W",
       "num_channels": "260627",
       "full_name": "Thor 5/6/7 & Intelsat 10-02 at 0.8°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 85,
       "transponders": [
         {
@@ -1167,7 +1167,7 @@
       "online_degree": "3.0° W",
       "num_channels": "260716",
       "full_name": "ABS 3A at 3.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 28,
       "transponders": [
         {
@@ -1539,7 +1539,7 @@
       "online_degree": "4.0° W",
       "num_channels": "260409",
       "full_name": "Dror 1 at 4.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 4,
       "transponders": [
         {
@@ -1596,7 +1596,7 @@
       "online_degree": "5.0° W",
       "num_channels": "260724",
       "full_name": "Eutelsat 5 West B at 5.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 37,
       "transponders": [
         {
@@ -2168,7 +2168,7 @@
       "online_degree": "7.1° W",
       "num_channels": "260805",
       "full_name": "Nilesat 201/301 & Eutelsat 7 West A at 7.1°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 65,
       "transponders": [
         {
@@ -3161,14 +3161,12 @@
         {
           "frequency": "12188",
           "polarization": "H",
-          "symbol_rate": "2/3",
-          "fec": "27500",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
+          "symbol_rate": "",
+          "fec": "",
+          "system": "",
+          "modulation": "",
           "pls": "",
-          "channels": [
-            "BeIn Sports News"
-          ]
+          "channels": []
         },
         {
           "frequency": "12207",
@@ -3219,7 +3217,9 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": []
+          "channels": [
+            "BeIn Sports News"
+          ]
         },
         {
           "frequency": "12284",
@@ -3356,7 +3356,7 @@
       "online_degree": "8.0° W",
       "num_channels": "260811",
       "full_name": "Eutelsat 8 West B at 8.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 71,
       "transponders": [
         {
@@ -4512,7 +4512,7 @@
       "online_degree": "14.0° W",
       "num_channels": "260722",
       "full_name": "Express AM8 at 14.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 17,
       "transponders": [
         {
@@ -4738,7 +4738,7 @@
       "online_degree": "15.0° W",
       "num_channels": "260805",
       "full_name": "Telstar 12 Vantage at 15.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 11,
       "transponders": [
         {
@@ -4937,7 +4937,7 @@
       "online_degree": "18.0° W",
       "num_channels": "260805",
       "full_name": "Intelsat 37e at 18.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 14,
       "transponders": [
         {
@@ -5134,7 +5134,7 @@
       "online_degree": "22.0° W",
       "num_channels": "260801",
       "full_name": "SES 4 at 22.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 48,
       "transponders": [
         {
@@ -5679,7 +5679,7 @@
       "online_degree": "24.8° W",
       "num_channels": "260716",
       "full_name": "Alcomsat 1 at 24.8°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 5,
       "transponders": [
         {
@@ -5764,9 +5764,9 @@
       "degree": "30.0° W",
       "postion": -300,
       "online_degree": "30.0° W",
-      "num_channels": "260812",
+      "num_channels": "260814",
       "full_name": "Hispasat 30W-5/30W-6 at 30.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 49,
       "transponders": [
         {
@@ -6356,7 +6356,7 @@
       "online_degree": "34.5° W",
       "num_channels": "260805",
       "full_name": "Intelsat 35e at 34.5°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 17,
       "transponders": [
         {
@@ -6655,7 +6655,7 @@
       "online_degree": "36.0° W",
       "num_channels": "240908",
       "full_name": "Hispasat 36W-1 at 36.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 0,
       "transponders": []
     },
@@ -6666,7 +6666,7 @@
       "online_degree": "37.4° W",
       "num_channels": "170724",
       "full_name": "NSS 10 at 37.4°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 4,
       "transponders": [
         {
@@ -6726,7 +6726,7 @@
       "online_degree": "37.6° W",
       "num_channels": "250826",
       "full_name": "Telstar 11N at 37.6°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 1,
       "transponders": [
         {
@@ -6750,7 +6750,7 @@
       "online_degree": "40.5° W",
       "num_channels": "260807",
       "full_name": "SES 6 at 40.5°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 67,
       "transponders": [
         {
@@ -7597,7 +7597,7 @@
       "online_degree": "43.1° W",
       "num_channels": "260801",
       "full_name": "Sky Brasil 1 at 43.1°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 46,
       "transponders": [
         {
@@ -8075,7 +8075,7 @@
       "online_degree": "45.0° W",
       "num_channels": "260812",
       "full_name": "Intelsat 14 at 45.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 31,
       "transponders": [
         {
@@ -8397,7 +8397,7 @@
       "online_degree": "47.5° W",
       "num_channels": "260603",
       "full_name": "SES 14 at 47.5°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 15,
       "transponders": [
         {
@@ -8578,7 +8578,7 @@
       "online_degree": "53.0° W",
       "num_channels": "130625",
       "full_name": "Intelsat 23 at 53.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 2,
       "transponders": [
         {
@@ -8612,7 +8612,7 @@
       "online_degree": "55.5° W",
       "num_channels": "260811",
       "full_name": "Intelsat 34 at 55.5°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 51,
       "transponders": [
         {
@@ -9366,7 +9366,7 @@
       "online_degree": "58.0° W",
       "num_channels": "260722",
       "full_name": "Intelsat 21 at 58.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 52,
       "transponders": [
         {
@@ -10107,7 +10107,7 @@
       "online_degree": "61.0° W",
       "num_channels": "260812",
       "full_name": "Amazonas 3/5/Nexus at 61.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 28,
       "transponders": [
         {
@@ -10454,7 +10454,7 @@
       "online_degree": "61.5° W",
       "num_channels": "260112",
       "full_name": "EchoStar 16 at 61.5°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 128,
       "transponders": [
         {
@@ -11746,7 +11746,7 @@
       "online_degree": "63.0° W",
       "num_channels": "221020",
       "full_name": "Telstar 19 Vantage at 63.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 1,
       "transponders": [
         {
@@ -11770,7 +11770,7 @@
       "online_degree": "65.2° W",
       "num_channels": "260720",
       "full_name": "Eutelsat 65 West A at 65.2°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 39,
       "transponders": [
         {
@@ -12364,7 +12364,7 @@
       "online_degree": "67.0° W",
       "num_channels": "260806",
       "full_name": "SES 10 at 67.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 10,
       "transponders": [
         {
@@ -12493,7 +12493,7 @@
       "online_degree": "70.0° W",
       "num_channels": "260811",
       "full_name": "Star One C4/D2 at 70.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 107,
       "transponders": [
         {
@@ -13959,7 +13959,7 @@
       "online_degree": "71.8° W",
       "num_channels": "260807",
       "full_name": "Arsat 1 at 71.8°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 30,
       "transponders": [
         {
@@ -14342,91 +14342,11 @@
       "online_degree": "72.0° W",
       "num_channels": "260523",
       "full_name": "Amazonas 2 at 72.0°W - LyngSat",
-      "last_update": "2026-08-13",
-      "total_transponders": 9,
+      "last_update": "2026-08-14",
+      "total_transponders": 1,
       "transponders": [
         {
-          "frequency": "10728",
-          "polarization": "H",
-          "symbol_rate": "",
-          "fec": "",
-          "system": "",
-          "modulation": "",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "10728",
-          "polarization": "V",
-          "symbol_rate": "",
-          "fec": "",
-          "system": "",
-          "modulation": "",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "10768",
-          "polarization": "V",
-          "symbol_rate": "",
-          "fec": "",
-          "system": "",
-          "modulation": "",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "10808",
-          "polarization": "V",
-          "symbol_rate": "",
-          "fec": "",
-          "system": "",
-          "modulation": "",
-          "pls": "",
-          "channels": []
-        },
-        {
           "frequency": "11072",
-          "polarization": "H",
-          "symbol_rate": "",
-          "fec": "",
-          "system": "",
-          "modulation": "",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11222",
-          "polarization": "H",
-          "symbol_rate": "",
-          "fec": "",
-          "system": "",
-          "modulation": "",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11342",
-          "polarization": "H",
-          "symbol_rate": "",
-          "fec": "",
-          "system": "",
-          "modulation": "",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11382",
-          "polarization": "H",
-          "symbol_rate": "",
-          "fec": "",
-          "system": "",
-          "modulation": "",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11422",
           "polarization": "H",
           "symbol_rate": "",
           "fec": "",
@@ -14444,7 +14364,7 @@
       "online_degree": "72.7° W",
       "num_channels": "251231",
       "full_name": "Nimiq 5 at 72.7°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 25,
       "transponders": [
         {
@@ -14709,9 +14629,9 @@
       "degree": "73.9° W",
       "postion": -739,
       "online_degree": "73.9° W",
-      "num_channels": "260613",
+      "num_channels": "260814",
       "full_name": "Hispasat 74W-1 at 73.9°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 3,
       "transponders": [
         {
@@ -14740,9 +14660,7 @@
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
-          "channels": [
-            "Telecanal"
-          ]
+          "channels": []
         },
         {
           "frequency": "12350",
@@ -14765,7 +14683,7 @@
       "online_degree": "75.0° W",
       "num_channels": "260811",
       "full_name": "Star One C3 at 75.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 55,
       "transponders": [
         {
@@ -15495,7 +15413,7 @@
       "online_degree": "77.0° W",
       "num_channels": "260811",
       "full_name": "QuetzSat 1 at 77.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 18,
       "transponders": [
         {
@@ -15538,8 +15456,8 @@
           "pls": "",
           "channels": [
             "TV Méxiquense",
-            "AMX Noticias",
-            "AMX Noticias +1",
+            "Méxiquense Noticias",
+            "Méxiquense Noticias +1",
             "TV Méxiquense"
           ]
         },
@@ -15690,78 +15608,78 @@
       "degree": "78.8° W",
       "postion": -788,
       "online_degree": "78.8° W",
-      "num_channels": "260105",
+      "num_channels": "260814",
       "full_name": "Sky Mexico 1 at 78.8°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 20,
       "transponders": [
         {
           "frequency": "11720",
           "polarization": "H",
-          "symbol_rate": "",
+          "symbol_rate": "4/5",
           "fec": "30000",
-          "system": "DVB-S",
-          "modulation": "",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
           "pls": "",
           "channels": []
         },
         {
           "frequency": "11740",
           "polarization": "V",
-          "symbol_rate": "",
+          "symbol_rate": "4/5",
           "fec": "30000",
-          "system": "DVB-S",
-          "modulation": "",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
           "pls": "",
           "channels": []
         },
         {
           "frequency": "11760",
           "polarization": "H",
-          "symbol_rate": "",
+          "symbol_rate": "4/5",
           "fec": "30000",
-          "system": "DVB-S",
-          "modulation": "",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
           "pls": "",
           "channels": []
         },
         {
           "frequency": "11800",
           "polarization": "H",
-          "symbol_rate": "",
+          "symbol_rate": "4/5",
           "fec": "30000",
-          "system": "DVB-S",
-          "modulation": "",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
           "pls": "",
           "channels": []
         },
         {
           "frequency": "11820",
           "polarization": "V",
-          "symbol_rate": "",
+          "symbol_rate": "4/5",
           "fec": "30000",
-          "system": "DVB-S",
-          "modulation": "",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
           "pls": "",
           "channels": []
         },
         {
           "frequency": "11840",
           "polarization": "H",
-          "symbol_rate": "",
+          "symbol_rate": "4/5",
           "fec": "30000",
-          "system": "DVB-S",
-          "modulation": "",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
           "pls": "",
           "channels": []
         },
         {
           "frequency": "11900",
           "polarization": "V",
-          "symbol_rate": "",
+          "symbol_rate": "4/5",
           "fec": "30000",
-          "system": "DVB-S",
-          "modulation": "",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
           "pls": "",
           "channels": []
         },
@@ -15769,8 +15687,8 @@
           "frequency": "11920",
           "polarization": "H",
           "symbol_rate": "",
-          "fec": "30000",
-          "system": "DVB-S",
+          "fec": "",
+          "system": "",
           "modulation": "",
           "pls": "",
           "channels": []
@@ -15778,17 +15696,17 @@
         {
           "frequency": "11940",
           "polarization": "V",
-          "symbol_rate": "",
+          "symbol_rate": "4/5",
           "fec": "30000",
-          "system": "DVB-S",
-          "modulation": "",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
           "pls": "",
           "channels": []
         },
         {
           "frequency": "11960",
           "polarization": "H",
-          "symbol_rate": "",
+          "symbol_rate": "3/4",
           "fec": "30000",
           "system": "DVB-S",
           "modulation": "",
@@ -15798,7 +15716,7 @@
         {
           "frequency": "11980",
           "polarization": "V",
-          "symbol_rate": "",
+          "symbol_rate": "3/4",
           "fec": "30000",
           "system": "DVB-S",
           "modulation": "",
@@ -15808,30 +15726,30 @@
         {
           "frequency": "12000",
           "polarization": "H",
-          "symbol_rate": "",
+          "symbol_rate": "4/5",
           "fec": "30000",
-          "system": "DVB-S",
-          "modulation": "",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
           "pls": "",
           "channels": []
         },
         {
           "frequency": "12020",
           "polarization": "V",
-          "symbol_rate": "",
+          "symbol_rate": "4/5",
           "fec": "30000",
-          "system": "DVB-S",
-          "modulation": "",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
           "pls": "",
           "channels": []
         },
         {
           "frequency": "12040",
           "polarization": "H",
-          "symbol_rate": "",
+          "symbol_rate": "4/5",
           "fec": "30000",
-          "system": "DVB-S",
-          "modulation": "",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
           "pls": "",
           "channels": []
         },
@@ -15839,8 +15757,8 @@
           "frequency": "12060",
           "polarization": "V",
           "symbol_rate": "",
-          "fec": "30000",
-          "system": "DVB-S",
+          "fec": "",
+          "system": "",
           "modulation": "",
           "pls": "",
           "channels": []
@@ -15849,8 +15767,8 @@
           "frequency": "12080",
           "polarization": "H",
           "symbol_rate": "",
-          "fec": "30000",
-          "system": "DVB-S",
+          "fec": "",
+          "system": "",
           "modulation": "",
           "pls": "",
           "channels": []
@@ -15858,27 +15776,27 @@
         {
           "frequency": "12120",
           "polarization": "H",
-          "symbol_rate": "",
+          "symbol_rate": "4/5",
           "fec": "30000",
-          "system": "DVB-S",
-          "modulation": "",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
           "pls": "",
           "channels": []
         },
         {
           "frequency": "12140",
           "polarization": "V",
-          "symbol_rate": "",
+          "symbol_rate": "4/5",
           "fec": "30000",
-          "system": "DVB-S",
-          "modulation": "",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
           "pls": "",
           "channels": []
         },
         {
           "frequency": "12160",
           "polarization": "H",
-          "symbol_rate": "",
+          "symbol_rate": "3/4",
           "fec": "30000",
           "system": "DVB-S",
           "modulation": "",
@@ -15888,10 +15806,10 @@
         {
           "frequency": "12180",
           "polarization": "V",
-          "symbol_rate": "",
+          "symbol_rate": "4/5",
           "fec": "30000",
-          "system": "DVB-S",
-          "modulation": "",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
           "pls": "",
           "channels": []
         }
@@ -15904,7 +15822,7 @@
       "online_degree": "81.0° W",
       "num_channels": "260709",
       "full_name": "Arsat 2 at 81.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 5,
       "transponders": [
         {
@@ -15977,7 +15895,7 @@
       "online_degree": "84.0° W",
       "num_channels": "260606",
       "full_name": "Star One D1 at 84.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 11,
       "transponders": [
         {
@@ -16144,7 +16062,7 @@
       "online_degree": "85.0° W",
       "num_channels": "260205",
       "full_name": "SiriusXM 8/9 at 85.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 1,
       "transponders": [
         {
@@ -16166,7 +16084,7 @@
       "online_degree": "87.1° W",
       "num_channels": "260523",
       "full_name": "SES 2 & TKSat 1 at 87.1°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 17,
       "transponders": [
         {
@@ -16405,7 +16323,7 @@
       "online_degree": "89.0° W",
       "num_channels": "260802",
       "full_name": "Galaxy 36 at 89.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 5,
       "transponders": [
         {
@@ -16467,7 +16385,7 @@
       "online_degree": "91.0° W",
       "num_channels": "260803",
       "full_name": "Galaxy 32 & Nimiq 6 at 91.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 42,
       "transponders": [
         {
@@ -16940,7 +16858,7 @@
       "online_degree": "93.1° W",
       "num_channels": "260813",
       "full_name": "Galaxy 35 at 93.1°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 9,
       "transponders": [
         {
@@ -17062,7 +16980,7 @@
       "online_degree": "94.9° W",
       "num_channels": "260807",
       "full_name": "Galaxy 3C at 94.9°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 8,
       "transponders": [
         {
@@ -17154,7 +17072,7 @@
       "online_degree": "95.0° W",
       "num_channels": "260730",
       "full_name": "Intelsat 30/31 at 95.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 2,
       "transponders": [
         {
@@ -17186,7 +17104,7 @@
       "online_degree": "97.0° W",
       "num_channels": "260616",
       "full_name": "Galaxy 19 at 97.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 23,
       "transponders": [
         {
@@ -17516,7 +17434,7 @@
       "online_degree": "99.1° W",
       "num_channels": "260506",
       "full_name": "Galaxy 16 & T11/T14 at 99.1°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 8,
       "transponders": [
         {
@@ -17626,7 +17544,7 @@
       "online_degree": "101.0° W",
       "num_channels": "200711",
       "full_name": "T9S/T16 & SES 1 at 101.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 46,
       "transponders": [
         {
@@ -18214,7 +18132,7 @@
       "online_degree": "102.9° W",
       "num_channels": "180927",
       "full_name": "T12 & SES 18 at 102.9°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 24,
       "transponders": [
         {
@@ -18547,7 +18465,7 @@
       "online_degree": "103.0° W",
       "num_channels": "201105",
       "full_name": "SES 3 at 103.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 0,
       "transponders": []
     },
@@ -18558,7 +18476,7 @@
       "online_degree": "105.0° W",
       "num_channels": "260729",
       "full_name": "EchoStar 105/SES 11 at 105.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 14,
       "transponders": [
         {
@@ -18783,7 +18701,7 @@
       "online_degree": "107.3° W",
       "num_channels": "260328",
       "full_name": "Anik F1R/G1 at 107.3°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 17,
       "transponders": [
         {
@@ -18967,7 +18885,7 @@
       "online_degree": "110.0° W",
       "num_channels": "250222",
       "full_name": "EchoStar 10/11 at 110.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 116,
       "transponders": [
         {
@@ -20141,7 +20059,7 @@
       "online_degree": "114.9° W",
       "num_channels": "251124",
       "full_name": "Eutelsat 115 West B at 114.9°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 8,
       "transponders": [
         {
@@ -20255,7 +20173,7 @@
       "online_degree": "115.7° W",
       "num_channels": "260205",
       "full_name": "SiriusXM 5/10 at 115.7°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 1,
       "transponders": [
         {
@@ -20277,7 +20195,7 @@
       "online_degree": "116.9° W",
       "num_channels": "260807",
       "full_name": "Eutelsat 117 West A/B at 116.9°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 87,
       "transponders": [
         {
@@ -21442,7 +21360,7 @@
       "online_degree": "119.0° W",
       "num_channels": "240922",
       "full_name": "Anik F3 & T8 & EchoStar 14 at 119.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 117,
       "transponders": [
         {
@@ -22626,7 +22544,7 @@
       "online_degree": "121.0° W",
       "num_channels": "260125",
       "full_name": "Galaxy 31 at 121.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 5,
       "transponders": [
         {
@@ -22709,7 +22627,7 @@
       "online_degree": "123.0° W",
       "num_channels": "260511",
       "full_name": "Galaxy 18 at 123.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 10,
       "transponders": [
         {
@@ -22876,7 +22794,7 @@
       "online_degree": "125.0° W",
       "num_channels": "260720",
       "full_name": "Galaxy 30 at 125.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 9,
       "transponders": [
         {
@@ -23073,7 +22991,7 @@
       "online_degree": "127.0° W",
       "num_channels": "260415",
       "full_name": "Galaxy 37/Horizons 4 at 127.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 7,
       "transponders": [
         {
@@ -23214,7 +23132,7 @@
       "online_degree": "131.0° W",
       "num_channels": "260316",
       "full_name": "SES 21 at 131.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 2,
       "transponders": [
         {
@@ -23262,7 +23180,7 @@
       "online_degree": "133.0° W",
       "num_channels": "260306",
       "full_name": "Galaxy 33 at 133.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 11,
       "transponders": [
         {
@@ -23464,7 +23382,7 @@
       "online_degree": "135.0° W",
       "num_channels": "260807",
       "full_name": "SES 19 at 135.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 3,
       "transponders": [
         {
@@ -23526,7 +23444,7 @@
       "online_degree": "139.0° W",
       "num_channels": "240424",
       "full_name": "SES 22 at 139.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 1,
       "transponders": [
         {
@@ -23555,7 +23473,7 @@
       "online_degree": "177.0° W",
       "num_channels": "190104",
       "full_name": "NSS 9 at 177.0°W - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 3,
       "transponders": [
         {
@@ -23601,7 +23519,7 @@
       "online_degree": "180.0° E",
       "num_channels": "260805",
       "full_name": "Intelsat 18 at 180.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 13,
       "transponders": [
         {
@@ -23818,7 +23736,7 @@
       "online_degree": "172.0° E",
       "num_channels": "260725",
       "full_name": "Eutelsat 172B at 172.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 11,
       "transponders": [
         {
@@ -24081,7 +23999,7 @@
       "online_degree": "169.0° E",
       "num_channels": "260501",
       "full_name": "Horizons 3e at 169.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 1,
       "transponders": [
         {
@@ -24108,7 +24026,7 @@
       "online_degree": "166.0° E",
       "num_channels": "260806",
       "full_name": "Intelsat 19 at 166.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 27,
       "transponders": [
         {
@@ -24547,7 +24465,7 @@
       "online_degree": "162.0° E",
       "num_channels": "250821",
       "full_name": "Superbird B3 at 162.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 8,
       "transponders": [
         {
@@ -24641,7 +24559,7 @@
       "online_degree": "160.0° E",
       "num_channels": "250201",
       "full_name": "Measat 3a & Koreasat 6 at 160.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 19,
       "transponders": [
         {
@@ -24929,7 +24847,7 @@
       "online_degree": "159.0° E",
       "num_channels": "250102",
       "full_name": "ABS 6 at 159.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 1,
       "transponders": [
         {
@@ -24954,7 +24872,7 @@
       "online_degree": "156.0° E",
       "num_channels": "260715",
       "full_name": "Optus 10 at 156.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 24,
       "transponders": [
         {
@@ -25235,7 +25153,7 @@
       "online_degree": "154.0° E",
       "num_channels": "260526",
       "full_name": "JCSAT 2B at 154.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 6,
       "transponders": [
         {
@@ -25309,7 +25227,7 @@
       "online_degree": "152.0° E",
       "num_channels": "251116",
       "full_name": "Optus D1 at 152.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 2,
       "transponders": [
         {
@@ -25341,7 +25259,7 @@
       "online_degree": "150.5° E",
       "num_channels": "240304",
       "full_name": "BRIsat at 150.5°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 2,
       "transponders": [
         {
@@ -25373,7 +25291,7 @@
       "online_degree": "146.0° E",
       "num_channels": "260711",
       "full_name": "Nusantara Satu at 146.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 2,
       "transponders": [
         {
@@ -25405,7 +25323,7 @@
       "online_degree": "145.0° E",
       "num_channels": "241006",
       "full_name": "Express AMU7 at 145.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 12,
       "transponders": [
         {
@@ -25594,7 +25512,7 @@
       "online_degree": "144.0° E",
       "num_channels": "260420",
       "full_name": "JCSAT 144C at 144.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 5,
       "transponders": [
         {
@@ -25660,7 +25578,7 @@
       "online_degree": "142.0° E",
       "num_channels": "201116",
       "full_name": "Apstar 9 at 142.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 0,
       "transponders": []
     },
@@ -25671,7 +25589,7 @@
       "online_degree": "140.0° E",
       "num_channels": "260624",
       "full_name": "Express AM5 at 140.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 8,
       "transponders": [
         {
@@ -25783,7 +25701,7 @@
       "online_degree": "138.0° E",
       "num_channels": "260804",
       "full_name": "Telstar 18 Vantage at 138.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 29,
       "transponders": [
         {
@@ -26189,7 +26107,7 @@
       "online_degree": "134.0° E",
       "num_channels": "260517",
       "full_name": "Apstar 6C at 134.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 12,
       "transponders": [
         {
@@ -26328,7 +26246,7 @@
       "online_degree": "131.9° E",
       "num_channels": "260727",
       "full_name": "Vinasat 1/2 at 131.9°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 6,
       "transponders": [
         {
@@ -26478,7 +26396,7 @@
       "online_degree": "130.5° E",
       "num_channels": "260303",
       "full_name": "ChinaSat 6C at 130.5°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 2,
       "transponders": [
         {
@@ -26512,7 +26430,7 @@
       "online_degree": "128.5° E",
       "num_channels": "260804",
       "full_name": "LaoSat 1 at 128.5°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 23,
       "transponders": [
         {
@@ -26806,7 +26724,7 @@
       "online_degree": "128.0° E",
       "num_channels": "260809",
       "full_name": "JCSAT 3A at 128.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 8,
       "transponders": [
         {
@@ -26907,7 +26825,7 @@
       "online_degree": "125.0° E",
       "num_channels": "260808",
       "full_name": "ChinaSat 6D at 125.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 42,
       "transponders": [
         {
@@ -27464,7 +27382,7 @@
       "online_degree": "124.0° E",
       "num_channels": "260719",
       "full_name": "JCSAT 4B at 124.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 14,
       "transponders": [
         {
@@ -27624,7 +27542,7 @@
       "online_degree": "122.0° E",
       "num_channels": "260811",
       "full_name": "AsiaSat 9 at 122.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 32,
       "transponders": [
         {
@@ -28075,7 +27993,7 @@
       "online_degree": "120.0° E",
       "num_channels": "260624",
       "full_name": "AsiaSat 6/Thaicom 7 at 120.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 9,
       "transponders": [
         {
@@ -28183,7 +28101,7 @@
       "online_degree": "119.3° E",
       "num_channels": "201119",
       "full_name": "Thaicom 4 & Bangladesh 1 at 119.3°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 29,
       "transponders": [
         {
@@ -28564,7 +28482,7 @@
       "online_degree": "118.0° E",
       "num_channels": "250424",
       "full_name": "Telkom 3S at 118.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 2,
       "transponders": [
         {
@@ -28605,7 +28523,7 @@
       "online_degree": "116.0° E",
       "num_channels": "260130",
       "full_name": "Koreasat 6A/7 at 116.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 29,
       "transponders": [
         {
@@ -28929,7 +28847,7 @@
       "online_degree": "115.5° E",
       "num_channels": "260812",
       "full_name": "ChinaSat 6E at 115.5°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 45,
       "transponders": [
         {
@@ -29516,7 +29434,7 @@
       "online_degree": "113.0° E",
       "num_channels": "260813",
       "full_name": "Koreasat 5A at 113.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 11,
       "transponders": [
         {
@@ -29661,7 +29579,7 @@
       "online_degree": "110.0° E",
       "num_channels": "250717",
       "full_name": "BSAT 3C/JCSAT 110R & JCSAT 110A & BSAT 4A at 110.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 31,
       "transponders": [
         {
@@ -30013,7 +29931,7 @@
       "online_degree": "108.1° E",
       "num_channels": "260812",
       "full_name": "SES 7/9 & Merah Putih at 108.1°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 84,
       "transponders": [
         {
@@ -31036,7 +30954,7 @@
       "online_degree": "105.5° E",
       "num_channels": "260811",
       "full_name": "AsiaSat 7 at 105.5°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 13,
       "transponders": [
         {
@@ -31264,7 +31182,7 @@
       "online_degree": "103.0° E",
       "num_channels": "260502",
       "full_name": "Express AMU3 at 103.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 13,
       "transponders": [
         {
@@ -31481,7 +31399,7 @@
       "online_degree": "101.4° E",
       "num_channels": "251224",
       "full_name": "ChinaSat 9B at 101.4°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 4,
       "transponders": [
         {
@@ -31572,7 +31490,7 @@
       "online_degree": "100.5° E",
       "num_channels": "260712",
       "full_name": "AsiaSat 5 at 100.5°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 40,
       "transponders": [
         {
@@ -32030,7 +31948,7 @@
       "online_degree": "98.0° E",
       "num_channels": "260813",
       "full_name": "ChinaSat 11 at 98.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 2,
       "transponders": [
         {
@@ -32062,7 +31980,7 @@
       "online_degree": "97.3° E",
       "num_channels": "260426",
       "full_name": "G-Sat 9 at 97.3°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 4,
       "transponders": [
         {
@@ -32172,7 +32090,7 @@
       "online_degree": "96.5° E",
       "num_channels": "260626",
       "full_name": "Express 103 at 96.5°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 7,
       "transponders": [
         {
@@ -32261,7 +32179,7 @@
       "online_degree": "95.0° E",
       "num_channels": "260620",
       "full_name": "SES 8/12 at 95.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 12,
       "transponders": [
         {
@@ -32412,7 +32330,7 @@
       "online_degree": "93.5° E",
       "num_channels": "260806",
       "full_name": "G-Sat 15/17 at 93.5°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 87,
       "transponders": [
         {
@@ -33977,11 +33895,23 @@
       "degree": "92.2° E",
       "postion": 922,
       "online_degree": "92.2° E",
-      "num_channels": "260731",
+      "num_channels": "260814",
       "full_name": "ChinaSat 9C at 92.2°E - LyngSat",
-      "last_update": "2026-08-13",
-      "total_transponders": 15,
+      "last_update": "2026-08-14",
+      "total_transponders": 16,
       "transponders": [
+        {
+          "frequency": "11780",
+          "polarization": "R",
+          "symbol_rate": "3/4",
+          "fec": "30000",
+          "system": "",
+          "modulation": "",
+          "pls": "",
+          "channels": [
+            "Bingtuan Satellite TV"
+          ]
+        },
         {
           "frequency": "11800",
           "polarization": "L",
@@ -34270,7 +34200,7 @@
       "online_degree": "91.5° E",
       "num_channels": "260813",
       "full_name": "Measat 3b/3d at 91.5°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 60,
       "transponders": [
         {
@@ -35006,7 +34936,7 @@
       "online_degree": "90.0° E",
       "num_channels": "260701",
       "full_name": "Yamal 401 at 90.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 40,
       "transponders": [
         {
@@ -35583,7 +35513,7 @@
       "online_degree": "88.0° E",
       "num_channels": "260729",
       "full_name": "ST 2 at 88.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 27,
       "transponders": [
         {
@@ -35923,7 +35853,7 @@
       "online_degree": "87.5° E",
       "num_channels": "220729",
       "full_name": "ChinaSat 12 at 87.5°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 1,
       "transponders": [
         {
@@ -35945,7 +35875,7 @@
       "online_degree": "86.5° E",
       "num_channels": "260725",
       "full_name": "KazSat 2 at 86.5°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 5,
       "transponders": [
         {
@@ -36038,7 +35968,7 @@
       "online_degree": "83.0° E",
       "num_channels": "260716",
       "full_name": "G-Sat 10/24/30 at 83.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 88,
       "transponders": [
         {
@@ -37288,7 +37218,7 @@
       "online_degree": "80.0° E",
       "num_channels": "260724",
       "full_name": "Express 80 at 80.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 16,
       "transponders": [
         {
@@ -37521,7 +37451,7 @@
       "online_degree": "79.5° E",
       "num_channels": "250125",
       "full_name": "Amos 3 at 79.5°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 0,
       "transponders": []
     },
@@ -37532,7 +37462,7 @@
       "online_degree": "78.5° E",
       "num_channels": "260811",
       "full_name": "Thaicom 6/8 at 78.5°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 75,
       "transponders": [
         {
@@ -38575,7 +38505,7 @@
       "online_degree": "76.5° E",
       "num_channels": "260717",
       "full_name": "Apstar 7 at 76.5°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 35,
       "transponders": [
         {
@@ -39046,7 +38976,7 @@
       "online_degree": "75.0° E",
       "num_channels": "260808",
       "full_name": "ABS 2/2A at 75.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 25,
       "transponders": [
         {
@@ -39463,7 +39393,7 @@
       "online_degree": "74.0° E",
       "num_channels": "260808",
       "full_name": "G-Sat 18 at 74.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 3,
       "transponders": [
         {
@@ -39505,7 +39435,7 @@
       "online_degree": "72.1° E",
       "num_channels": "260715",
       "full_name": "Intelsat 22 at 72.1°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 16,
       "transponders": [
         {
@@ -39689,7 +39619,7 @@
       "online_degree": "70.5° E",
       "num_channels": "260808",
       "full_name": "Eutelsat 70B at 70.5°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 25,
       "transponders": [
         {
@@ -39991,7 +39921,7 @@
       "online_degree": "68.5° E",
       "num_channels": "260813",
       "full_name": "Intelsat 20/36 at 68.5°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 88,
       "transponders": [
         {
@@ -41302,7 +41232,7 @@
       "online_degree": "66.0° E",
       "num_channels": "260723",
       "full_name": "Intelsat 17 at 66.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 29,
       "transponders": [
         {
@@ -41749,7 +41679,7 @@
       "online_degree": "65.0° E",
       "num_channels": "260729",
       "full_name": "Amos 4 at 65.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 5,
       "transponders": [
         {
@@ -41813,7 +41743,7 @@
       "online_degree": "62.0° E",
       "num_channels": "260730",
       "full_name": "Intelsat 39 at 62.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 33,
       "transponders": [
         {
@@ -42205,7 +42135,7 @@
       "online_degree": "58.5° E",
       "num_channels": "260811",
       "full_name": "KazSat 3 at 58.5°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 9,
       "transponders": [
         {
@@ -42311,7 +42241,7 @@
       "online_degree": "57.0° E",
       "num_channels": "260805",
       "full_name": "NSS 12 at 57.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 23,
       "transponders": [
         {
@@ -42759,7 +42689,7 @@
       "online_degree": "56.0° E",
       "num_channels": "260812",
       "full_name": "Express AT2 at 56.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 15,
       "transponders": [
         {
@@ -43059,7 +42989,7 @@
       "online_degree": "54.9° E",
       "num_channels": "260311",
       "full_name": "G-Sat 16 & Yamal 402 at 54.9°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 24,
       "transponders": [
         {
@@ -43482,9 +43412,9 @@
       "degree": "53.0° E",
       "postion": 530,
       "online_degree": "53.0° E",
-      "num_channels": "260812",
+      "num_channels": "260814",
       "full_name": "Express AM6 at 53.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 53,
       "transponders": [
         {
@@ -44106,14 +44036,12 @@
         {
           "frequency": "12708",
           "polarization": "V",
-          "symbol_rate": "3/4",
-          "fec": "5510",
-          "system": "DVB-S2",
-          "modulation": "QPSK",
+          "symbol_rate": "",
+          "fec": "",
+          "system": "",
+          "modulation": "",
           "pls": "",
-          "channels": [
-            "Mawlid"
-          ]
+          "channels": []
         }
       ]
     },
@@ -44124,7 +44052,7 @@
       "online_degree": "52.5° E",
       "num_channels": "260811",
       "full_name": "Al Yah 1 at 52.5°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 14,
       "transponders": [
         {
@@ -44477,9 +44405,9 @@
       "degree": "52.0° E",
       "postion": 520,
       "online_degree": "52.0° E",
-      "num_channels": "260806",
+      "num_channels": "260814",
       "full_name": "TurkmenÄlem/MonacoSat at 52.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 22,
       "transponders": [
         {
@@ -44904,7 +44832,7 @@
       "online_degree": "51.5° E",
       "num_channels": "260727",
       "full_name": "Belintersat 1 at 51.5°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 15,
       "transponders": [
         {
@@ -45166,7 +45094,7 @@
       "online_degree": "50.0° E",
       "num_channels": "260809",
       "full_name": "Türksat 4B at 50.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 2,
       "transponders": [
         {
@@ -45198,7 +45126,7 @@
       "online_degree": "49.0° E",
       "num_channels": "260809",
       "full_name": "Yamal 601 at 49.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 30,
       "transponders": [
         {
@@ -45642,7 +45570,7 @@
       "online_degree": "46.0° E",
       "num_channels": "260806",
       "full_name": "Azerspace 1 at 46.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 50,
       "transponders": [
         {
@@ -46251,9 +46179,9 @@
       "degree": "45.1° E",
       "postion": 451,
       "online_degree": "45.1° E",
-      "num_channels": "260813",
+      "num_channels": "260814",
       "full_name": "Azerspace 2/Intelsat 38 at 45.1°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 13,
       "transponders": [
         {
@@ -46285,7 +46213,6 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": [
-            "BS TV",
             "A1 TV",
             "Minimax Pakistan",
             "Raavi TV",
@@ -46302,6 +46229,8 @@
             "Music Masti",
             "Jan TV",
             "DM News English",
+            "28 News HD",
+            "BS TV",
             "Fast Sports"
           ]
         },
@@ -46440,7 +46369,7 @@
       "online_degree": "45.0° E",
       "num_channels": "260806",
       "full_name": "Cosmos 2520 at 45.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 2,
       "transponders": [
         {
@@ -46472,7 +46401,7 @@
       "online_degree": "42.5° E",
       "num_channels": "260718",
       "full_name": "NigComSat 1R at 42.5°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 17,
       "transponders": [
         {
@@ -46777,10 +46706,10 @@
       "degree": "42.0° E",
       "postion": 420,
       "online_degree": "42.0° E",
-      "num_channels": "260805",
+      "num_channels": "260814",
       "full_name": "Türksat 3A/4A/5B/6A at 42.0°E - LyngSat",
-      "last_update": "2026-08-13",
-      "total_transponders": 107,
+      "last_update": "2026-08-14",
+      "total_transponders": 108,
       "transponders": [
         {
           "frequency": "10955",
@@ -46882,6 +46811,19 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": []
+        },
+        {
+          "frequency": "11046",
+          "polarization": "H",
+          "symbol_rate": "7/8",
+          "fec": "2725",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": [
+            "Star TV",
+            "NTV"
+          ]
         },
         {
           "frequency": "11053",
@@ -48005,7 +47947,6 @@
           "modulation": "",
           "pls": "",
           "channels": [
-            "Anadolum TV",
             "Beyaz TV",
             "TGRT Haber",
             "Diyanet TV",
@@ -48238,7 +48179,7 @@
       "online_degree": "40.0° E",
       "num_channels": "260630",
       "full_name": "Express AM7 at 40.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 49,
       "transponders": [
         {
@@ -48947,7 +48888,7 @@
       "online_degree": "39.0° E",
       "num_channels": "260730",
       "full_name": "Hellas Sat 3/4 at 39.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 58,
       "transponders": [
         {
@@ -48971,8 +48912,7 @@
             "Pame Stoichima Lepto Pros Lepto",
             "Pame Stoichima Virtual Sports Mpasket",
             "ERT Cosmos",
-            "4E",
-            "HTV"
+            "4E"
           ]
         },
         {
@@ -49643,7 +49583,7 @@
       "online_degree": "38.2° E",
       "num_channels": "260813",
       "full_name": "Paksat MM1 at 38.2°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 59,
       "transponders": [
         {
@@ -50392,7 +50332,7 @@
       "online_degree": "38.0° E",
       "num_channels": "260805",
       "full_name": "Paksat 1R at 38.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 4,
       "transponders": [
         {
@@ -50444,7 +50384,7 @@
       "online_degree": "36.0° E",
       "num_channels": "260726",
       "full_name": "Eutelsat 36D & Express AMU1 at 36.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 118,
       "transponders": [
         {
@@ -51719,7 +51659,7 @@
       "online_degree": "33.0° E",
       "num_channels": "250928",
       "full_name": "Eutelsat 33F at 33.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 5,
       "transponders": [
         {
@@ -51781,7 +51721,7 @@
       "online_degree": "31.0° E",
       "num_channels": "260522",
       "full_name": "Türksat 5A at 31.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 11,
       "transponders": [
         {
@@ -51901,10 +51841,10 @@
       "degree": "30.5° E",
       "postion": 305,
       "online_degree": "30.5° E",
-      "num_channels": "260813",
+      "num_channels": "260814",
       "full_name": "Arabsat 5A/6A at 30.5°E - LyngSat",
-      "last_update": "2026-08-13",
-      "total_transponders": 78,
+      "last_update": "2026-08-14",
+      "total_transponders": 85,
       "transponders": [
         {
           "frequency": "10715",
@@ -52039,14 +51979,12 @@
         {
           "frequency": "10794",
           "polarization": "H",
-          "symbol_rate": "5/6",
-          "fec": "4800",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
+          "symbol_rate": "",
+          "fec": "",
+          "system": "",
+          "modulation": "",
           "pls": "",
-          "channels": [
-            "Quran TV"
-          ]
+          "channels": []
         },
         {
           "frequency": "10800",
@@ -52156,9 +52094,9 @@
         {
           "frequency": "10946",
           "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "3125",
-          "system": "DVB-S",
+          "symbol_rate": "",
+          "fec": "",
+          "system": "",
           "modulation": "",
           "pls": "",
           "channels": []
@@ -52328,6 +52266,16 @@
           ]
         },
         {
+          "frequency": "11181",
+          "polarization": "V",
+          "symbol_rate": "5/6",
+          "fec": "1660",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
           "frequency": "11185",
           "polarization": "V",
           "symbol_rate": "2/3",
@@ -52342,14 +52290,12 @@
         {
           "frequency": "11272",
           "polarization": "H",
-          "symbol_rate": "5/6",
-          "fec": "3125",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
+          "symbol_rate": "",
+          "fec": "",
+          "system": "",
+          "modulation": "",
           "pls": "",
-          "channels": [
-            "Quran TV"
-          ]
+          "channels": []
         },
         {
           "frequency": "11292",
@@ -52362,7 +52308,68 @@
           "channels": []
         },
         {
+          "frequency": "11297",
+          "polarization": "H",
+          "symbol_rate": "5/6",
+          "fec": "3125",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11301",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "3125",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
+          "pls": "",
+          "channels": []
+        },
+        {
           "frequency": "11304",
+          "polarization": "H",
+          "symbol_rate": "5/6",
+          "fec": "3125",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11341",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "17000",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": [
+            "Saudi TV",
+            "KSA Sport 2",
+            "KSA Sport 1",
+            "Ekhbariya TV",
+            "Thikrayat TV",
+            "Quran TV",
+            "Sunna TV",
+            "SBC",
+            "KSA Sport 3",
+            "Saudia Alaan TV"
+          ]
+        },
+        {
+          "frequency": "11354",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "3125",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11359",
           "polarization": "H",
           "symbol_rate": "5/6",
           "fec": "3125",
@@ -52370,6 +52377,18 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": []
+        },
+        {
+          "frequency": "11415",
+          "polarization": "H",
+          "symbol_rate": "5/6",
+          "fec": "6250",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Quran TV"
+          ]
         },
         {
           "frequency": "11421",
@@ -52742,7 +52761,7 @@
       "online_degree": "28.3° E",
       "num_channels": "260810",
       "full_name": "Astra 2E/2F/2G at 28.3°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 84,
       "transponders": [
         {
@@ -54068,7 +54087,7 @@
       "online_degree": "26.0° E",
       "num_channels": "260731",
       "full_name": "Badr 7/8 & Es'hail 2 at 26.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 79,
       "transponders": [
         {
@@ -55348,7 +55367,7 @@
       "online_degree": "25.5° E",
       "num_channels": "260725",
       "full_name": "Es'hail 1 at 25.5°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 27,
       "transponders": [
         {
@@ -55681,7 +55700,7 @@
       "online_degree": "23.5° E",
       "num_channels": "260812",
       "full_name": "Astra 3C at 23.5°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 27,
       "transponders": [
         {
@@ -56115,9 +56134,9 @@
       "degree": "21.5° E",
       "postion": 215,
       "online_degree": "21.5° E",
-      "num_channels": "260801",
+      "num_channels": "260814",
       "full_name": "Eutelsat 21B at 21.5°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 98,
       "transponders": [
         {
@@ -56433,14 +56452,12 @@
         {
           "frequency": "11500",
           "polarization": "V",
-          "symbol_rate": "5/6",
-          "fec": "1100",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
+          "symbol_rate": "",
+          "fec": "",
+          "system": "",
+          "modulation": "",
           "pls": "",
-          "channels": [
-            "Nabaa TV"
-          ]
+          "channels": []
         },
         {
           "frequency": "11500",
@@ -57179,7 +57196,7 @@
       "online_degree": "20.0° E",
       "num_channels": "260728",
       "full_name": "Arabsat 5C at 20.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 9,
       "transponders": [
         {
@@ -57309,7 +57326,7 @@
       "online_degree": "19.2° E",
       "num_channels": "260723",
       "full_name": "Astra 1N/1P at 19.2°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 109,
       "transponders": [
         {
@@ -58747,7 +58764,7 @@
       "online_degree": "17.0° E",
       "num_channels": "260726",
       "full_name": "Amos 17 at 17.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 20,
       "transponders": [
         {
@@ -59177,7 +59194,7 @@
       "online_degree": "16.0° E",
       "num_channels": "260812",
       "full_name": "Eutelsat 16A at 16.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 134,
       "transponders": [
         {
@@ -60784,7 +60801,7 @@
       "online_degree": "13.0° E",
       "num_channels": "260812",
       "full_name": "Hotbird 13F/13G at 13.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 129,
       "transponders": [
         {
@@ -62515,7 +62532,7 @@
       "online_degree": "10.0° E",
       "num_channels": "260724",
       "full_name": "Eutelsat 10B at 10.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 50,
       "transponders": [
         {
@@ -63135,7 +63152,7 @@
       "online_degree": "9.0° E",
       "num_channels": "260122",
       "full_name": "Eutelsat 9B & Ka-Sat 9A at 9.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 49,
       "transponders": [
         {
@@ -64063,7 +64080,7 @@
       "online_degree": "7.0° E",
       "num_channels": "260802",
       "full_name": "Eutelsat 7B/7C at 7.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 165,
       "transponders": [
         {
@@ -65957,8 +65974,8 @@
       "online_degree": "4.9° E",
       "num_channels": "260808",
       "full_name": "Astra 4A & SES 5 at 4.9°E - LyngSat",
-      "last_update": "2026-08-13",
-      "total_transponders": 51,
+      "last_update": "2026-08-14",
+      "total_transponders": 52,
       "transponders": [
         {
           "frequency": "3922",
@@ -66368,6 +66385,18 @@
           ]
         },
         {
+          "frequency": "12054",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "27500",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": [
+            "Astra Demo"
+          ]
+        },
+        {
           "frequency": "12073",
           "polarization": "H",
           "symbol_rate": "3/4",
@@ -66628,7 +66657,7 @@
       "online_degree": "3.0° E",
       "num_channels": "260805",
       "full_name": "Eutelsat 3B & Rascom QAF 1R at 3.0°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 76,
       "transponders": [
         {
@@ -67600,7 +67629,7 @@
       "online_degree": "1.9° E",
       "num_channels": "260718",
       "full_name": "BulgariaSat 1 at 1.9°E - LyngSat",
-      "last_update": "2026-08-13",
+      "last_update": "2026-08-14",
       "total_transponders": 14,
       "transponders": [
         {
