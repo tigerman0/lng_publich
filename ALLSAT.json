@@ -213,7 +213,7 @@
     "satellite_name": "Sky-Mexico-1",
     "degree": "78.8° W",
     "postion": -788,
-    "num_channels": "260814"
+    "num_channels": "260816"
   },
   {
     "satellite_name": "Arsat-2",
@@ -363,7 +363,7 @@
     "satellite_name": "Galaxy-37-Horizons-4",
     "degree": "127.0° W",
     "postion": -1270,
-    "num_channels": "260815"
+    "num_channels": "260816"
   },
   {
     "satellite_name": "SES-21",
@@ -381,7 +381,7 @@
     "satellite_name": "SES-19",
     "degree": "135.0° W",
     "postion": -1350,
-    "num_channels": "260815"
+    "num_channels": "260816"
   },
   {
     "satellite_name": "SES-22",
@@ -591,7 +591,7 @@
     "satellite_name": "SES-7-9-and-Merah-Putih",
     "degree": "108.1° E",
     "postion": 1081,
-    "num_channels": "260815"
+    "num_channels": "260816"
   },
   {
     "satellite_name": "AsiaSat-7",
@@ -657,7 +657,7 @@
     "satellite_name": "Measat-3b-3d",
     "degree": "91.5° E",
     "postion": 915,
-    "num_channels": "260813"
+    "num_channels": "260816"
   },
   {
     "satellite_name": "Yamal-401",
@@ -699,7 +699,7 @@
     "satellite_name": "Thaicom-6-8",
     "degree": "78.5° E",
     "postion": 785,
-    "num_channels": "260811"
+    "num_channels": "260816"
   },
   {
     "satellite_name": "Amos-3",
@@ -753,7 +753,7 @@
     "satellite_name": "Amos-4",
     "degree": "65.0° E",
     "postion": 650,
-    "num_channels": "260729"
+    "num_channels": "260816"
   },
   {
     "satellite_name": "Intelsat-39",
@@ -831,7 +831,7 @@
     "satellite_name": "Azerspace-2-Intelsat-38",
     "degree": "45.1° E",
     "postion": 451,
-    "num_channels": "260814"
+    "num_channels": "260816"
   },
   {
     "satellite_name": "Cosmos-2520",
@@ -849,7 +849,7 @@
     "satellite_name": "Turksat-3A-4A-5B-6A",
     "degree": "42.0° E",
     "postion": 420,
-    "num_channels": "260815"
+    "num_channels": "260816"
   },
   {
     "satellite_name": "Express-AM7",
@@ -981,7 +981,7 @@
     "satellite_name": "Astra-4A-and-SES-5",
     "degree": "4.9° E",
     "postion": 49,
-    "num_channels": "260808"
+    "num_channels": "260816"
   },
   {
     "satellite_name": "Eutelsat-3B-and-Rascom-QAF-1R",
