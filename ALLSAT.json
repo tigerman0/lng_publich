@@ -3,7 +3,7 @@
     "satellite_name": "Thor-5-6-7-and-Intelsat-10-02",
     "degree": "0.8° W",
     "postion": -8,
-    "num_channels": "260627"
+    "num_channels": "260817"
   },
   {
     "satellite_name": "ABS-3A",
@@ -33,7 +33,7 @@
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
     "postion": -80,
-    "num_channels": "260815"
+    "num_channels": "260817"
   },
   {
     "satellite_name": "Express-AM8",
@@ -279,7 +279,7 @@
     "satellite_name": "Galaxy-16-and-T11-T14",
     "degree": "99.1° W",
     "postion": -991,
-    "num_channels": "260506"
+    "num_channels": "260817"
   },
   {
     "satellite_name": "T9S-T16-and-SES-1",
@@ -357,7 +357,7 @@
     "satellite_name": "Galaxy-30",
     "degree": "125.0° W",
     "postion": -1250,
-    "num_channels": "260720"
+    "num_channels": "260817"
   },
   {
     "satellite_name": "Galaxy-37-Horizons-4",
@@ -597,7 +597,7 @@
     "satellite_name": "AsiaSat-7",
     "degree": "105.5° E",
     "postion": 1055,
-    "num_channels": "260811"
+    "num_channels": "260817"
   },
   {
     "satellite_name": "Express-AMU3",
@@ -711,7 +711,7 @@
     "satellite_name": "Apstar-7",
     "degree": "76.5° E",
     "postion": 765,
-    "num_channels": "260717"
+    "num_channels": "260817"
   },
   {
     "satellite_name": "ABS-2-2A",
