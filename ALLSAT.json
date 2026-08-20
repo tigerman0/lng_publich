@@ -33,7 +33,7 @@
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
     "postion": -80,
-    "num_channels": "260817"
+    "num_channels": "260818"
   },
   {
     "satellite_name": "Express-AM8",
@@ -219,7 +219,7 @@
     "satellite_name": "Arsat-2",
     "degree": "81.0° W",
     "postion": -810,
-    "num_channels": "260709"
+    "num_channels": "260818"
   },
   {
     "satellite_name": "Star-One-D1",
@@ -513,7 +513,7 @@
     "satellite_name": "ChinaSat-6C",
     "degree": "130.5° E",
     "postion": 1305,
-    "num_channels": "260303"
+    "num_channels": "260818"
   },
   {
     "satellite_name": "LaoSat-1",
@@ -543,7 +543,7 @@
     "satellite_name": "AsiaSat-9",
     "degree": "122.0° E",
     "postion": 1220,
-    "num_channels": "260811"
+    "num_channels": "260818"
   },
   {
     "satellite_name": "AsiaSat-6-Thaicom-7",
@@ -777,7 +777,7 @@
     "satellite_name": "Express-AT2",
     "degree": "56.0° E",
     "postion": 560,
-    "num_channels": "260812"
+    "num_channels": "260818"
   },
   {
     "satellite_name": "G-Sat-16-and-Yamal-402",
@@ -789,7 +789,7 @@
     "satellite_name": "Express-AM6",
     "degree": "53.0° E",
     "postion": 530,
-    "num_channels": "260814"
+    "num_channels": "260818"
   },
   {
     "satellite_name": "Al-Yah-1",
@@ -825,7 +825,7 @@
     "satellite_name": "Azerspace-1",
     "degree": "46.0° E",
     "postion": 460,
-    "num_channels": "260806"
+    "num_channels": "260818"
   },
   {
     "satellite_name": "Azerspace-2-Intelsat-38",
@@ -897,13 +897,13 @@
     "satellite_name": "Arabsat-5A-6A",
     "degree": "30.5° E",
     "postion": 305,
-    "num_channels": "260814"
+    "num_channels": "260818"
   },
   {
     "satellite_name": "Astra-2E-2F-2G",
     "degree": "28.3° E",
     "postion": 283,
-    "num_channels": "260810"
+    "num_channels": "260818"
   },
   {
     "satellite_name": "Badr-7-8-and-Eshail-2",
@@ -921,7 +921,7 @@
     "satellite_name": "Astra-3C",
     "degree": "23.5° E",
     "postion": 235,
-    "num_channels": "260812"
+    "num_channels": "260818"
   },
   {
     "satellite_name": "Eutelsat-21B",
