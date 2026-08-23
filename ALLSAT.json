@@ -33,7 +33,7 @@
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
     "postion": -80,
-    "num_channels": "260820"
+    "num_channels": "260821"
   },
   {
     "satellite_name": "Express-AM8",
@@ -99,7 +99,7 @@
     "satellite_name": "SES-6",
     "degree": "40.5° W",
     "postion": -405,
-    "num_channels": "260807"
+    "num_channels": "260821"
   },
   {
     "satellite_name": "Sky-Brasil-1",
@@ -178,12 +178,6 @@
     "degree": "71.8° W",
     "postion": -718,
     "num_channels": "260807"
-  },
-  {
-    "satellite_name": "Amazonas-2",
-    "degree": "72.0° W",
-    "postion": -720,
-    "num_channels": "260523"
   },
   {
     "satellite_name": "Nimiq-5",
@@ -303,7 +297,7 @@
     "satellite_name": "EchoStar-105-SES-11",
     "degree": "105.0° W",
     "postion": -1050,
-    "num_channels": "260729"
+    "num_channels": "260821"
   },
   {
     "satellite_name": "Anik-F1R-G1",
@@ -351,7 +345,7 @@
     "satellite_name": "Galaxy-18",
     "degree": "123.0° W",
     "postion": -1230,
-    "num_channels": "260511"
+    "num_channels": "260821"
   },
   {
     "satellite_name": "Galaxy-30",
@@ -507,7 +501,7 @@
     "satellite_name": "Vinasat-1-2",
     "degree": "131.9° E",
     "postion": 1319,
-    "num_channels": "260815"
+    "num_channels": "260821"
   },
   {
     "satellite_name": "ChinaSat-6C",
@@ -591,7 +585,7 @@
     "satellite_name": "SES-7-9-and-Merah-Putih",
     "degree": "108.1° E",
     "postion": 1081,
-    "num_channels": "260816"
+    "num_channels": "260821"
   },
   {
     "satellite_name": "AsiaSat-7",
@@ -699,7 +693,7 @@
     "satellite_name": "Thaicom-6-8",
     "degree": "78.5° E",
     "postion": 785,
-    "num_channels": "260816"
+    "num_channels": "260821"
   },
   {
     "satellite_name": "Amos-3",
@@ -795,13 +789,13 @@
     "satellite_name": "Al-Yah-1",
     "degree": "52.5° E",
     "postion": 525,
-    "num_channels": "260820"
+    "num_channels": "260821"
   },
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
     "postion": 520,
-    "num_channels": "260819"
+    "num_channels": "260821"
   },
   {
     "satellite_name": "Belintersat-1",
@@ -903,7 +897,7 @@
     "satellite_name": "Astra-2E-2F-2G",
     "degree": "28.3° E",
     "postion": 283,
-    "num_channels": "260820"
+    "num_channels": "260821"
   },
   {
     "satellite_name": "Badr-7-8-and-Eshail-2",
@@ -975,7 +969,7 @@
     "satellite_name": "Eutelsat-7B-7C",
     "degree": "7.0° E",
     "postion": 70,
-    "num_channels": "260815"
+    "num_channels": "260821"
   },
   {
     "satellite_name": "Astra-4A-and-SES-5",
