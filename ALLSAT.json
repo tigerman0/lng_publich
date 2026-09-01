@@ -213,7 +213,7 @@
     "satellite_name": "Arsat-2",
     "degree": "81.0° W",
     "postion": -810,
-    "num_channels": "260818"
+    "num_channels": "260830"
   },
   {
     "satellite_name": "Star-One-D1",
@@ -705,7 +705,7 @@
     "satellite_name": "Apstar-7",
     "degree": "76.5° E",
     "postion": 765,
-    "num_channels": "260828"
+    "num_channels": "260830"
   },
   {
     "satellite_name": "ABS-2-2A",
@@ -795,7 +795,7 @@
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
     "postion": 520,
-    "num_channels": "260829"
+    "num_channels": "260830"
   },
   {
     "satellite_name": "Belintersat-1",
@@ -825,7 +825,7 @@
     "satellite_name": "Azerspace-2-Intelsat-38",
     "degree": "45.1° E",
     "postion": 451,
-    "num_channels": "260827"
+    "num_channels": "260830"
   },
   {
     "satellite_name": "Cosmos-2520",
@@ -915,7 +915,7 @@
     "satellite_name": "Eutelsat-21B",
     "degree": "21.5° E",
     "postion": 215,
-    "num_channels": "260829"
+    "num_channels": "260830"
   },
   {
     "satellite_name": "Arabsat-5C",
