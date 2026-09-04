@@ -1,5 +1,5 @@
 {
-  "extraction_date": "2026-09-03 05:33:40",
+  "extraction_date": "2026-09-04 05:39:20",
   "total_satellites": 165,
   "satellites": [
     {
@@ -9,8 +9,8 @@
       "online_degree": "0.8° W",
       "num_channels": "260817",
       "full_name": "Thor 5/6/7 & Intelsat 10-02 at 0.8°W - LyngSat",
-      "last_update": "2026-09-01",
-      "total_transponders": 89,
+      "last_update": "2026-09-02",
+      "total_transponders": 90,
       "transponders": [
         {
           "frequency": "3977",
@@ -1106,9 +1106,9 @@
           "frequency": "12602",
           "polarization": "H",
           "symbol_rate": "3/4",
-          "fec": "7200",
+          "fec": "7230",
           "system": "DVB-S2",
-          "modulation": "8PSK",
+          "modulation": "QPSK",
           "pls": "",
           "channels": []
         },
@@ -1117,6 +1117,16 @@
           "polarization": "V",
           "symbol_rate": "3/5",
           "fec": "28800",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12611",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "7230",
           "system": "DVB-S2",
           "modulation": "QPSK",
           "pls": "",
@@ -1217,7 +1227,7 @@
       "online_degree": "3.0° W",
       "num_channels": "260716",
       "full_name": "ABS 3A at 3.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 28,
       "transponders": [
         {
@@ -1589,7 +1599,7 @@
       "online_degree": "4.0° W",
       "num_channels": "260409",
       "full_name": "Dror 1 at 4.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 4,
       "transponders": [
         {
@@ -1646,7 +1656,7 @@
       "online_degree": "5.0° W",
       "num_channels": "260901",
       "full_name": "Eutelsat 5 West B at 5.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 37,
       "transponders": [
         {
@@ -2218,7 +2228,7 @@
       "online_degree": "7.1° W",
       "num_channels": "260819",
       "full_name": "Nilesat 201/301 & Eutelsat 7 West A at 7.1°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 64,
       "transponders": [
         {
@@ -3394,9 +3404,9 @@
       "degree": "8.0° W",
       "postion": -80,
       "online_degree": "8.0° W",
-      "num_channels": "260901",
+      "num_channels": "260902",
       "full_name": "Eutelsat 8 West B at 8.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 71,
       "transponders": [
         {
@@ -4553,7 +4563,7 @@
       "online_degree": "14.0° W",
       "num_channels": "260722",
       "full_name": "Express AM8 at 14.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 17,
       "transponders": [
         {
@@ -4779,7 +4789,7 @@
       "online_degree": "15.0° W",
       "num_channels": "260805",
       "full_name": "Telstar 12 Vantage at 15.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 11,
       "transponders": [
         {
@@ -4978,7 +4988,7 @@
       "online_degree": "18.0° W",
       "num_channels": "260805",
       "full_name": "Intelsat 37e at 18.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 14,
       "transponders": [
         {
@@ -5175,7 +5185,7 @@
       "online_degree": "22.0° W",
       "num_channels": "260827",
       "full_name": "SES 4 at 22.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 49,
       "transponders": [
         {
@@ -5730,7 +5740,7 @@
       "online_degree": "24.8° W",
       "num_channels": "260716",
       "full_name": "Alcomsat 1 at 24.8°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 5,
       "transponders": [
         {
@@ -5817,7 +5827,7 @@
       "online_degree": "30.0° W",
       "num_channels": "260814",
       "full_name": "Hispasat 30W-5/30W-6 at 30.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 46,
       "transponders": [
         {
@@ -6377,7 +6387,7 @@
       "online_degree": "34.5° W",
       "num_channels": "260826",
       "full_name": "Intelsat 35e at 34.5°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 17,
       "transponders": [
         {
@@ -6677,7 +6687,7 @@
       "online_degree": "36.0° W",
       "num_channels": "240908",
       "full_name": "Hispasat 36W-1 at 36.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 0,
       "transponders": []
     },
@@ -6688,7 +6698,7 @@
       "online_degree": "37.4° W",
       "num_channels": "170724",
       "full_name": "NSS 10 at 37.4°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 4,
       "transponders": [
         {
@@ -6748,7 +6758,7 @@
       "online_degree": "37.6° W",
       "num_channels": "250826",
       "full_name": "Telstar 11N at 37.6°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 1,
       "transponders": [
         {
@@ -6772,7 +6782,7 @@
       "online_degree": "40.5° W",
       "num_channels": "260821",
       "full_name": "SES 6 at 40.5°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 66,
       "transponders": [
         {
@@ -7609,7 +7619,7 @@
       "online_degree": "43.1° W",
       "num_channels": "260801",
       "full_name": "Sky Brasil 1 at 43.1°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 46,
       "transponders": [
         {
@@ -8087,7 +8097,7 @@
       "online_degree": "45.0° W",
       "num_channels": "260812",
       "full_name": "Intelsat 14 at 45.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 31,
       "transponders": [
         {
@@ -8409,7 +8419,7 @@
       "online_degree": "47.5° W",
       "num_channels": "260603",
       "full_name": "SES 14 at 47.5°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 13,
       "transponders": [
         {
@@ -8570,7 +8580,7 @@
       "online_degree": "53.0° W",
       "num_channels": "130625",
       "full_name": "Intelsat 23 at 53.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 2,
       "transponders": [
         {
@@ -8604,7 +8614,7 @@
       "online_degree": "55.5° W",
       "num_channels": "260811",
       "full_name": "Intelsat 34 at 55.5°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 50,
       "transponders": [
         {
@@ -9348,7 +9358,7 @@
       "online_degree": "58.0° W",
       "num_channels": "260722",
       "full_name": "Intelsat 21 at 58.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 52,
       "transponders": [
         {
@@ -10089,7 +10099,7 @@
       "online_degree": "61.0° W",
       "num_channels": "260819",
       "full_name": "Amazonas 3/5/Nexus at 61.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 29,
       "transponders": [
         {
@@ -10449,7 +10459,7 @@
       "online_degree": "61.5° W",
       "num_channels": "260112",
       "full_name": "EchoStar 16 at 61.5°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 128,
       "transponders": [
         {
@@ -11741,7 +11751,7 @@
       "online_degree": "63.0° W",
       "num_channels": "221020",
       "full_name": "Telstar 19 Vantage at 63.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 1,
       "transponders": [
         {
@@ -11765,7 +11775,7 @@
       "online_degree": "65.2° W",
       "num_channels": "260720",
       "full_name": "Eutelsat 65 West A at 65.2°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 39,
       "transponders": [
         {
@@ -12359,7 +12369,7 @@
       "online_degree": "67.0° W",
       "num_channels": "260806",
       "full_name": "SES 10 at 67.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 10,
       "transponders": [
         {
@@ -12488,7 +12498,7 @@
       "online_degree": "70.0° W",
       "num_channels": "260811",
       "full_name": "Star One C4/D2 at 70.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 104,
       "transponders": [
         {
@@ -13922,7 +13932,7 @@
       "online_degree": "71.8° W",
       "num_channels": "260807",
       "full_name": "Arsat 1 at 71.8°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 30,
       "transponders": [
         {
@@ -14305,7 +14315,7 @@
       "online_degree": "72.7° W",
       "num_channels": "251231",
       "full_name": "Nimiq 5 at 72.7°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 25,
       "transponders": [
         {
@@ -14572,7 +14582,7 @@
       "online_degree": "73.9° W",
       "num_channels": "260814",
       "full_name": "Hispasat 74W-1 at 73.9°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 3,
       "transponders": [
         {
@@ -14624,7 +14634,7 @@
       "online_degree": "75.0° W",
       "num_channels": "260901",
       "full_name": "Star One C3 at 75.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 55,
       "transponders": [
         {
@@ -15355,7 +15365,7 @@
       "online_degree": "77.0° W",
       "num_channels": "260811",
       "full_name": "QuetzSat 1 at 77.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 18,
       "transponders": [
         {
@@ -15552,7 +15562,7 @@
       "online_degree": "78.8° W",
       "num_channels": "260816",
       "full_name": "Sky Mexico 1 at 78.8°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 20,
       "transponders": [
         {
@@ -15770,7 +15780,7 @@
       "online_degree": "81.0° W",
       "num_channels": "260830",
       "full_name": "Arsat 2 at 81.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 5,
       "transponders": [
         {
@@ -15846,7 +15856,7 @@
       "online_degree": "84.0° W",
       "num_channels": "260606",
       "full_name": "Star One D1 at 84.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 11,
       "transponders": [
         {
@@ -16013,7 +16023,7 @@
       "online_degree": "85.0° W",
       "num_channels": "260901",
       "full_name": "SiriusXM 8/9 at 85.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 1,
       "transponders": [
         {
@@ -16035,7 +16045,7 @@
       "online_degree": "87.1° W",
       "num_channels": "260831",
       "full_name": "SES 2 & TKSat 1 at 87.1°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 15,
       "transponders": [
         {
@@ -16250,7 +16260,7 @@
       "online_degree": "89.0° W",
       "num_channels": "260802",
       "full_name": "Galaxy 36 at 89.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 2,
       "transponders": [
         {
@@ -16282,7 +16292,7 @@
       "online_degree": "91.0° W",
       "num_channels": "260803",
       "full_name": "Galaxy 32 & Nimiq 6 at 91.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 42,
       "transponders": [
         {
@@ -16755,7 +16765,7 @@
       "online_degree": "93.1° W",
       "num_channels": "260815",
       "full_name": "Galaxy 35 at 93.1°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 9,
       "transponders": [
         {
@@ -16878,7 +16888,7 @@
       "online_degree": "94.9° W",
       "num_channels": "260807",
       "full_name": "Galaxy 3C at 94.9°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 8,
       "transponders": [
         {
@@ -16970,7 +16980,7 @@
       "online_degree": "95.0° W",
       "num_channels": "260730",
       "full_name": "Intelsat 30/31 at 95.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 2,
       "transponders": [
         {
@@ -17002,7 +17012,7 @@
       "online_degree": "97.0° W",
       "num_channels": "260824",
       "full_name": "Galaxy 19 at 97.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 23,
       "transponders": [
         {
@@ -17334,7 +17344,7 @@
       "online_degree": "99.1° W",
       "num_channels": "260901",
       "full_name": "Galaxy 16 & T11/T14 at 99.1°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 15,
       "transponders": [
         {
@@ -17514,7 +17524,7 @@
       "online_degree": "101.0° W",
       "num_channels": "200711",
       "full_name": "T9S/T16 & SES 1 at 101.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 46,
       "transponders": [
         {
@@ -18102,7 +18112,7 @@
       "online_degree": "102.9° W",
       "num_channels": "180927",
       "full_name": "T12 & SES 18 at 102.9°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 25,
       "transponders": [
         {
@@ -18446,7 +18456,7 @@
       "online_degree": "103.0° W",
       "num_channels": "201105",
       "full_name": "SES 3 at 103.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 0,
       "transponders": []
     },
@@ -18457,7 +18467,7 @@
       "online_degree": "105.0° W",
       "num_channels": "260828",
       "full_name": "EchoStar 105/SES 11 at 105.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 14,
       "transponders": [
         {
@@ -18683,7 +18693,7 @@
       "online_degree": "107.3° W",
       "num_channels": "260328",
       "full_name": "Anik F1R/G1 at 107.3°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 17,
       "transponders": [
         {
@@ -18867,7 +18877,7 @@
       "online_degree": "110.0° W",
       "num_channels": "250222",
       "full_name": "EchoStar 10/11 at 110.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 116,
       "transponders": [
         {
@@ -20041,7 +20051,7 @@
       "online_degree": "114.9° W",
       "num_channels": "260824",
       "full_name": "Eutelsat 115 West B at 114.9°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 8,
       "transponders": [
         {
@@ -20154,7 +20164,7 @@
       "online_degree": "115.7° W",
       "num_channels": "260901",
       "full_name": "SiriusXM 5/10 at 115.7°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 1,
       "transponders": [
         {
@@ -20176,7 +20186,7 @@
       "online_degree": "116.9° W",
       "num_channels": "260829",
       "full_name": "Eutelsat 117 West A/B at 116.9°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 80,
       "transponders": [
         {
@@ -21257,7 +21267,7 @@
       "online_degree": "119.0° W",
       "num_channels": "240922",
       "full_name": "Anik F3 & T8 & EchoStar 14 at 119.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 117,
       "transponders": [
         {
@@ -22441,7 +22451,7 @@
       "online_degree": "121.0° W",
       "num_channels": "260125",
       "full_name": "Galaxy 31 at 121.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 5,
       "transponders": [
         {
@@ -22524,7 +22534,7 @@
       "online_degree": "123.0° W",
       "num_channels": "260821",
       "full_name": "Galaxy 18 at 123.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 10,
       "transponders": [
         {
@@ -22689,7 +22699,7 @@
       "online_degree": "125.0° W",
       "num_channels": "260820",
       "full_name": "Galaxy 30 at 125.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 10,
       "transponders": [
         {
@@ -22903,7 +22913,7 @@
       "online_degree": "127.0° W",
       "num_channels": "260816",
       "full_name": "Galaxy 37/Horizons 4 at 127.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 7,
       "transponders": [
         {
@@ -23045,7 +23055,7 @@
       "online_degree": "131.0° W",
       "num_channels": "260815",
       "full_name": "SES 21 at 131.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 2,
       "transponders": [
         {
@@ -23092,7 +23102,7 @@
       "online_degree": "133.0° W",
       "num_channels": "260815",
       "full_name": "Galaxy 33 at 133.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 11,
       "transponders": [
         {
@@ -23272,7 +23282,7 @@
       "online_degree": "135.0° W",
       "num_channels": "260816",
       "full_name": "SES 19 at 135.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 3,
       "transponders": [
         {
@@ -23329,7 +23339,7 @@
       "online_degree": "139.0° W",
       "num_channels": "260815",
       "full_name": "SES 22 at 139.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 1,
       "transponders": [
         {
@@ -23358,7 +23368,7 @@
       "online_degree": "177.0° W",
       "num_channels": "190104",
       "full_name": "NSS 9 at 177.0°W - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 3,
       "transponders": [
         {
@@ -23404,7 +23414,7 @@
       "online_degree": "180.0° E",
       "num_channels": "260805",
       "full_name": "Intelsat 18 at 180.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 13,
       "transponders": [
         {
@@ -23621,7 +23631,7 @@
       "online_degree": "172.0° E",
       "num_channels": "260725",
       "full_name": "Eutelsat 172B at 172.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 11,
       "transponders": [
         {
@@ -23884,7 +23894,7 @@
       "online_degree": "169.0° E",
       "num_channels": "260501",
       "full_name": "Horizons 3e at 169.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 1,
       "transponders": [
         {
@@ -23911,7 +23921,7 @@
       "online_degree": "166.0° E",
       "num_channels": "260826",
       "full_name": "Intelsat 19 at 166.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 27,
       "transponders": [
         {
@@ -24351,7 +24361,7 @@
       "online_degree": "162.0° E",
       "num_channels": "250821",
       "full_name": "Superbird B3 at 162.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 3,
       "transponders": [
         {
@@ -24395,7 +24405,7 @@
       "online_degree": "160.0° E",
       "num_channels": "250201",
       "full_name": "Measat 3a & Koreasat 6 at 160.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 19,
       "transponders": [
         {
@@ -24683,7 +24693,7 @@
       "online_degree": "159.0° E",
       "num_channels": "250102",
       "full_name": "ABS 6 at 159.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 1,
       "transponders": [
         {
@@ -24708,7 +24718,7 @@
       "online_degree": "156.0° E",
       "num_channels": "260715",
       "full_name": "Optus 10 at 156.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 24,
       "transponders": [
         {
@@ -24989,7 +24999,7 @@
       "online_degree": "154.0° E",
       "num_channels": "260526",
       "full_name": "JCSAT 2B at 154.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 6,
       "transponders": [
         {
@@ -25063,7 +25073,7 @@
       "online_degree": "152.0° E",
       "num_channels": "251116",
       "full_name": "Optus D1 at 152.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 2,
       "transponders": [
         {
@@ -25095,7 +25105,7 @@
       "online_degree": "150.5° E",
       "num_channels": "240304",
       "full_name": "BRIsat at 150.5°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 2,
       "transponders": [
         {
@@ -25127,7 +25137,7 @@
       "online_degree": "146.0° E",
       "num_channels": "260711",
       "full_name": "Nusantara Satu at 146.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 2,
       "transponders": [
         {
@@ -25159,7 +25169,7 @@
       "online_degree": "145.0° E",
       "num_channels": "241006",
       "full_name": "Express AMU7 at 145.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 12,
       "transponders": [
         {
@@ -25348,7 +25358,7 @@
       "online_degree": "144.0° E",
       "num_channels": "260420",
       "full_name": "JCSAT 144C at 144.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 5,
       "transponders": [
         {
@@ -25414,7 +25424,7 @@
       "online_degree": "142.0° E",
       "num_channels": "201116",
       "full_name": "Apstar 9 at 142.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 0,
       "transponders": []
     },
@@ -25425,7 +25435,7 @@
       "online_degree": "140.0° E",
       "num_channels": "260624",
       "full_name": "Express AM5 at 140.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 8,
       "transponders": [
         {
@@ -25537,7 +25547,7 @@
       "online_degree": "138.0° E",
       "num_channels": "260804",
       "full_name": "Telstar 18 Vantage at 138.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 29,
       "transponders": [
         {
@@ -25943,7 +25953,7 @@
       "online_degree": "134.0° E",
       "num_channels": "260517",
       "full_name": "Apstar 6C at 134.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 12,
       "transponders": [
         {
@@ -26082,7 +26092,7 @@
       "online_degree": "131.9° E",
       "num_channels": "260821",
       "full_name": "Vinasat 1/2 at 131.9°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 5,
       "transponders": [
         {
@@ -26222,7 +26232,7 @@
       "online_degree": "130.5° E",
       "num_channels": "260818",
       "full_name": "ChinaSat 6C at 130.5°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 2,
       "transponders": [
         {
@@ -26254,7 +26264,7 @@
       "online_degree": "128.5° E",
       "num_channels": "260804",
       "full_name": "LaoSat 1 at 128.5°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 23,
       "transponders": [
         {
@@ -26548,7 +26558,7 @@
       "online_degree": "128.0° E",
       "num_channels": "260809",
       "full_name": "JCSAT 3A at 128.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 8,
       "transponders": [
         {
@@ -26649,7 +26659,7 @@
       "online_degree": "125.0° E",
       "num_channels": "260808",
       "full_name": "ChinaSat 6D at 125.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 42,
       "transponders": [
         {
@@ -27206,7 +27216,7 @@
       "online_degree": "124.0° E",
       "num_channels": "260719",
       "full_name": "JCSAT 4B at 124.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 14,
       "transponders": [
         {
@@ -27366,7 +27376,7 @@
       "online_degree": "122.0° E",
       "num_channels": "260827",
       "full_name": "AsiaSat 9 at 122.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 32,
       "transponders": [
         {
@@ -27817,7 +27827,7 @@
       "online_degree": "120.0° E",
       "num_channels": "260624",
       "full_name": "AsiaSat 6/Thaicom 7 at 120.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 9,
       "transponders": [
         {
@@ -27925,7 +27935,7 @@
       "online_degree": "119.3° E",
       "num_channels": "201119",
       "full_name": "Thaicom 4 & Bangladesh 1 at 119.3°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 29,
       "transponders": [
         {
@@ -28306,7 +28316,7 @@
       "online_degree": "118.0° E",
       "num_channels": "250424",
       "full_name": "Telkom 3S at 118.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 2,
       "transponders": [
         {
@@ -28347,7 +28357,7 @@
       "online_degree": "116.0° E",
       "num_channels": "260130",
       "full_name": "Koreasat 6A/7 at 116.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 29,
       "transponders": [
         {
@@ -28671,7 +28681,7 @@
       "online_degree": "115.5° E",
       "num_channels": "260812",
       "full_name": "ChinaSat 6E at 115.5°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 45,
       "transponders": [
         {
@@ -29256,9 +29266,9 @@
       "degree": "113.0° E",
       "postion": 1130,
       "online_degree": "113.0° E",
-      "num_channels": "260828",
+      "num_channels": "260902",
       "full_name": "Koreasat 5A at 113.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 11,
       "transponders": [
         {
@@ -29403,7 +29413,7 @@
       "online_degree": "110.0° E",
       "num_channels": "250717",
       "full_name": "BSAT 3C/JCSAT 110R & JCSAT 110A & BSAT 4A at 110.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 31,
       "transponders": [
         {
@@ -29753,9 +29763,9 @@
       "degree": "108.1° E",
       "postion": 1081,
       "online_degree": "108.1° E",
-      "num_channels": "260829",
+      "num_channels": "260902",
       "full_name": "SES 7/9 & Merah Putih at 108.1°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 83,
       "transponders": [
         {
@@ -30765,9 +30775,9 @@
       "degree": "105.5° E",
       "postion": 1055,
       "online_degree": "105.5° E",
-      "num_channels": "260831",
+      "num_channels": "260902",
       "full_name": "AsiaSat 7 at 105.5°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 12,
       "transponders": [
         {
@@ -30799,7 +30809,13 @@
             "Nick Jr Asia",
             "History TV 18",
             "Sonic Nickelodeon",
-            "MTV India"
+            "MTV India",
+            "Star Plus India",
+            "Star Bharat India",
+            "Star Jalsha",
+            "Jalsha Movies",
+            "Star Gold India",
+            "Star Gold Romance"
           ]
         },
         {
@@ -30869,8 +30885,6 @@
             "HK TV",
             "Isaac TV",
             "Joo Music",
-            "Prime Asia TV HD",
-            "Jan TV",
             "Grace Network",
             "Zindagi TV",
             "Praise TV",
@@ -30986,7 +31000,7 @@
       "online_degree": "103.0° E",
       "num_channels": "260502",
       "full_name": "Express AMU3 at 103.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 13,
       "transponders": [
         {
@@ -31203,7 +31217,7 @@
       "online_degree": "101.4° E",
       "num_channels": "251224",
       "full_name": "ChinaSat 9B at 101.4°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 4,
       "transponders": [
         {
@@ -31294,7 +31308,7 @@
       "online_degree": "100.5° E",
       "num_channels": "260712",
       "full_name": "AsiaSat 5 at 100.5°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 34,
       "transponders": [
         {
@@ -31692,7 +31706,7 @@
       "online_degree": "98.0° E",
       "num_channels": "260813",
       "full_name": "ChinaSat 11 at 98.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 2,
       "transponders": [
         {
@@ -31724,7 +31738,7 @@
       "online_degree": "97.3° E",
       "num_channels": "260819",
       "full_name": "G-Sat 9 at 97.3°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 4,
       "transponders": [
         {
@@ -31835,7 +31849,7 @@
       "online_degree": "96.5° E",
       "num_channels": "260626",
       "full_name": "Express 103 at 96.5°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 7,
       "transponders": [
         {
@@ -31924,7 +31938,7 @@
       "online_degree": "95.0° E",
       "num_channels": "260620",
       "full_name": "SES 8/12 at 95.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 12,
       "transponders": [
         {
@@ -32075,7 +32089,7 @@
       "online_degree": "93.5° E",
       "num_channels": "260819",
       "full_name": "G-Sat 15/17 at 93.5°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 85,
       "transponders": [
         {
@@ -33620,9 +33634,9 @@
       "degree": "92.2° E",
       "postion": 922,
       "online_degree": "92.2° E",
-      "num_channels": "260814",
+      "num_channels": "260902",
       "full_name": "ChinaSat 9C at 92.2°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 16,
       "transponders": [
         {
@@ -33718,8 +33732,6 @@
           "channels": [
             "Sansha Satellite TV",
             "Lasa Tibetan TV",
-            "Ningxia Public Channel",
-            "Ningxia Culture & Tourism Channel",
             "Nei Monggol TV 2 Mongolian Culture Channel",
             "Nei Monggol TV News Channel",
             "Nei Monggol TV Economic & Life Channel",
@@ -33925,7 +33937,7 @@
       "online_degree": "91.5° E",
       "num_channels": "260825",
       "full_name": "Measat 3b/3d at 91.5°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 60,
       "transponders": [
         {
@@ -34663,7 +34675,7 @@
       "online_degree": "90.0° E",
       "num_channels": "260701",
       "full_name": "Yamal 401 at 90.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 40,
       "transponders": [
         {
@@ -35240,7 +35252,7 @@
       "online_degree": "88.0° E",
       "num_channels": "260825",
       "full_name": "ST 2 at 88.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 27,
       "transponders": [
         {
@@ -35581,7 +35593,7 @@
       "online_degree": "87.5° E",
       "num_channels": "220729",
       "full_name": "ChinaSat 12 at 87.5°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 1,
       "transponders": [
         {
@@ -35603,7 +35615,7 @@
       "online_degree": "86.5° E",
       "num_channels": "260725",
       "full_name": "KazSat 2 at 86.5°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 5,
       "transponders": [
         {
@@ -35696,7 +35708,7 @@
       "online_degree": "83.0° E",
       "num_channels": "260716",
       "full_name": "G-Sat 10/24/30 at 83.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 88,
       "transponders": [
         {
@@ -36931,9 +36943,9 @@
       "degree": "80.0° E",
       "postion": 800,
       "online_degree": "80.0° E",
-      "num_channels": "260819",
+      "num_channels": "260902",
       "full_name": "Express 80 at 80.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 16,
       "transponders": [
         {
@@ -37165,7 +37177,7 @@
       "online_degree": "78.5° E",
       "num_channels": "260821",
       "full_name": "Thaicom 6/8 at 78.5°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 77,
       "transponders": [
         {
@@ -38256,7 +38268,7 @@
       "online_degree": "78.0° E",
       "num_channels": "241111",
       "full_name": "Amos 3 at 78.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 0,
       "transponders": []
     },
@@ -38267,7 +38279,7 @@
       "online_degree": "76.5° E",
       "num_channels": "260901",
       "full_name": "Apstar 7 at 76.5°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 30,
       "transponders": [
         {
@@ -38693,7 +38705,7 @@
       "online_degree": "75.0° E",
       "num_channels": "260822",
       "full_name": "ABS 2/2A at 75.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 26,
       "transponders": [
         {
@@ -39128,7 +39140,7 @@
       "online_degree": "74.0° E",
       "num_channels": "260808",
       "full_name": "G-Sat 18 at 74.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 3,
       "transponders": [
         {
@@ -39170,7 +39182,7 @@
       "online_degree": "72.1° E",
       "num_channels": "260820",
       "full_name": "Intelsat 22 at 72.1°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 16,
       "transponders": [
         {
@@ -39354,7 +39366,7 @@
       "online_degree": "70.5° E",
       "num_channels": "260829",
       "full_name": "Eutelsat 70B at 70.5°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 24,
       "transponders": [
         {
@@ -39648,7 +39660,7 @@
       "online_degree": "68.5° E",
       "num_channels": "260827",
       "full_name": "Intelsat 20/36 at 68.5°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 90,
       "transponders": [
         {
@@ -40971,7 +40983,7 @@
       "online_degree": "66.0° E",
       "num_channels": "260822",
       "full_name": "Intelsat 17 at 66.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 29,
       "transponders": [
         {
@@ -41419,7 +41431,7 @@
       "online_degree": "65.0° E",
       "num_channels": "260816",
       "full_name": "Amos 4 at 65.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 5,
       "transponders": [
         {
@@ -41483,7 +41495,7 @@
       "online_degree": "62.0° E",
       "num_channels": "260824",
       "full_name": "Intelsat 39 at 62.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 33,
       "transponders": [
         {
@@ -41881,7 +41893,7 @@
       "online_degree": "58.5° E",
       "num_channels": "260811",
       "full_name": "KazSat 3 at 58.5°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 9,
       "transponders": [
         {
@@ -41987,7 +41999,7 @@
       "online_degree": "57.0° E",
       "num_channels": "260823",
       "full_name": "NSS 12 at 57.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 22,
       "transponders": [
         {
@@ -42426,7 +42438,7 @@
       "online_degree": "56.0° E",
       "num_channels": "260901",
       "full_name": "Express AT2 at 56.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 16,
       "transponders": [
         {
@@ -42617,7 +42629,7 @@
       "online_degree": "54.9° E",
       "num_channels": "260311",
       "full_name": "G-Sat 16 & Yamal 402 at 54.9°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 21,
       "transponders": [
         {
@@ -42863,7 +42875,7 @@
       "online_degree": "53.0° E",
       "num_channels": "260829",
       "full_name": "Express AM6 at 53.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 51,
       "transponders": [
         {
@@ -43477,7 +43489,7 @@
       "online_degree": "52.5° E",
       "num_channels": "260901",
       "full_name": "Al Yah 1 at 52.5°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 14,
       "transponders": [
         {
@@ -43831,7 +43843,7 @@
       "online_degree": "52.0° E",
       "num_channels": "260830",
       "full_name": "TurkmenÄlem/MonacoSat at 52.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 22,
       "transponders": [
         {
@@ -44288,7 +44300,7 @@
       "online_degree": "51.5° E",
       "num_channels": "260727",
       "full_name": "Belintersat 1 at 51.5°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 15,
       "transponders": [
         {
@@ -44550,7 +44562,7 @@
       "online_degree": "50.0° E",
       "num_channels": "260809",
       "full_name": "Türksat 4B at 50.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 2,
       "transponders": [
         {
@@ -44582,7 +44594,7 @@
       "online_degree": "49.0° E",
       "num_channels": "260809",
       "full_name": "Yamal 601 at 49.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 30,
       "transponders": [
         {
@@ -45026,7 +45038,7 @@
       "online_degree": "46.0° E",
       "num_channels": "260818",
       "full_name": "Azerspace 1 at 46.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 50,
       "transponders": [
         {
@@ -45634,9 +45646,9 @@
       "degree": "45.1° E",
       "postion": 451,
       "online_degree": "45.1° E",
-      "num_channels": "260830",
+      "num_channels": "260902",
       "full_name": "Azerspace 2/Intelsat 38 at 45.1°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 13,
       "transponders": [
         {
@@ -45678,6 +45690,7 @@
             "Jalwa",
             "K21 News",
             "Ocean News UK",
+            "NTN News",
             "Wilayat TV",
             "Al Zahra TV",
             "Muntazar TV",
@@ -45821,7 +45834,7 @@
       "online_degree": "45.0° E",
       "num_channels": "260806",
       "full_name": "Cosmos 2520 at 45.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 2,
       "transponders": [
         {
@@ -45853,7 +45866,7 @@
       "online_degree": "42.5° E",
       "num_channels": "260718",
       "full_name": "NigComSat 1R at 42.5°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 17,
       "transponders": [
         {
@@ -46160,7 +46173,7 @@
       "online_degree": "42.0° E",
       "num_channels": "260829",
       "full_name": "Türksat 3A/4A/5B/6A at 42.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 112,
       "transponders": [
         {
@@ -47649,7 +47662,7 @@
       "online_degree": "40.0° E",
       "num_channels": "260630",
       "full_name": "Express AM7 at 40.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 49,
       "transponders": [
         {
@@ -48358,7 +48371,7 @@
       "online_degree": "39.0° E",
       "num_channels": "260730",
       "full_name": "Hellas Sat 3/4 at 39.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 54,
       "transponders": [
         {
@@ -49013,7 +49026,7 @@
       "online_degree": "38.2° E",
       "num_channels": "260822",
       "full_name": "Paksat MM1 at 38.2°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 58,
       "transponders": [
         {
@@ -49749,7 +49762,7 @@
       "online_degree": "36.0° E",
       "num_channels": "260826",
       "full_name": "Eutelsat 36D & Express AMU1 at 36.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 119,
       "transponders": [
         {
@@ -51034,7 +51047,7 @@
       "online_degree": "33.0° E",
       "num_channels": "250928",
       "full_name": "Eutelsat 33F at 33.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 1,
       "transponders": [
         {
@@ -51056,7 +51069,7 @@
       "online_degree": "31.0° E",
       "num_channels": "260522",
       "full_name": "Türksat 5A at 31.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 10,
       "transponders": [
         {
@@ -51166,10 +51179,10 @@
       "degree": "30.5° E",
       "postion": 305,
       "online_degree": "30.5° E",
-      "num_channels": "260829",
+      "num_channels": "260902",
       "full_name": "Arabsat 5A/6A at 30.5°E - LyngSat",
-      "last_update": "2026-09-01",
-      "total_transponders": 96,
+      "last_update": "2026-09-02",
+      "total_transponders": 97,
       "transponders": [
         {
           "frequency": "10715",
@@ -51632,10 +51645,10 @@
           "channels": []
         },
         {
-          "frequency": "11262",
+          "frequency": "11265",
           "polarization": "H",
           "symbol_rate": "5/6",
-          "fec": "6000",
+          "fec": "3125",
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
@@ -51653,6 +51666,16 @@
         },
         {
           "frequency": "11277",
+          "polarization": "H",
+          "symbol_rate": "5/6",
+          "fec": "3125",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11284",
           "polarization": "H",
           "symbol_rate": "5/6",
           "fec": "3125",
@@ -51698,6 +51721,36 @@
           "fec": "3125",
           "system": "DVB-S2",
           "modulation": "QPSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11309",
+          "polarization": "H",
+          "symbol_rate": "5/6",
+          "fec": "3125",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11313",
+          "polarization": "H",
+          "symbol_rate": "5/6",
+          "fec": "3125",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11317",
+          "polarization": "H",
+          "symbol_rate": "5/6",
+          "fec": "3125",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
           "pls": "",
           "channels": []
         },
@@ -51835,6 +51888,16 @@
           "polarization": "V",
           "symbol_rate": "3/4",
           "fec": "4444",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11642",
+          "polarization": "H",
+          "symbol_rate": "5/6",
+          "fec": "7400",
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
@@ -52087,12 +52150,17 @@
         {
           "frequency": "12679",
           "polarization": "H",
-          "symbol_rate": "",
-          "fec": "",
-          "system": "",
-          "modulation": "",
+          "symbol_rate": "3/5",
+          "fec": "14400",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
           "pls": "",
-          "channels": []
+          "channels": [
+            "Oman TV",
+            "Oman TV Sport",
+            "Oman TV Mubashir",
+            "Oman TV Cultural"
+          ]
         },
         {
           "frequency": "12707",
@@ -52115,16 +52183,6 @@
           "channels": []
         },
         {
-          "frequency": "12726",
-          "polarization": "V",
-          "symbol_rate": "",
-          "fec": "",
-          "system": "",
-          "modulation": "",
-          "pls": "",
-          "channels": []
-        },
-        {
           "frequency": "12729",
           "polarization": "V",
           "symbol_rate": "3/4",
@@ -52135,36 +52193,6 @@
           "channels": [
             "NBN"
           ]
-        },
-        {
-          "frequency": "12732",
-          "polarization": "H",
-          "symbol_rate": "",
-          "fec": "",
-          "system": "",
-          "modulation": "",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12734",
-          "polarization": "H",
-          "symbol_rate": "5/6",
-          "fec": "2400",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12734",
-          "polarization": "V",
-          "symbol_rate": "",
-          "fec": "",
-          "system": "",
-          "modulation": "",
-          "pls": "",
-          "channels": []
         },
         {
           "frequency": "12738",
@@ -52183,9 +52211,9 @@
       "degree": "28.3° E",
       "postion": 283,
       "online_degree": "28.3° E",
-      "num_channels": "260827",
+      "num_channels": "260902",
       "full_name": "Astra 2E/2F/2G at 28.3°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 84,
       "transponders": [
         {
@@ -53508,7 +53536,7 @@
       "online_degree": "26.0° E",
       "num_channels": "260731",
       "full_name": "Badr 7/8 & Es'hail 2 at 26.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 79,
       "transponders": [
         {
@@ -54791,7 +54819,7 @@
       "online_degree": "25.5° E",
       "num_channels": "260829",
       "full_name": "Es'hail 1 at 25.5°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 28,
       "transponders": [
         {
@@ -55134,7 +55162,7 @@
       "online_degree": "23.5° E",
       "num_channels": "260818",
       "full_name": "Astra 3C at 23.5°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 27,
       "transponders": [
         {
@@ -55570,8 +55598,8 @@
       "online_degree": "21.5° E",
       "num_channels": "260830",
       "full_name": "Eutelsat 21B at 21.5°E - LyngSat",
-      "last_update": "2026-09-01",
-      "total_transponders": 94,
+      "last_update": "2026-09-02",
+      "total_transponders": 93,
       "transponders": [
         {
           "frequency": "10723",
@@ -55860,16 +55888,6 @@
           "fec": "2200",
           "system": "DVB-S2",
           "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11497",
-          "polarization": "V",
-          "symbol_rate": "3/4",
-          "fec": "1500",
-          "system": "DVB-S",
-          "modulation": "",
           "pls": "",
           "channels": []
         },
@@ -56590,7 +56608,7 @@
       "online_degree": "20.0° E",
       "num_channels": "260828",
       "full_name": "Arabsat 5C at 20.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 12,
       "transponders": [
         {
@@ -56750,7 +56768,7 @@
       "online_degree": "19.2° E",
       "num_channels": "260901",
       "full_name": "Astra 1N/1P at 19.2°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 111,
       "transponders": [
         {
@@ -58210,7 +58228,7 @@
       "online_degree": "17.0° E",
       "num_channels": "260823",
       "full_name": "Amos 17 at 17.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 20,
       "transponders": [
         {
@@ -58641,7 +58659,7 @@
       "online_degree": "16.0° E",
       "num_channels": "260901",
       "full_name": "Eutelsat 16A at 16.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 134,
       "transponders": [
         {
@@ -60250,7 +60268,7 @@
       "online_degree": "13.0° E",
       "num_channels": "260901",
       "full_name": "Hotbird 13F/13G at 13.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 130,
       "transponders": [
         {
@@ -61994,7 +62012,7 @@
       "online_degree": "10.0° E",
       "num_channels": "260829",
       "full_name": "Eutelsat 10B at 10.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 49,
       "transponders": [
         {
@@ -62598,942 +62616,13 @@
       ]
     },
     {
-      "satellite_name": "Eutelsat-9B-and-Ka-Sat-9A",
-      "degree": "9.0° E",
-      "postion": 90,
-      "online_degree": "9.0° E",
-      "num_channels": "260122",
-      "full_name": "Eutelsat 9B & Ka-Sat 9A at 9.0°E - LyngSat",
-      "last_update": "2026-09-01",
-      "total_transponders": 49,
-      "transponders": [
-        {
-          "frequency": "11727",
-          "polarization": "V",
-          "symbol_rate": "3/4",
-          "fec": "30000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "Israel+"
-          ]
-        },
-        {
-          "frequency": "11785",
-          "polarization": "H",
-          "symbol_rate": "2/3",
-          "fec": "27500",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "Comedy Central Deutschland"
-          ]
-        },
-        {
-          "frequency": "11823",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "27500",
-          "system": "DVB-S",
-          "modulation": "",
-          "pls": "",
-          "channels": [
-            "Sisal TV 1",
-            "Sisal TV 3",
-            "Sisal TV 4",
-            "Sisal TV 5",
-            "EuroNews Russkiy",
-            "GoldBet League",
-            "GoldBet Racing",
-            "AMC Ukraine"
-          ]
-        },
-        {
-          "frequency": "11843",
-          "polarization": "V",
-          "symbol_rate": "3/5",
-          "fec": "27500",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11861",
-          "polarization": "H",
-          "symbol_rate": "2/3",
-          "fec": "27500",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "BBC News Europe"
-          ]
-        },
-        {
-          "frequency": "11881",
-          "polarization": "V",
-          "symbol_rate": "3/4",
-          "fec": "30000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "Travel Channel Europe",
-            "HGTV Pan Regional",
-            "TLC Balkan",
-            "Discovery Channel Central Europe",
-            "Animal Planet Europe",
-            "Investigation Discovery Europe",
-            "TLC Pan Regional",
-            "Discovery Science Europe",
-            "Food Network EMEA",
-            "TLC Pan Regional"
-          ]
-        },
-        {
-          "frequency": "11900",
-          "polarization": "H",
-          "symbol_rate": "2/3",
-          "fec": "27500",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "Trace Sport Stars",
-            "Trace Urban",
-            "RTB TV",
-            "RTI 1",
-            "Télé Sahel",
-            "JimJam Middle East",
-            "JimJam Europe",
-            "Rai Italia Africa",
-            "Bénin TV",
-            "EBS",
-            "EBS+"
-          ]
-        },
-        {
-          "frequency": "11919",
-          "polarization": "V",
-          "symbol_rate": "3/4",
-          "fec": "30000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "Cartoon Network Central & Eastern Europe",
-            "Discovery Channel Hungary",
-            "Cartoonito Central & Eastern Europe",
-            "Warner TV Czech",
-            "Eurosport 1 France",
-            "Eurosport 2 France"
-          ]
-        },
-        {
-          "frequency": "11938",
-          "polarization": "H",
-          "symbol_rate": "2/3",
-          "fec": "27500",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "ERT Cosmos"
-          ]
-        },
-        {
-          "frequency": "11958",
-          "polarization": "V",
-          "symbol_rate": "2/3",
-          "fec": "27500",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "M1",
-            "M2",
-            "Duna TV",
-            "M4 Sport",
-            "Duna World",
-            "M4 Sport+",
-            "M5"
-          ]
-        },
-        {
-          "frequency": "11977",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "30000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "TVRI World"
-          ]
-        },
-        {
-          "frequency": "11996",
-          "polarization": "V",
-          "symbol_rate": "3/4",
-          "fec": "27500",
-          "system": "DVB-S",
-          "modulation": "",
-          "pls": "",
-          "channels": [
-            "CCTV 4 Europe",
-            "CGTN Español",
-            "CGTN Russkij",
-            "CGTN Arabic",
-            "CGTN Documentary"
-          ]
-        },
-        {
-          "frequency": "12015",
-          "polarization": "H",
-          "symbol_rate": "2/3",
-          "fec": "27500",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "Nickelodeon Deutschland",
-            "Comedy Central Deutschland +1"
-          ]
-        },
-        {
-          "frequency": "12034",
-          "polarization": "V",
-          "symbol_rate": "3/4",
-          "fec": "27500",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "M6 Suisse",
-            "6ter Suisse",
-            "W9 Suisse",
-            "Télé Congo",
-            "Phoenix InfoNews Channel",
-            "ORTM 1"
-          ]
-        },
-        {
-          "frequency": "12054",
-          "polarization": "H",
-          "symbol_rate": "2/3",
-          "fec": "27500",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "Vouli TV",
-            "4E"
-          ]
-        },
-        {
-          "frequency": "12092",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "27500",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "Diva Romania",
-            "Diva Balkans",
-            "E! Europe"
-          ]
-        },
-        {
-          "frequency": "12111",
-          "polarization": "V",
-          "symbol_rate": "2/3",
-          "fec": "31400",
-          "system": "DVB-S2",
-          "modulation": "16APSK",
-          "pls": "Gold 262140; Multistream:Stream 1",
-          "channels": [
-            "La 7",
-            "La 7 Cinema",
-            "Italia 121",
-            "Arte Italia 124",
-            "Arte Italia 125",
-            "Italia 126",
-            "Italia 127",
-            "Italia 135",
-            "Italia 134",
-            "Italia 136"
-          ]
-        },
-        {
-          "frequency": "12111",
-          "polarization": "V",
-          "symbol_rate": "2/3",
-          "fec": "31400",
-          "system": "DVB-S2",
-          "modulation": "16APSK",
-          "pls": "Gold 262140; Multistream:Stream 3",
-          "channels": [
-            "Cusano News 7",
-            "Sicilia 242",
-            "Bom Channel 68",
-            "Príma Free",
-            "Canale 122",
-            "Fascino TV 157",
-            "Canale 165",
-            "Tesory Channel",
-            "María+Visión Italia",
-            "Genius 240",
-            "Canale 168",
-            "Canale 169",
-            "Orler TV",
-            "Linea Gem",
-            "Deluxe 139",
-            "Arte Investimenti",
-            "Fascino TV 147",
-            "Equ TV",
-            "Padre Pio TV",
-            "AP Channel",
-            "Nexum TV",
-            "BeJoy Kids",
-            "Parole di Vita"
-          ]
-        },
-        {
-          "frequency": "12111",
-          "polarization": "V",
-          "symbol_rate": "2/3",
-          "fec": "31400",
-          "system": "DVB-S2",
-          "modulation": "16APSK",
-          "pls": "Gold 262140; Multistream:Stream 4",
-          "channels": [
-            "Boing Italia",
-            "Cartoonito Italia",
-            "Boing Plus",
-            "QVC Italia",
-            "Top Crime",
-            "Focus",
-            "Cine 34"
-          ]
-        },
-        {
-          "frequency": "12149",
-          "polarization": "V",
-          "symbol_rate": "2/3",
-          "fec": "31400",
-          "system": "DVB-S2",
-          "modulation": "16APSK",
-          "pls": "Gold 262140; Multistream:Stream 1",
-          "channels": [
-            "Rete 4",
-            "Canale 5",
-            "Italia 1",
-            "20 Mediaset",
-            "Mediaset Extra"
-          ]
-        },
-        {
-          "frequency": "12149",
-          "polarization": "V",
-          "symbol_rate": "2/3",
-          "fec": "31400",
-          "system": "DVB-S2",
-          "modulation": "16APSK",
-          "pls": "Gold 262140; Multistream:Stream 2",
-          "channels": [
-            "R101 TV",
-            "La 5",
-            "Iris",
-            "Italia 2",
-            "27 Twentyseven",
-            "TGCom 24",
-            "Radio 105 TV"
-          ]
-        },
-        {
-          "frequency": "12169",
-          "polarization": "H",
-          "symbol_rate": "2/3",
-          "fec": "27500",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "Cosmote TV Promo Channel"
-          ]
-        },
-        {
-          "frequency": "12207",
-          "polarization": "H",
-          "symbol_rate": "2/3",
-          "fec": "27500",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12226",
-          "polarization": "V",
-          "symbol_rate": "2/3",
-          "fec": "31400",
-          "system": "DVB-S2",
-          "modulation": "16APSK",
-          "pls": "Gold 262140; Multistream:Stream 14",
-          "channels": [
-            "Telecity Lombardia",
-            "Espansione TV",
-            "Bergamo TV",
-            "Rete 55",
-            "Teletutto",
-            "TeleSondrioNews",
-            "70-80.it",
-            "Super TV Brescia",
-            "Più Valli TV",
-            "Telecolor",
-            "Canale Italia 77",
-            "Seila TV",
-            "Radio Bruno TV",
-            "Valenza TV",
-            "BiriKina TV"
-          ]
-        },
-        {
-          "frequency": "12226",
-          "polarization": "V",
-          "symbol_rate": "2/3",
-          "fec": "31400",
-          "system": "DVB-S2",
-          "modulation": "16APSK",
-          "pls": "Gold 262140; Multistream:Stream 16",
-          "channels": []
-        },
-        {
-          "frequency": "12226",
-          "polarization": "V",
-          "symbol_rate": "2/3",
-          "fec": "31400",
-          "system": "DVB-S2",
-          "modulation": "16APSK",
-          "pls": "Gold 262140; Multistream:Stream 19",
-          "channels": [
-            "Canale Dieci",
-            "Gold TV Netweek",
-            "Teleuniverso",
-            "Lazio TV 13",
-            "Radio Roma News TV",
-            "Radio Roma TV",
-            "Teleroma 56",
-            "T9",
-            "Teleroma 56 Sport",
-            "TRL",
-            "Mana' Mana' Sport",
-            "Canale Italia",
-            "Roma Sport 100%",
-            "7 Gold",
-            "Radio Globo TV",
-            "Teleregione 74",
-            "Teleitalia 41"
-          ]
-        },
-        {
-          "frequency": "12226",
-          "polarization": "V",
-          "symbol_rate": "2/3",
-          "fec": "31400",
-          "system": "DVB-S2",
-          "modulation": "16APSK",
-          "pls": "Gold 262140; Multistream:Stream 20",
-          "channels": [
-            "RTV 38",
-            "Toscana TV",
-            "Noi TV",
-            "TV 9 Telemaremma",
-            "TVL",
-            "Granducato",
-            "Teletruria",
-            "TVR Teleitalia 7 Gold",
-            "50 Canale",
-            "Italia 7",
-            "Teleregione Toscana",
-            "TeleSanDomenico",
-            "Alert System 88",
-            "Canale 3 Toscana",
-            "Canale Italia",
-            "Radio Bruno TV"
-          ]
-        },
-        {
-          "frequency": "12226",
-          "polarization": "V",
-          "symbol_rate": "5/6",
-          "fec": "30000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "Pershiy",
-            "1+1 Ukraïna",
-            "1+1 Marafon",
-            "Suspilne Kultura",
-            "ICTV",
-            "Telekanal STB",
-            "Inter",
-            "UNIAN Serial",
-            "Bigudi",
-            "Super+"
-          ]
-        },
-        {
-          "frequency": "12226",
-          "polarization": "V",
-          "symbol_rate": "5/6",
-          "fec": "30000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "Novy Kanal",
-            "TET",
-            "2+2",
-            "NTN",
-            "Mega",
-            "Plus Plus",
-            "My-Ukraina+",
-            "Rozpakuy TV",
-            "ICTV 2",
-            "Oce"
-          ]
-        },
-        {
-          "frequency": "12245",
-          "polarization": "H",
-          "symbol_rate": "2/3",
-          "fec": "27500",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "Voxup"
-          ]
-        },
-        {
-          "frequency": "12284",
-          "polarization": "H",
-          "symbol_rate": "2/3",
-          "fec": "27500",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12303",
-          "polarization": "V",
-          "symbol_rate": "8/9",
-          "fec": "31400",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "Gold 262140; Multistream:Stream 15",
-          "channels": [
-            "Top Calcio 24",
-            "Videogruppo",
-            "Sesta Rete",
-            "Telecupole",
-            "Primantenna",
-            "Canale Italia",
-            "Canale Italia Piemonte",
-            "Telecity Piemonte",
-            "Valenza TV",
-            "ReteSette",
-            "GRP Vera TV",
-            "VCO Azzurra TV",
-            "Videonovara",
-            "Onda Novara TV",
-            "Motori TV"
-          ]
-        },
-        {
-          "frequency": "12303",
-          "polarization": "V",
-          "symbol_rate": "8/9",
-          "fec": "31400",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "Gold 262140; Multistream:Stream 21",
-          "channels": [
-            "Canale 21",
-            "Televomero",
-            "Tele A",
-            "Canale 9",
-            "Canale 8 Campania",
-            "Telecapri",
-            "Otto Channel Canale 16",
-            "Prima Tivvú",
-            "Lira TV",
-            "Irpinia TV 75",
-            "Kiss Kiss Napoli TV",
-            "Teleclubitalia"
-          ]
-        },
-        {
-          "frequency": "12303",
-          "polarization": "V",
-          "symbol_rate": "8/9",
-          "fec": "31400",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "Gold 262140; Multistream:Stream 22",
-          "channels": [
-            "StileTV",
-            "Canale Italia",
-            "Canale 58",
-            "TDS",
-            "Telecapri Sport",
-            "Videonola",
-            "105 TV",
-            "GT Channel",
-            "Telenostra",
-            "Radio Marte TV",
-            "Tele Dehon"
-          ]
-        },
-        {
-          "frequency": "12303",
-          "polarization": "V",
-          "symbol_rate": "5/6",
-          "fec": "30000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "K1",
-            "K2",
-            "Zoom",
-            "Rada",
-            "Rada",
-            "Enter Film",
-            "Piksel TV",
-            "Sonce",
-            "Tuso"
-          ]
-        },
-        {
-          "frequency": "12303",
-          "polarization": "V",
-          "symbol_rate": "5/6",
-          "fec": "30000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "Suspilne Kyïv",
-            "Rada",
-            "Rozpakuy TV",
-            "Konkurent Ukrayina",
-            "Tviy Serial",
-            "Armiya TV",
-            "Kyïv TV"
-          ]
-        },
-        {
-          "frequency": "12341",
-          "polarization": "V",
-          "symbol_rate": "2/3",
-          "fec": "31400",
-          "system": "DVB-S2",
-          "modulation": "16APSK",
-          "pls": "Gold 0; Multistream:Stream 33",
-          "channels": [
-            "Giallo",
-            "Food Network Italia",
-            "RTL 102.5 RadioVisione",
-            "Discovery Channel Italia",
-            "CS24 Live",
-            "TeleCampione",
-            "Donna TV",
-            "Real Time Italia",
-            "DMAX Italia",
-            "Radio Zeta Radiovisione",
-            "Radio Freccia TV"
-          ]
-        },
-        {
-          "frequency": "12341",
-          "polarization": "V",
-          "symbol_rate": "2/3",
-          "fec": "31400",
-          "system": "DVB-S2",
-          "modulation": "16APSK",
-          "pls": "Gold 0; Multistream:Stream 35",
-          "channels": [
-            "Super Tennis",
-            "Super!",
-            "Radio Italia TV",
-            "TV 8",
-            "Cielo",
-            "Sky TG 24 Canale 50",
-            "TV 2000",
-            "Kiss Kiss TV",
-            "Frisbee",
-            "K2",
-            "Radio 24 TV"
-          ]
-        },
-        {
-          "frequency": "12341",
-          "polarization": "V",
-          "symbol_rate": "2/3",
-          "fec": "31400",
-          "system": "DVB-S2",
-          "modulation": "16APSK",
-          "pls": "Gold 0; Multistream:Stream 36",
-          "channels": [
-            "Nove",
-            "Discovery Turbo Italia",
-            "HGTV Italia",
-            "Deejay TV",
-            "Casa Italia 53",
-            "IL61",
-            "Sportitalia HD",
-            "Alma TV",
-            "Gold TV Italia",
-            "La 4 Italia",
-            "Gold Invest",
-            "Rete Italia",
-            "TV 153",
-            "Canale 162",
-            "Gold Invest",
-            "StarMarket",
-            "Italia Channel 123",
-            "RDS Social TV"
-          ]
-        },
-        {
-          "frequency": "12380",
-          "polarization": "V",
-          "symbol_rate": "2/3",
-          "fec": "31400",
-          "system": "DVB-S2",
-          "modulation": "16APSK",
-          "pls": "Gold 262140; Multistream:Stream 18",
-          "channels": [
-            "Primocanale",
-            "Telenord",
-            "Teleradiopace 1",
-            "Telecity Liguria",
-            "Telegenova",
-            "Tele Liguria Sud",
-            "Primopiano",
-            "Telecolor",
-            "Canale Italia",
-            "Valenza TV",
-            "Primantenna",
-            "ReteSette",
-            "Teleradiopace 2",
-            "Luna TV"
-          ]
-        },
-        {
-          "frequency": "12380",
-          "polarization": "V",
-          "symbol_rate": "2/3",
-          "fec": "31400",
-          "system": "DVB-S2",
-          "modulation": "16APSK",
-          "pls": "Gold 262140; Multistream:Stream 24",
-          "channels": [
-            "Rete 8",
-            "Telemolise",
-            "Laq TV",
-            "TV Sei",
-            "Telemax",
-            "Info Media News",
-            "Super J",
-            "TeleRegione Canale 17",
-            "Diciotto",
-            "Canale Italia",
-            "Rete 8 Sport",
-            "TLT Canale 77",
-            "Vera TV Canale 79",
-            "TRSP",
-            "Radio Parsifal Radio Visione"
-          ]
-        },
-        {
-          "frequency": "12380",
-          "polarization": "V",
-          "symbol_rate": "2/3",
-          "fec": "31400",
-          "system": "DVB-S2",
-          "modulation": "16APSK",
-          "pls": "Gold 262140; Multistream:Stream 25",
-          "channels": [
-            "Video Calabria",
-            "La C TV",
-            "Ten TV",
-            "Calabria TV",
-            "RTI Canale 14",
-            "Esperia TV",
-            "Telespazio TV",
-            "La C OnAir",
-            "Tele A1",
-            "Canale Italia",
-            "L'altro Corriere TV",
-            "Tele Mia",
-            "Reggio TV",
-            "RTC Telecalabria",
-            "Telemormanno",
-            "Jonica Radio TV",
-            "Eccellenza Calabria",
-            "Tele Dehon",
-            "Video Touring",
-            "GS Channel",
-            "Digital TV"
-          ]
-        },
-        {
-          "frequency": "12399",
-          "polarization": "H",
-          "symbol_rate": "2/3",
-          "fec": "27500",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12466",
-          "polarization": "V",
-          "symbol_rate": "2/3",
-          "fec": "41950",
-          "system": "DVB-S2",
-          "modulation": "16APSK",
-          "pls": "Gold 262140; Multistream:Stream 12",
-          "channels": [
-            "ReteSette",
-            "Canale Italia",
-            "Telecity Valle d'Aosta",
-            "France 24 Français",
-            "RTS 1",
-            "TV5Monde Europe"
-          ]
-        },
-        {
-          "frequency": "12466",
-          "polarization": "V",
-          "symbol_rate": "2/3",
-          "fec": "41950",
-          "system": "DVB-S2",
-          "modulation": "16APSK",
-          "pls": "Gold 262140; Multistream:Stream 13",
-          "channels": [
-            "Trentino TV",
-            "RTTR",
-            "Telepace Trento",
-            "7 Gold Telepadova",
-            "Telenuovo",
-            "A3",
-            "Tele Chiara",
-            "TV 33",
-            "TV 7 Triveneta",
-            "Canale Italia",
-            "ORF 1 Südtirol",
-            "ORF Sport +"
-          ]
-        },
-        {
-          "frequency": "12466",
-          "polarization": "V",
-          "symbol_rate": "2/3",
-          "fec": "41950",
-          "system": "DVB-S2",
-          "modulation": "16APSK",
-          "pls": "Gold 262140; Multistream:Stream 17",
-          "channels": [
-            "TRC Modena",
-            "TRC Bologna",
-            "TeleReggio",
-            "12 TV Parma",
-            "TV Qui",
-            "Teleromagna",
-            "TR 24",
-            "Telestense",
-            "Teletricolore",
-            "7 Gold",
-            "Radio Bruno TV",
-            "Canale Italia",
-            "Icaro TV",
-            "VideoRegione",
-            "ÈTV Rete 7"
-          ]
-        },
-        {
-          "frequency": "12466",
-          "polarization": "V",
-          "symbol_rate": "2/3",
-          "fec": "41950",
-          "system": "DVB-S2",
-          "modulation": "16APSK",
-          "pls": "Gold 262140; Multistream:Stream 23",
-          "channels": [
-            "TV Centro Marche",
-            "Vera TV",
-            "ÈTV Marche",
-            "TVRS",
-            "Canale Italia",
-            "7 Gold Marche",
-            "Fano TV 19",
-            "Info 2000",
-            "Rossini TV",
-            "RTM",
-            "ÈTV +"
-          ]
-        },
-        {
-          "frequency": "12475",
-          "polarization": "H",
-          "symbol_rate": "2/3",
-          "fec": "27500",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "20192",
-          "polarization": "L",
-          "symbol_rate": "5/6",
-          "fec": "12500",
-          "system": "DVB-S2",
-          "modulation": "QPSK",
-          "pls": "",
-          "channels": [
-            "RTÉ One",
-            "RTÉ 2",
-            "RTÉ News",
-            "TG 4",
-            "RTÉ Kids Jr",
-            "Cúla 4",
-            "Oireachtas TV",
-            "RTÉ One +1",
-            "RTÉ 2 +1"
-          ]
-        }
-      ]
-    },
-    {
       "satellite_name": "Eutelsat-7B",
-      "degree": "7.0° E",
-      "postion": 70,
-      "online_degree": "7.0° E",
+      "degree": "9.5° E",
+      "postion": 95,
+      "online_degree": "9.5° E",
       "num_channels": "260831",
-      "full_name": "Eutelsat 7B at 7.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "full_name": "Eutelsat 7B at 9.5°E - LyngSat",
+      "last_update": "2026-09-02",
       "total_transponders": 96,
       "transponders": [
         {
@@ -64499,13 +63588,942 @@
       ]
     },
     {
+      "satellite_name": "Eutelsat-9B-and-Ka-Sat-9A",
+      "degree": "9.0° E",
+      "postion": 90,
+      "online_degree": "9.0° E",
+      "num_channels": "260122",
+      "full_name": "Eutelsat 9B & Ka-Sat 9A at 9.0°E - LyngSat",
+      "last_update": "2026-09-02",
+      "total_transponders": 49,
+      "transponders": [
+        {
+          "frequency": "11727",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Israel+"
+          ]
+        },
+        {
+          "frequency": "11785",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "27500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Comedy Central Deutschland"
+          ]
+        },
+        {
+          "frequency": "11823",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "27500",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": [
+            "Sisal TV 1",
+            "Sisal TV 3",
+            "Sisal TV 4",
+            "Sisal TV 5",
+            "EuroNews Russkiy",
+            "GoldBet League",
+            "GoldBet Racing",
+            "AMC Ukraine"
+          ]
+        },
+        {
+          "frequency": "11843",
+          "polarization": "V",
+          "symbol_rate": "3/5",
+          "fec": "27500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "11861",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "27500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "BBC News Europe"
+          ]
+        },
+        {
+          "frequency": "11881",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Travel Channel Europe",
+            "HGTV Pan Regional",
+            "TLC Balkan",
+            "Discovery Channel Central Europe",
+            "Animal Planet Europe",
+            "Investigation Discovery Europe",
+            "TLC Pan Regional",
+            "Discovery Science Europe",
+            "Food Network EMEA",
+            "TLC Pan Regional"
+          ]
+        },
+        {
+          "frequency": "11900",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "27500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Trace Sport Stars",
+            "Trace Urban",
+            "RTB TV",
+            "RTI 1",
+            "Télé Sahel",
+            "JimJam Middle East",
+            "JimJam Europe",
+            "Rai Italia Africa",
+            "Bénin TV",
+            "EBS",
+            "EBS+"
+          ]
+        },
+        {
+          "frequency": "11919",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Cartoon Network Central & Eastern Europe",
+            "Discovery Channel Hungary",
+            "Cartoonito Central & Eastern Europe",
+            "Warner TV Czech",
+            "Eurosport 1 France",
+            "Eurosport 2 France"
+          ]
+        },
+        {
+          "frequency": "11938",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "27500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "ERT Cosmos"
+          ]
+        },
+        {
+          "frequency": "11958",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "27500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "M1",
+            "M2",
+            "Duna TV",
+            "M4 Sport",
+            "Duna World",
+            "M4 Sport+",
+            "M5"
+          ]
+        },
+        {
+          "frequency": "11977",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "TVRI World"
+          ]
+        },
+        {
+          "frequency": "11996",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "27500",
+          "system": "DVB-S",
+          "modulation": "",
+          "pls": "",
+          "channels": [
+            "CCTV 4 Europe",
+            "CGTN Español",
+            "CGTN Russkij",
+            "CGTN Arabic",
+            "CGTN Documentary"
+          ]
+        },
+        {
+          "frequency": "12015",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "27500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Nickelodeon Deutschland",
+            "Comedy Central Deutschland +1"
+          ]
+        },
+        {
+          "frequency": "12034",
+          "polarization": "V",
+          "symbol_rate": "3/4",
+          "fec": "27500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "M6 Suisse",
+            "6ter Suisse",
+            "W9 Suisse",
+            "Télé Congo",
+            "Phoenix InfoNews Channel",
+            "ORTM 1"
+          ]
+        },
+        {
+          "frequency": "12054",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "27500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Vouli TV",
+            "4E"
+          ]
+        },
+        {
+          "frequency": "12092",
+          "polarization": "H",
+          "symbol_rate": "3/4",
+          "fec": "27500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Diva Romania",
+            "Diva Balkans",
+            "E! Europe"
+          ]
+        },
+        {
+          "frequency": "12111",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "31400",
+          "system": "DVB-S2",
+          "modulation": "16APSK",
+          "pls": "Gold 262140; Multistream:Stream 1",
+          "channels": [
+            "La 7",
+            "La 7 Cinema",
+            "Italia 121",
+            "Arte Italia 124",
+            "Arte Italia 125",
+            "Italia 126",
+            "Italia 127",
+            "Italia 135",
+            "Italia 134",
+            "Italia 136"
+          ]
+        },
+        {
+          "frequency": "12111",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "31400",
+          "system": "DVB-S2",
+          "modulation": "16APSK",
+          "pls": "Gold 262140; Multistream:Stream 3",
+          "channels": [
+            "Cusano News 7",
+            "Sicilia 242",
+            "Bom Channel 68",
+            "Príma Free",
+            "Canale 122",
+            "Fascino TV 157",
+            "Canale 165",
+            "Tesory Channel",
+            "María+Visión Italia",
+            "Genius 240",
+            "Canale 168",
+            "Canale 169",
+            "Orler TV",
+            "Linea Gem",
+            "Deluxe 139",
+            "Arte Investimenti",
+            "Fascino TV 147",
+            "Equ TV",
+            "Padre Pio TV",
+            "AP Channel",
+            "Nexum TV",
+            "BeJoy Kids",
+            "Parole di Vita"
+          ]
+        },
+        {
+          "frequency": "12111",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "31400",
+          "system": "DVB-S2",
+          "modulation": "16APSK",
+          "pls": "Gold 262140; Multistream:Stream 4",
+          "channels": [
+            "Boing Italia",
+            "Cartoonito Italia",
+            "Boing Plus",
+            "QVC Italia",
+            "Top Crime",
+            "Focus",
+            "Cine 34"
+          ]
+        },
+        {
+          "frequency": "12149",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "31400",
+          "system": "DVB-S2",
+          "modulation": "16APSK",
+          "pls": "Gold 262140; Multistream:Stream 1",
+          "channels": [
+            "Rete 4",
+            "Canale 5",
+            "Italia 1",
+            "20 Mediaset",
+            "Mediaset Extra"
+          ]
+        },
+        {
+          "frequency": "12149",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "31400",
+          "system": "DVB-S2",
+          "modulation": "16APSK",
+          "pls": "Gold 262140; Multistream:Stream 2",
+          "channels": [
+            "R101 TV",
+            "La 5",
+            "Iris",
+            "Italia 2",
+            "27 Twentyseven",
+            "TGCom 24",
+            "Radio 105 TV"
+          ]
+        },
+        {
+          "frequency": "12169",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "27500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Cosmote TV Promo Channel"
+          ]
+        },
+        {
+          "frequency": "12207",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "27500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12226",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "31400",
+          "system": "DVB-S2",
+          "modulation": "16APSK",
+          "pls": "Gold 262140; Multistream:Stream 14",
+          "channels": [
+            "Telecity Lombardia",
+            "Espansione TV",
+            "Bergamo TV",
+            "Rete 55",
+            "Teletutto",
+            "TeleSondrioNews",
+            "70-80.it",
+            "Super TV Brescia",
+            "Più Valli TV",
+            "Telecolor",
+            "Canale Italia 77",
+            "Seila TV",
+            "Radio Bruno TV",
+            "Valenza TV",
+            "BiriKina TV"
+          ]
+        },
+        {
+          "frequency": "12226",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "31400",
+          "system": "DVB-S2",
+          "modulation": "16APSK",
+          "pls": "Gold 262140; Multistream:Stream 16",
+          "channels": []
+        },
+        {
+          "frequency": "12226",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "31400",
+          "system": "DVB-S2",
+          "modulation": "16APSK",
+          "pls": "Gold 262140; Multistream:Stream 19",
+          "channels": [
+            "Canale Dieci",
+            "Gold TV Netweek",
+            "Teleuniverso",
+            "Lazio TV 13",
+            "Radio Roma News TV",
+            "Radio Roma TV",
+            "Teleroma 56",
+            "T9",
+            "Teleroma 56 Sport",
+            "TRL",
+            "Mana' Mana' Sport",
+            "Canale Italia",
+            "Roma Sport 100%",
+            "7 Gold",
+            "Radio Globo TV",
+            "Teleregione 74",
+            "Teleitalia 41"
+          ]
+        },
+        {
+          "frequency": "12226",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "31400",
+          "system": "DVB-S2",
+          "modulation": "16APSK",
+          "pls": "Gold 262140; Multistream:Stream 20",
+          "channels": [
+            "RTV 38",
+            "Toscana TV",
+            "Noi TV",
+            "TV 9 Telemaremma",
+            "TVL",
+            "Granducato",
+            "Teletruria",
+            "TVR Teleitalia 7 Gold",
+            "50 Canale",
+            "Italia 7",
+            "Teleregione Toscana",
+            "TeleSanDomenico",
+            "Alert System 88",
+            "Canale 3 Toscana",
+            "Canale Italia",
+            "Radio Bruno TV"
+          ]
+        },
+        {
+          "frequency": "12226",
+          "polarization": "V",
+          "symbol_rate": "5/6",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Pershiy",
+            "1+1 Ukraïna",
+            "1+1 Marafon",
+            "Suspilne Kultura",
+            "ICTV",
+            "Telekanal STB",
+            "Inter",
+            "UNIAN Serial",
+            "Bigudi",
+            "Super+"
+          ]
+        },
+        {
+          "frequency": "12226",
+          "polarization": "V",
+          "symbol_rate": "5/6",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Novy Kanal",
+            "TET",
+            "2+2",
+            "NTN",
+            "Mega",
+            "Plus Plus",
+            "My-Ukraina+",
+            "Rozpakuy TV",
+            "ICTV 2",
+            "Oce"
+          ]
+        },
+        {
+          "frequency": "12245",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "27500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Voxup"
+          ]
+        },
+        {
+          "frequency": "12284",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "27500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12303",
+          "polarization": "V",
+          "symbol_rate": "8/9",
+          "fec": "31400",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "Gold 262140; Multistream:Stream 15",
+          "channels": [
+            "Top Calcio 24",
+            "Videogruppo",
+            "Sesta Rete",
+            "Telecupole",
+            "Primantenna",
+            "Canale Italia",
+            "Canale Italia Piemonte",
+            "Telecity Piemonte",
+            "Valenza TV",
+            "ReteSette",
+            "GRP Vera TV",
+            "VCO Azzurra TV",
+            "Videonovara",
+            "Onda Novara TV",
+            "Motori TV"
+          ]
+        },
+        {
+          "frequency": "12303",
+          "polarization": "V",
+          "symbol_rate": "8/9",
+          "fec": "31400",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "Gold 262140; Multistream:Stream 21",
+          "channels": [
+            "Canale 21",
+            "Televomero",
+            "Tele A",
+            "Canale 9",
+            "Canale 8 Campania",
+            "Telecapri",
+            "Otto Channel Canale 16",
+            "Prima Tivvú",
+            "Lira TV",
+            "Irpinia TV 75",
+            "Kiss Kiss Napoli TV",
+            "Teleclubitalia"
+          ]
+        },
+        {
+          "frequency": "12303",
+          "polarization": "V",
+          "symbol_rate": "8/9",
+          "fec": "31400",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "Gold 262140; Multistream:Stream 22",
+          "channels": [
+            "StileTV",
+            "Canale Italia",
+            "Canale 58",
+            "TDS",
+            "Telecapri Sport",
+            "Videonola",
+            "105 TV",
+            "GT Channel",
+            "Telenostra",
+            "Radio Marte TV",
+            "Tele Dehon"
+          ]
+        },
+        {
+          "frequency": "12303",
+          "polarization": "V",
+          "symbol_rate": "5/6",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "K1",
+            "K2",
+            "Zoom",
+            "Rada",
+            "Rada",
+            "Enter Film",
+            "Piksel TV",
+            "Sonce",
+            "Tuso"
+          ]
+        },
+        {
+          "frequency": "12303",
+          "polarization": "V",
+          "symbol_rate": "5/6",
+          "fec": "30000",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": [
+            "Suspilne Kyïv",
+            "Rada",
+            "Rozpakuy TV",
+            "Konkurent Ukrayina",
+            "Tviy Serial",
+            "Armiya TV",
+            "Kyïv TV"
+          ]
+        },
+        {
+          "frequency": "12341",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "31400",
+          "system": "DVB-S2",
+          "modulation": "16APSK",
+          "pls": "Gold 0; Multistream:Stream 33",
+          "channels": [
+            "Giallo",
+            "Food Network Italia",
+            "RTL 102.5 RadioVisione",
+            "Discovery Channel Italia",
+            "CS24 Live",
+            "TeleCampione",
+            "Donna TV",
+            "Real Time Italia",
+            "DMAX Italia",
+            "Radio Zeta Radiovisione",
+            "Radio Freccia TV"
+          ]
+        },
+        {
+          "frequency": "12341",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "31400",
+          "system": "DVB-S2",
+          "modulation": "16APSK",
+          "pls": "Gold 0; Multistream:Stream 35",
+          "channels": [
+            "Super Tennis",
+            "Super!",
+            "Radio Italia TV",
+            "TV 8",
+            "Cielo",
+            "Sky TG 24 Canale 50",
+            "TV 2000",
+            "Kiss Kiss TV",
+            "Frisbee",
+            "K2",
+            "Radio 24 TV"
+          ]
+        },
+        {
+          "frequency": "12341",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "31400",
+          "system": "DVB-S2",
+          "modulation": "16APSK",
+          "pls": "Gold 0; Multistream:Stream 36",
+          "channels": [
+            "Nove",
+            "Discovery Turbo Italia",
+            "HGTV Italia",
+            "Deejay TV",
+            "Casa Italia 53",
+            "IL61",
+            "Sportitalia HD",
+            "Alma TV",
+            "Gold TV Italia",
+            "La 4 Italia",
+            "Gold Invest",
+            "Rete Italia",
+            "TV 153",
+            "Canale 162",
+            "Gold Invest",
+            "StarMarket",
+            "Italia Channel 123",
+            "RDS Social TV"
+          ]
+        },
+        {
+          "frequency": "12380",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "31400",
+          "system": "DVB-S2",
+          "modulation": "16APSK",
+          "pls": "Gold 262140; Multistream:Stream 18",
+          "channels": [
+            "Primocanale",
+            "Telenord",
+            "Teleradiopace 1",
+            "Telecity Liguria",
+            "Telegenova",
+            "Tele Liguria Sud",
+            "Primopiano",
+            "Telecolor",
+            "Canale Italia",
+            "Valenza TV",
+            "Primantenna",
+            "ReteSette",
+            "Teleradiopace 2",
+            "Luna TV"
+          ]
+        },
+        {
+          "frequency": "12380",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "31400",
+          "system": "DVB-S2",
+          "modulation": "16APSK",
+          "pls": "Gold 262140; Multistream:Stream 24",
+          "channels": [
+            "Rete 8",
+            "Telemolise",
+            "Laq TV",
+            "TV Sei",
+            "Telemax",
+            "Info Media News",
+            "Super J",
+            "TeleRegione Canale 17",
+            "Diciotto",
+            "Canale Italia",
+            "Rete 8 Sport",
+            "TLT Canale 77",
+            "Vera TV Canale 79",
+            "TRSP",
+            "Radio Parsifal Radio Visione"
+          ]
+        },
+        {
+          "frequency": "12380",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "31400",
+          "system": "DVB-S2",
+          "modulation": "16APSK",
+          "pls": "Gold 262140; Multistream:Stream 25",
+          "channels": [
+            "Video Calabria",
+            "La C TV",
+            "Ten TV",
+            "Calabria TV",
+            "RTI Canale 14",
+            "Esperia TV",
+            "Telespazio TV",
+            "La C OnAir",
+            "Tele A1",
+            "Canale Italia",
+            "L'altro Corriere TV",
+            "Tele Mia",
+            "Reggio TV",
+            "RTC Telecalabria",
+            "Telemormanno",
+            "Jonica Radio TV",
+            "Eccellenza Calabria",
+            "Tele Dehon",
+            "Video Touring",
+            "GS Channel",
+            "Digital TV"
+          ]
+        },
+        {
+          "frequency": "12399",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "27500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "12466",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "41950",
+          "system": "DVB-S2",
+          "modulation": "16APSK",
+          "pls": "Gold 262140; Multistream:Stream 12",
+          "channels": [
+            "ReteSette",
+            "Canale Italia",
+            "Telecity Valle d'Aosta",
+            "France 24 Français",
+            "RTS 1",
+            "TV5Monde Europe"
+          ]
+        },
+        {
+          "frequency": "12466",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "41950",
+          "system": "DVB-S2",
+          "modulation": "16APSK",
+          "pls": "Gold 262140; Multistream:Stream 13",
+          "channels": [
+            "Trentino TV",
+            "RTTR",
+            "Telepace Trento",
+            "7 Gold Telepadova",
+            "Telenuovo",
+            "A3",
+            "Tele Chiara",
+            "TV 33",
+            "TV 7 Triveneta",
+            "Canale Italia",
+            "ORF 1 Südtirol",
+            "ORF Sport +"
+          ]
+        },
+        {
+          "frequency": "12466",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "41950",
+          "system": "DVB-S2",
+          "modulation": "16APSK",
+          "pls": "Gold 262140; Multistream:Stream 17",
+          "channels": [
+            "TRC Modena",
+            "TRC Bologna",
+            "TeleReggio",
+            "12 TV Parma",
+            "TV Qui",
+            "Teleromagna",
+            "TR 24",
+            "Telestense",
+            "Teletricolore",
+            "7 Gold",
+            "Radio Bruno TV",
+            "Canale Italia",
+            "Icaro TV",
+            "VideoRegione",
+            "ÈTV Rete 7"
+          ]
+        },
+        {
+          "frequency": "12466",
+          "polarization": "V",
+          "symbol_rate": "2/3",
+          "fec": "41950",
+          "system": "DVB-S2",
+          "modulation": "16APSK",
+          "pls": "Gold 262140; Multistream:Stream 23",
+          "channels": [
+            "TV Centro Marche",
+            "Vera TV",
+            "ÈTV Marche",
+            "TVRS",
+            "Canale Italia",
+            "7 Gold Marche",
+            "Fano TV 19",
+            "Info 2000",
+            "Rossini TV",
+            "RTM",
+            "ÈTV +"
+          ]
+        },
+        {
+          "frequency": "12475",
+          "polarization": "H",
+          "symbol_rate": "2/3",
+          "fec": "27500",
+          "system": "DVB-S2",
+          "modulation": "8PSK",
+          "pls": "",
+          "channels": []
+        },
+        {
+          "frequency": "20192",
+          "polarization": "L",
+          "symbol_rate": "5/6",
+          "fec": "12500",
+          "system": "DVB-S2",
+          "modulation": "QPSK",
+          "pls": "",
+          "channels": [
+            "RTÉ One",
+            "RTÉ 2",
+            "RTÉ News",
+            "TG 4",
+            "RTÉ Kids Jr",
+            "Cúla 4",
+            "Oireachtas TV",
+            "RTÉ One +1",
+            "RTÉ 2 +1"
+          ]
+        }
+      ]
+    },
+    {
       "satellite_name": "Eutelsat-7C",
       "degree": "7.0° E",
       "postion": 70,
       "online_degree": "7.0° E",
       "num_channels": "260830",
       "full_name": "Eutelsat 7C at 7.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 71,
       "transponders": [
         {
@@ -65382,7 +65400,7 @@
       "online_degree": "4.9° E",
       "num_channels": "260816",
       "full_name": "Astra 4A & SES 5 at 4.9°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 51,
       "transponders": [
         {
@@ -66053,7 +66071,7 @@
       "online_degree": "3.0° E",
       "num_channels": "260805",
       "full_name": "Eutelsat 3B & Rascom QAF 1R at 3.0°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 76,
       "transponders": [
         {
@@ -67022,7 +67040,7 @@
       "online_degree": "1.9° E",
       "num_channels": "260718",
       "full_name": "BulgariaSat 1 at 1.9°E - LyngSat",
-      "last_update": "2026-09-01",
+      "last_update": "2026-09-02",
       "total_transponders": 14,
       "transponders": [
         {

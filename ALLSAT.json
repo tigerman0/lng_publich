@@ -33,7 +33,7 @@
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
     "postion": -80,
-    "num_channels": "260901"
+    "num_channels": "260902"
   },
   {
     "satellite_name": "Express-AM8",
@@ -573,7 +573,7 @@
     "satellite_name": "Koreasat-5A",
     "degree": "113.0° E",
     "postion": 1130,
-    "num_channels": "260828"
+    "num_channels": "260902"
   },
   {
     "satellite_name": "BSAT-3C-JCSAT-110R-and-JCSAT-110A-and-BSAT-4A",
@@ -585,13 +585,13 @@
     "satellite_name": "SES-7-9-and-Merah-Putih",
     "degree": "108.1° E",
     "postion": 1081,
-    "num_channels": "260829"
+    "num_channels": "260902"
   },
   {
     "satellite_name": "AsiaSat-7",
     "degree": "105.5° E",
     "postion": 1055,
-    "num_channels": "260831"
+    "num_channels": "260902"
   },
   {
     "satellite_name": "Express-AMU3",
@@ -645,7 +645,7 @@
     "satellite_name": "ChinaSat-9C",
     "degree": "92.2° E",
     "postion": 922,
-    "num_channels": "260814"
+    "num_channels": "260902"
   },
   {
     "satellite_name": "Measat-3b-3d",
@@ -687,7 +687,7 @@
     "satellite_name": "Express-80",
     "degree": "80.0° E",
     "postion": 800,
-    "num_channels": "260819"
+    "num_channels": "260902"
   },
   {
     "satellite_name": "Thaicom-6-8",
@@ -825,7 +825,7 @@
     "satellite_name": "Azerspace-2-Intelsat-38",
     "degree": "45.1° E",
     "postion": 451,
-    "num_channels": "260830"
+    "num_channels": "260902"
   },
   {
     "satellite_name": "Cosmos-2520",
@@ -885,13 +885,13 @@
     "satellite_name": "Arabsat-5A-6A",
     "degree": "30.5° E",
     "postion": 305,
-    "num_channels": "260829"
+    "num_channels": "260902"
   },
   {
     "satellite_name": "Astra-2E-2F-2G",
     "degree": "28.3° E",
     "postion": 283,
-    "num_channels": "260827"
+    "num_channels": "260902"
   },
   {
     "satellite_name": "Badr-7-8-and-Eshail-2",
@@ -954,16 +954,16 @@
     "num_channels": "260829"
   },
   {
+    "satellite_name": "Eutelsat-7B",
+    "degree": "9.5° E",
+    "postion": 95,
+    "num_channels": "260831"
+  },
+  {
     "satellite_name": "Eutelsat-9B-and-Ka-Sat-9A",
     "degree": "9.0° E",
     "postion": 90,
     "num_channels": "260122"
-  },
-  {
-    "satellite_name": "Eutelsat-7B",
-    "degree": "7.0° E",
-    "postion": 70,
-    "num_channels": "260831"
   },
   {
     "satellite_name": "Eutelsat-7C",
