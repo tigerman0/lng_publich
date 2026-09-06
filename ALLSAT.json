@@ -537,7 +537,7 @@
     "satellite_name": "AsiaSat-9",
     "degree": "122.0° E",
     "postion": 1220,
-    "num_channels": "260827"
+    "num_channels": "260904"
   },
   {
     "satellite_name": "AsiaSat-6-Thaicom-7",
@@ -591,7 +591,7 @@
     "satellite_name": "AsiaSat-7",
     "degree": "105.5° E",
     "postion": 1055,
-    "num_channels": "260902"
+    "num_channels": "260904"
   },
   {
     "satellite_name": "Express-AMU3",
@@ -645,7 +645,7 @@
     "satellite_name": "ChinaSat-9C",
     "degree": "92.2° E",
     "postion": 922,
-    "num_channels": "260902"
+    "num_channels": "260904"
   },
   {
     "satellite_name": "Measat-3b-3d",
@@ -705,13 +705,13 @@
     "satellite_name": "Apstar-7",
     "degree": "76.5° E",
     "postion": 765,
-    "num_channels": "260903"
+    "num_channels": "260904"
   },
   {
     "satellite_name": "ABS-2-2A",
     "degree": "75.0° E",
     "postion": 750,
-    "num_channels": "260822"
+    "num_channels": "260904"
   },
   {
     "satellite_name": "G-Sat-18",
@@ -783,7 +783,7 @@
     "satellite_name": "Express-AM6",
     "degree": "53.0° E",
     "postion": 530,
-    "num_channels": "260903"
+    "num_channels": "260904"
   },
   {
     "satellite_name": "Al-Yah-1",
@@ -795,7 +795,7 @@
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
     "postion": 520,
-    "num_channels": "260903"
+    "num_channels": "260904"
   },
   {
     "satellite_name": "Belintersat-1",
@@ -915,7 +915,7 @@
     "satellite_name": "Eutelsat-21B",
     "degree": "21.5° E",
     "postion": 215,
-    "num_channels": "260830"
+    "num_channels": "260904"
   },
   {
     "satellite_name": "Arabsat-5C",
@@ -945,12 +945,12 @@
     "satellite_name": "Hotbird-13F-13G",
     "degree": "13.0° E",
     "postion": 130,
-    "num_channels": "260901"
+    "num_channels": "260904"
   },
   {
     "satellite_name": "Eutelsat-7B",
-    "degree": "10.5° E",
-    "postion": 105,
+    "degree": "11.0° E",
+    "postion": 110,
     "num_channels": "260831"
   },
   {
@@ -981,7 +981,7 @@
     "satellite_name": "Eutelsat-3B-and-Rascom-QAF-1R",
     "degree": "3.0° E",
     "postion": 30,
-    "num_channels": "260805"
+    "num_channels": "260904"
   },
   {
     "satellite_name": "BulgariaSat-1",
