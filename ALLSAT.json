@@ -783,7 +783,7 @@
     "satellite_name": "Al-Yah-1",
     "degree": "52.5° E",
     "postion": 525,
-    "num_channels": "260901"
+    "num_channels": "260913"
   },
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
@@ -837,7 +837,7 @@
     "satellite_name": "Turksat-3A-4A-5B-6A",
     "degree": "42.0° E",
     "postion": 420,
-    "num_channels": "260912"
+    "num_channels": "260913"
   },
   {
     "satellite_name": "Express-AM7",
@@ -909,7 +909,7 @@
     "satellite_name": "Eutelsat-21B",
     "degree": "21.5° E",
     "postion": 215,
-    "num_channels": "260910"
+    "num_channels": "260913"
   },
   {
     "satellite_name": "Arabsat-5C",
@@ -934,12 +934,6 @@
     "degree": "16.0° E",
     "postion": 160,
     "num_channels": "260912"
-  },
-  {
-    "satellite_name": "Eutelsat-7B",
-    "degree": "15.5° E",
-    "postion": 155,
-    "num_channels": "260831"
   },
   {
     "satellite_name": "Hotbird-13F-13G",
