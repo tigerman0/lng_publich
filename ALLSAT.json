@@ -27,13 +27,13 @@
     "satellite_name": "Nilesat-201-301-and-Eutelsat-7-West-A",
     "degree": "7.0° W",
     "postion": -70,
-    "num_channels": "260819"
+    "num_channels": "260914"
   },
   {
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
     "postion": -80,
-    "num_channels": "260911"
+    "num_channels": "260914"
   },
   {
     "satellite_name": "Express-AM8",
@@ -237,7 +237,7 @@
     "satellite_name": "Galaxy-36",
     "degree": "89.0° W",
     "postion": -890,
-    "num_channels": "260912"
+    "num_channels": "260914"
   },
   {
     "satellite_name": "Galaxy-32-and-Nimiq-6",
@@ -321,7 +321,7 @@
     "satellite_name": "Eutelsat-117-West-A-B",
     "degree": "116.9° W",
     "postion": -1169,
-    "num_channels": "260909"
+    "num_channels": "260914"
   },
   {
     "satellite_name": "Anik-F3-and-T8-and-EchoStar-14",
@@ -429,7 +429,7 @@
     "satellite_name": "Optus-10",
     "degree": "156.0° E",
     "postion": 1560,
-    "num_channels": "260911"
+    "num_channels": "260914"
   },
   {
     "satellite_name": "JCSAT-2B",
@@ -699,7 +699,7 @@
     "satellite_name": "Apstar-7",
     "degree": "76.5° E",
     "postion": 765,
-    "num_channels": "260912"
+    "num_channels": "260914"
   },
   {
     "satellite_name": "ABS-2-2A",
@@ -723,7 +723,7 @@
     "satellite_name": "Eutelsat-70B",
     "degree": "70.5° E",
     "postion": 705,
-    "num_channels": "260829"
+    "num_channels": "260914"
   },
   {
     "satellite_name": "Intelsat-20-36",
@@ -741,13 +741,13 @@
     "satellite_name": "Amos-4",
     "degree": "65.0° E",
     "postion": 650,
-    "num_channels": "260910"
+    "num_channels": "260914"
   },
   {
     "satellite_name": "Intelsat-39",
     "degree": "62.0° E",
     "postion": 620,
-    "num_channels": "260824"
+    "num_channels": "260914"
   },
   {
     "satellite_name": "KazSat-3",
@@ -777,7 +777,7 @@
     "satellite_name": "Express-AM6",
     "degree": "53.0° E",
     "postion": 530,
-    "num_channels": "260905"
+    "num_channels": "260914"
   },
   {
     "satellite_name": "Al-Yah-1",
@@ -813,7 +813,7 @@
     "satellite_name": "Azerspace-1",
     "degree": "46.0° E",
     "postion": 460,
-    "num_channels": "260912"
+    "num_channels": "260914"
   },
   {
     "satellite_name": "Azerspace-2-Intelsat-38",
@@ -957,7 +957,7 @@
     "satellite_name": "Eutelsat-7C",
     "degree": "7.0° E",
     "postion": 70,
-    "num_channels": "260909"
+    "num_channels": "260914"
   },
   {
     "satellite_name": "Astra-4A-and-SES-5",
