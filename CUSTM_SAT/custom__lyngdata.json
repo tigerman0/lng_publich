@@ -1,5 +1,5 @@
 {
-  "extraction_date": "2026-09-17 05:48:13",
+  "extraction_date": "2026-09-18 05:34:45",
   "total_satellites": 15,
   "satellites": [
     {
@@ -214,7 +214,7 @@
           "modulation": "QPSK",
           "pls": "",
           "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"3542505758544641504775594c5b524654411b565a58\">[email&#160;protected]</span>"
+            "<span class=\"__cf_email__\" data-cfemail=\"d0a7b5b2bdb1a3a4b5a290bca9beb7a3b1a4feb3bfbd\">[email&#160;protected]</span>"
           ]
         }
       ]
@@ -224,7 +224,7 @@
       "degree": "7.1° W",
       "num_channels": "260118",
       "full_name": "Nilesat 201/301 & Eutelsat 7 West A at 7.1°W - LyngSat",
-      "last_update": "2026-09-15",
+      "last_update": "2026-09-16",
       "total_transponders": 63,
       "transponders": [
         {
@@ -1378,7 +1378,7 @@
           "modulation": "",
           "pls": "",
           "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"bacddfd8d7dbc9cedfc8fad6c3d4ddc9dbce94d9d5d7\">[email&#160;protected]</span>"
+            "<span class=\"__cf_email__\" data-cfemail=\"3b4c5e59565a484f5e497b5742555c485a4f15585456\">[email&#160;protected]</span>"
           ]
         }
       ]
@@ -1388,7 +1388,7 @@
       "degree": "8.0° W",
       "num_channels": "260130",
       "full_name": "Eutelsat 8 West B at 8.0°W - LyngSat",
-      "last_update": "2026-09-15",
+      "last_update": "2026-09-16",
       "total_transponders": 71,
       "transponders": [
         {
@@ -2533,7 +2533,7 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"0572606768647671607745697c6b627664712b666a68\">[email&#160;protected]</span>"
+            "<span class=\"__cf_email__\" data-cfemail=\"295e4c4b44485a5d4c5b694550474e5a485d074a4644\">[email&#160;protected]</span>"
           ]
         }
       ]
@@ -2543,7 +2543,7 @@
       "degree": "30.0° W",
       "num_channels": "260106",
       "full_name": "Hispasat 30W-5/30W-6 at 30.0°W - LyngSat",
-      "last_update": "2026-09-15",
+      "last_update": "2026-09-16",
       "total_transponders": 46,
       "transponders": [
         {
@@ -3093,7 +3093,7 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"d3a4b6b1beb2a0a7b6a193bfaabdb4a0b2a7fdb0bcbe\">[email&#160;protected]</span>"
+            "<span class=\"__cf_email__\" data-cfemail=\"2a5d4f48474b595e4f586a4653444d594b5e04494547\">[email&#160;protected]</span>"
           ]
         }
       ]
@@ -3103,7 +3103,7 @@
       "degree": "42.0° E",
       "num_channels": "260124",
       "full_name": "Türksat 3A/4A/5B/6A at 42.0°E - LyngSat",
-      "last_update": "2026-09-15",
+      "last_update": "2026-09-16",
       "total_transponders": 113,
       "transponders": [
         {
@@ -4590,7 +4590,7 @@
             "Crystal TV Prime",
             "TRT World",
             "Lumen Christi TV",
-            "<span class=\"__cf_email__\" data-cfemail=\"6a1d0f08070b191e0f182a0613040d190b1e44090507\">[email&#160;protected]</span>"
+            "<span class=\"__cf_email__\" data-cfemail=\"e89f8d8a85899b9c8d9aa88491868f9b899cc68b8785\">[email&#160;protected]</span>"
           ]
         }
       ]
@@ -4600,7 +4600,7 @@
       "degree": "26.0° E",
       "num_channels": "260103",
       "full_name": "Badr 7/8 & Es'hail 2 at 26.0°E - LyngSat",
-      "last_update": "2026-09-15",
+      "last_update": "2026-09-16",
       "total_transponders": 77,
       "transponders": [
         {
@@ -5853,7 +5853,7 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"8ff8eaede2eefcfbeafdcfe3f6e1e8fceefba1ece0e2\">[email&#160;protected]</span>"
+            "<span class=\"__cf_email__\" data-cfemail=\"4a3d2f28272b393e2f380a2633242d392b3e64292527\">[email&#160;protected]</span>"
           ]
         }
       ]
@@ -5863,7 +5863,7 @@
       "degree": "25.5° E",
       "num_channels": "251126",
       "full_name": "Es'hail 1 at 25.5°E - LyngSat",
-      "last_update": "2026-09-15",
+      "last_update": "2026-09-16",
       "total_transponders": 27,
       "transponders": [
         {
@@ -6185,7 +6185,7 @@
             "Sloog",
             "L'Match",
             "Sisal Loterie Nationale",
-            "<span class=\"__cf_email__\" data-cfemail=\"5b2c3e39363a282f3e291b3722353c283a2f75383436\">[email&#160;protected]</span>"
+            "<span class=\"__cf_email__\" data-cfemail=\"f28597909f9381869780b29e8b9c95819386dc919d9f\">[email&#160;protected]</span>"
           ]
         }
       ]
@@ -6615,7 +6615,7 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"0a7d6f68676b797e6f784a6673646d796b7e24696567\">[email&#160;protected]</span>"
+            "<span class=\"__cf_email__\" data-cfemail=\"215644434c4052554453614d584f465240550f424e4c\">[email&#160;protected]</span>"
           ]
         }
       ]
@@ -6634,1447 +6634,16 @@
       "degree": "16.0° E",
       "num_channels": "260125",
       "full_name": "Eutelsat 16A at 16.0°E - LyngSat",
-      "last_update": "2026-09-15",
-      "total_transponders": 122,
-      "transponders": [
-        {
-          "frequency": "10721",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "30000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "10762",
-          "polarization": "H",
-          "symbol_rate": "3/5",
-          "fec": "30000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "RTK 1 Sat",
-            "Top News"
-          ]
-        },
-        {
-          "frequency": "10804",
-          "polarization": "H",
-          "symbol_rate": "2/3",
-          "fec": "29950",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "EuroNews Albania"
-          ]
-        },
-        {
-          "frequency": "10845",
-          "polarization": "H",
-          "symbol_rate": "3/5",
-          "fec": "30000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "10887",
-          "polarization": "H",
-          "symbol_rate": "3/5",
-          "fec": "30000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "10928",
-          "polarization": "H",
-          "symbol_rate": "3/5",
-          "fec": "30000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "Viasat Nature East",
-            "Viasat Explore East",
-            "Viasat History East",
-            "Viasat Kino Balkan",
-            "TV 1000 Russkoe Kino",
-            "Viasat History East",
-            "Viasat Epic Drama",
-            "Viasat Explore East",
-            "Viasat True Crime",
-            "Viasat Nature East"
-          ]
-        },
-        {
-          "frequency": "10955.6",
-          "polarization": "H",
-          "symbol_rate": "2/3",
-          "fec": "355",
-          "system": "DVB-S2",
-          "modulation": "QPSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "10958",
-          "polarization": "H",
-          "symbol_rate": "5/6",
-          "fec": "3333",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "10961",
-          "polarization": "V",
-          "symbol_rate": "3/4",
-          "fec": "2400",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "10962",
-          "polarization": "H",
-          "symbol_rate": "5/6",
-          "fec": "3333",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "10965",
-          "polarization": "V",
-          "symbol_rate": "3/4",
-          "fec": "4800",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "10966",
-          "polarization": "H",
-          "symbol_rate": "5/6",
-          "fec": "3333",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "10970",
-          "polarization": "H",
-          "symbol_rate": "5/6",
-          "fec": "3333",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "10971",
-          "polarization": "V",
-          "symbol_rate": "3/4",
-          "fec": "4800",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "10972.1",
-          "polarization": "H",
-          "symbol_rate": "3/5",
-          "fec": "376",
-          "system": "DVB-S2",
-          "modulation": "QPSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "10972.4",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "176",
-          "system": "DVB-S2",
-          "modulation": "QPSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "10976",
-          "polarization": "H",
-          "symbol_rate": "5/6",
-          "fec": "3600",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "10977",
-          "polarization": "V",
-          "symbol_rate": "3/4",
-          "fec": "4800",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "10980",
-          "polarization": "H",
-          "symbol_rate": "5/6",
-          "fec": "3600",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "10982",
-          "polarization": "V",
-          "symbol_rate": "3/4",
-          "fec": "4800",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "10998",
-          "polarization": "V",
-          "symbol_rate": "3/4",
-          "fec": "10000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11009",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "3750",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11013",
-          "polarization": "V",
-          "symbol_rate": "5/6",
-          "fec": "4600",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11019",
-          "polarization": "V",
-          "symbol_rate": "5/6",
-          "fec": "4600",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11025",
-          "polarization": "V",
-          "symbol_rate": "5/6",
-          "fec": "4600",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11052",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "3200",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11055",
-          "polarization": "V",
-          "symbol_rate": "4/5",
-          "fec": "27500",
-          "system": "DVB-S2",
-          "modulation": "QPSK",
-          "pls": "",
-          "channels": [
-            "CT 24"
-          ]
-        },
-        {
-          "frequency": "11059",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "4937",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11065",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "4937",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11080",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "9874",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11090",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "3000",
-          "system": "DVB-S2",
-          "modulation": "QPSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11094",
-          "polarization": "V",
-          "symbol_rate": "4/5",
-          "fec": "27500",
-          "system": "DVB-S2",
-          "modulation": "QPSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11101",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "3600",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11109",
-          "polarization": "H",
-          "symbol_rate": "5/6",
-          "fec": "2500",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11125",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "4600",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11131",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "4600",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11138",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "4937",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11139",
-          "polarization": "V",
-          "symbol_rate": "3/5",
-          "fec": "27500",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "Pink Folk 1"
-          ]
-        },
-        {
-          "frequency": "11144",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "4937",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11152",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "9700",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11162",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "4937",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11168",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "4937",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11173",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "3600",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11178",
-          "polarization": "V",
-          "symbol_rate": "3/5",
-          "fec": "27500",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11179",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "4937",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11185",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "4937",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11191",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "4937",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11216",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "22500",
-          "system": "DVB-S2",
-          "modulation": "QPSK",
-          "pls": "",
-          "channels": [
-            "Tippmix élo 1",
-            "Tippmix élo 2",
-            "Tippmix élo 3",
-            "Tippmix élo 4",
-            "Tippmix élo 5",
-            "Tippmix élo 6",
-            "Tippmix élo 7"
-          ]
-        },
-        {
-          "frequency": "11231",
-          "polarization": "V",
-          "symbol_rate": "5/6",
-          "fec": "42000",
-          "system": "DVB-S2",
-          "modulation": "QPSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11234",
-          "polarization": "H",
-          "symbol_rate": "2/3",
-          "fec": "7500",
-          "system": "DVB-S2",
-          "modulation": "QPSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11262",
-          "polarization": "H",
-          "symbol_rate": "2/3",
-          "fec": "30000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "Alternativna TV",
-            "BN 2",
-            "Face TV",
-            "Federalna TV",
-            "Hayat 2",
-            "Hayat Folk Box",
-            "Hayat Music Box",
-            "Hayat",
-            "V5",
-            "Zona HD Plus",
-            "TV Most",
-            "TV Galaksija 32",
-            "TV 5 Uzice",
-            "Telemark",
-            "TV Novi Pazar",
-            "Ona TV",
-            "TV K3",
-            "Hayatovci",
-            "OBN",
-            "Minimax Serbia",
-            "TV Duga +",
-            "AMC Balkan"
-          ]
-        },
-        {
-          "frequency": "11283",
-          "polarization": "V",
-          "symbol_rate": "2/3",
-          "fec": "30000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "FilmBox+ Hits Adria",
-            "Dizi",
-            "FightBox HD",
-            "FilmBox+ Festival Worldwide",
-            "FilmBox+ Love & Crime Adria",
-            "FilmBox+ Emotion Adria",
-            "DocuBox HD",
-            "Fast & FunBox HD",
-            "Eroxxx HD",
-            "Erox HD",
-            "360 Tune Box",
-            "FashionBox HD",
-            "FilmBox+ One Baltic",
-            "Gametoon"
-          ]
-        },
-        {
-          "frequency": "11324",
-          "polarization": "V",
-          "symbol_rate": "2/3",
-          "fec": "30000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11366",
-          "polarization": "V",
-          "symbol_rate": "3/4",
-          "fec": "30000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11387",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "32000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11402",
-          "polarization": "V",
-          "symbol_rate": "3/4",
-          "fec": "17500",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "O Kanal",
-            "Alternativna TV",
-            "Nova BH",
-            "BN",
-            "O Kanal Music",
-            "OBN",
-            "N1 Bosna i Hercegovina",
-            "TV Sarajevo",
-            "RTV TK",
-            "Hit TV",
-            "TV USK",
-            "TV BPK",
-            "Herceg TV",
-            "Pro TV",
-            "NTV Arena",
-            "RTVIS",
-            "TV K3"
-          ]
-        },
-        {
-          "frequency": "11429",
-          "polarization": "V",
-          "symbol_rate": "3/5",
-          "fec": "28330",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11471",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "30000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "TV Slovenija 1",
-            "TV Slovenija 2",
-            "TV Slovenija 3"
-          ]
-        },
-        {
-          "frequency": "11471",
-          "polarization": "V",
-          "symbol_rate": "5/6",
-          "fec": "30000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "Kanal 1 Xtra",
-            "Kanal 1",
-            "Investigation Discovery Europe",
-            "National Geographic Wild Europe",
-            "Slágr Premium",
-            "Eurosport 1",
-            "Kanal 1 Sport",
-            "Rik",
-            "FunBox UHD",
-            "Love Nature",
-            "BBC First Polska",
-            "Suryoyo Sat",
-            "Joj Sport 2",
-            "Ócko",
-            "Baby TV Europe",
-            "Duck TV SD",
-            "TLC Balkan",
-            "Star Movies Hrvatska",
-            "Cartoonito Central & Eastern Europe"
-          ]
-        },
-        {
-          "frequency": "11512",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "30000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "Aurora TV+"
-          ]
-        },
-        {
-          "frequency": "11512",
-          "polarization": "V",
-          "symbol_rate": "2/3",
-          "fec": "29950",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "TVR 3",
-            "TVR Moldova",
-            "TVR International",
-            "TVR Cluj",
-            "TVR Craiova",
-            "TVR Iasi",
-            "TVR Timisoara",
-            "TVR Targu-Mures",
-            "TVR Sport",
-            "TVR 1",
-            "TVR 2",
-            "TVR Info",
-            "TVR Cultural"
-          ]
-        },
-        {
-          "frequency": "11554",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "30000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "Nova S"
-          ]
-        },
-        {
-          "frequency": "11554",
-          "polarization": "V",
-          "symbol_rate": "5/6",
-          "fec": "30000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11595",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "30000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "CGTN",
-            "CGTN Documentary",
-            "TVCG MNE"
-          ]
-        },
-        {
-          "frequency": "11595",
-          "polarization": "V",
-          "symbol_rate": "3/4",
-          "fec": "30000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "K CN 1",
-            "K CN 2",
-            "K CN 3"
-          ]
-        },
-        {
-          "frequency": "11637",
-          "polarization": "H",
-          "symbol_rate": "5/6",
-          "fec": "30000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "E! Europe",
-            "History Europe",
-            "RiC International",
-            "24 Kitchen Hrvatska",
-            "Travelxp HD Europe",
-            "Arena Sport 10 Hrvatska",
-            "AXN Spin Romania",
-            "AXN Adria",
-            "Barely Legal TV",
-            "Da Vinci",
-            "Gold",
-            "Babes TV",
-            "Reality Kings TV",
-            "HBO Adria",
-            "HBO 2 Central Europe",
-            "Cinemax Central Europe",
-            "Cinemax 2 Central Europe",
-            "HBO 3 Central Europe"
-          ]
-        },
-        {
-          "frequency": "11637",
-          "polarization": "V",
-          "symbol_rate": "2/3",
-          "fec": "30000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "HRT 1",
-            "HRT 2",
-            "HRT 3",
-            "HRT 4",
-            "HRT International"
-          ]
-        },
-        {
-          "frequency": "11678",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "30000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "Nova 24 TV",
-            "Adria Music TV",
-            "Hype TV",
-            "Laudato TV",
-            "María+Visión Medjugorje"
-          ]
-        },
-        {
-          "frequency": "11678",
-          "polarization": "V",
-          "symbol_rate": "3/4",
-          "fec": "30000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "N1 Srbija"
-          ]
-        },
-        {
-          "frequency": "12507",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "3750",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12509",
-          "polarization": "V",
-          "symbol_rate": "3/4",
-          "fec": "7120",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12511",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "3750",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12517",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "4937",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12522",
-          "polarization": "V",
-          "symbol_rate": "3/5",
-          "fec": "10833",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "RTSH Satelit",
-            "RTSH 24",
-            "RTSH Shqip",
-            "RTSH Muzikë"
-          ]
-        },
-        {
-          "frequency": "12523",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "4937",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12536",
-          "polarization": "H",
-          "symbol_rate": "2/3",
-          "fec": "6000",
-          "system": "DVB-S2",
-          "modulation": "16APSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12537",
-          "polarization": "V",
-          "symbol_rate": "3/4",
-          "fec": "13918",
-          "system": "DVB-S2",
-          "modulation": "QPSK",
-          "pls": "Gold 210115; Multistream:Stream 3",
-          "channels": [
-            "BTV",
-            "Nova TV",
-            "BNT 1",
-            "BNT 2",
-            "BNT 3",
-            "Bulgaria On Air"
-          ]
-        },
-        {
-          "frequency": "12541.1",
-          "polarization": "H",
-          "symbol_rate": "3/5",
-          "fec": "405",
-          "system": "DVB-S2",
-          "modulation": "QPSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12541.6",
-          "polarization": "H",
-          "symbol_rate": "3/5",
-          "fec": "405",
-          "system": "DVB-S2",
-          "modulation": "QPSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12542.1",
-          "polarization": "H",
-          "symbol_rate": "3/5",
-          "fec": "405",
-          "system": "DVB-S2",
-          "modulation": "QPSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12548",
-          "polarization": "V",
-          "symbol_rate": "3/4",
-          "fec": "4800",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12550",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "3600",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12555",
-          "polarization": "V",
-          "symbol_rate": "2/3",
-          "fec": "4800",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12557",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "4937",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12562",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "4800",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12568",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "4937",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12568",
-          "polarization": "V",
-          "symbol_rate": "3/5",
-          "fec": "16667",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "Credo TV",
-            "Alfa Omega TV"
-          ]
-        },
-        {
-          "frequency": "12574",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "4937",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12589.0",
-          "polarization": "V",
-          "symbol_rate": "3/4",
-          "fec": "146",
-          "system": "DVB-S",
-          "modulation": "",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12590.7",
-          "polarization": "V",
-          "symbol_rate": "3/5",
-          "fec": "100",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12593",
-          "polarization": "V",
-          "symbol_rate": "2/3",
-          "fec": "2500",
-          "system": "DVB-S",
-          "modulation": "",
-          "pls": "",
-          "channels": [
-            "DM Sat"
-          ]
-        },
-        {
-          "frequency": "12598",
-          "polarization": "V",
-          "symbol_rate": "3/4",
-          "fec": "4800",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12607",
-          "polarization": "V",
-          "symbol_rate": "3/4",
-          "fec": "10000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12630",
-          "polarization": "V",
-          "symbol_rate": "3/4",
-          "fec": "9874",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12642",
-          "polarization": "V",
-          "symbol_rate": "3/4",
-          "fec": "9874",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12654",
-          "polarization": "V",
-          "symbol_rate": "2/3",
-          "fec": "9200",
-          "system": "DVB-S2",
-          "modulation": "16APSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12674",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "2930",
-          "system": "DVB-S",
-          "modulation": "",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12682",
-          "polarization": "H",
-          "symbol_rate": "2/3",
-          "fec": "7425",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12689",
-          "polarization": "V",
-          "symbol_rate": "3/4",
-          "fec": "6000",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12690",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "2963",
-          "system": "DVB-S",
-          "modulation": "",
-          "pls": "",
-          "channels": [
-            "Hír TV"
-          ]
-        },
-        {
-          "frequency": "12693",
-          "polarization": "H",
-          "symbol_rate": "4/5",
-          "fec": "2222",
-          "system": "DVB-S2",
-          "modulation": "QPSK",
-          "pls": "",
-          "channels": [
-            "SNAI mosaic",
-            "SOGEI mosaic"
-          ]
-        },
-        {
-          "frequency": "12698",
-          "polarization": "V",
-          "symbol_rate": "",
-          "fec": "",
-          "system": "",
-          "modulation": "",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12700",
-          "polarization": "H",
-          "symbol_rate": "2/3",
-          "fec": "9880",
-          "system": "DVB-S",
-          "modulation": "",
-          "pls": "",
-          "channels": [
-            "SNAI Virtuali 4",
-            "SNAI Virtuali 9",
-            "SNAI Virtuali 2",
-            "SNAI mosaic",
-            "SNAI Virtuali 3",
-            "SNAI Virtuali 1"
-          ]
-        },
-        {
-          "frequency": "12707",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "3615",
-          "system": "DVB-S",
-          "modulation": "",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12707",
-          "polarization": "V",
-          "symbol_rate": "",
-          "fec": "",
-          "system": "",
-          "modulation": "",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12711",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "3615",
-          "system": "DVB-S",
-          "modulation": "",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12713",
-          "polarization": "V",
-          "symbol_rate": "",
-          "fec": "",
-          "system": "",
-          "modulation": "",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12718",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "4800",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12721",
-          "polarization": "V",
-          "symbol_rate": "3/4",
-          "fec": "7200",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12724",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "4100",
-          "system": "DVB-S2",
-          "modulation": "QPSK",
-          "pls": "",
-          "channels": [
-            "Ippica 1",
-            "Ippica 2"
-          ]
-        },
-        {
-          "frequency": "12727",
-          "polarization": "H",
-          "symbol_rate": "2/3",
-          "fec": "2600",
-          "system": "DVB-S2",
-          "modulation": "16APSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12730",
-          "polarization": "V",
-          "symbol_rate": "3/4",
-          "fec": "7200",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12731",
-          "polarization": "H",
-          "symbol_rate": "2/3",
-          "fec": "1700",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12734",
-          "polarization": "H",
-          "symbol_rate": "4/5",
-          "fec": "3780",
-          "system": "DVB-S2",
-          "modulation": "QPSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12738",
-          "polarization": "H",
-          "symbol_rate": "3/5",
-          "fec": "2667",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "12738",
-          "polarization": "V",
-          "symbol_rate": "3/4",
-          "fec": "9600",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "21562",
-          "polarization": "H",
-          "symbol_rate": "2/3",
-          "fec": "1010",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "Impact TV"
-          ]
-        },
-        {
-          "frequency": "21564",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "128",
-          "system": "DVB-S",
-          "modulation": "",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "21568",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "1383",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "Equinoxe TV"
-          ]
-        },
-        {
-          "frequency": "21576",
-          "polarization": "H",
-          "symbol_rate": "3/4",
-          "fec": "2420",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "Canal 2 International"
-          ]
-        },
-        {
-          "frequency": "21620",
-          "polarization": "H",
-          "symbol_rate": "2/3",
-          "fec": "2200",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "2S TV"
-          ]
-        },
-        {
-          "frequency": "21638",
-          "polarization": "H",
-          "symbol_rate": "2/3",
-          "fec": "1100",
-          "system": "DVB-S2",
-          "modulation": "8PSK",
-          "pls": "",
-          "channels": [
-            "Bantamba TV",
-            "<span class=\"__cf_email__\" data-cfemail=\"8ff8eaede2eefcfbeafdcfe3f6e1e8fceefba1ece0e2\">[email&#160;protected]</span>"
-          ]
-        }
-      ]
+      "last_update": "2026-09-16",
+      "total_transponders": 0,
+      "transponders": []
     },
     {
       "satellite_name": "Hotbird-13F-13G",
       "degree": "13.0° E",
       "num_channels": "260130",
       "full_name": "Hotbird 13F/13G at 13.0°E - LyngSat",
-      "last_update": "2026-09-15",
+      "last_update": "2026-09-16",
       "total_transponders": 131,
       "transponders": [
         {
@@ -8444,7 +7013,6 @@
             "CGTN",
             "TV Rus",
             "TV Rus +",
-            "RTVi FTA",
             "Eko TV",
             "Milady TV",
             "Natali",
@@ -9422,7 +7990,6 @@
             "San Marino RTV",
             "Simay-Azadi Iran National TV",
             "VoA 365",
-            "Télé Congo",
             "EWTN Europe"
           ]
         },
@@ -9822,7 +8389,7 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"b8cfdddad5d9cbccddcaf8d4c1d6dfcbd9cc96dbd7d5\">[email&#160;protected]</span>"
+            "<span class=\"__cf_email__\" data-cfemail=\"136476717e7260677661537f6a7d746072673d707c7e\">[email&#160;protected]</span>"
           ]
         }
       ]
@@ -9832,7 +8399,7 @@
       "degree": "10.0° E",
       "num_channels": "260129",
       "full_name": "Eutelsat 10B at 10.0°E - LyngSat",
-      "last_update": "2026-09-15",
+      "last_update": "2026-09-16",
       "total_transponders": 51,
       "transponders": [
         {
@@ -10451,7 +9018,7 @@
           "pls": "",
           "channels": [
             "Zap Viva Internacional",
-            "<span class=\"__cf_email__\" data-cfemail=\"d4a3b1b6b9b5a7a0b1a694b8adbab3a7b5a0fab7bbb9\">[email&#160;protected]</span>"
+            "<span class=\"__cf_email__\" data-cfemail=\"7a0d1f18171b090e1f083a1603141d091b0e54191517\">[email&#160;protected]</span>"
           ]
         }
       ]
@@ -10461,7 +9028,7 @@
       "degree": "9.0° E",
       "num_channels": "260122",
       "full_name": "Eutelsat 9B & Ka-Sat 9A at 9.0°E - LyngSat",
-      "last_update": "2026-09-15",
+      "last_update": "2026-09-16",
       "total_transponders": 49,
       "transponders": [
         {
@@ -11380,7 +9947,7 @@
             "Oireachtas TV",
             "RTÉ One +1",
             "RTÉ 2 +1",
-            "<span class=\"__cf_email__\" data-cfemail=\"f18694939c9082859483b19d889f96829085df929e9c\">[email&#160;protected]</span>"
+            "<span class=\"__cf_email__\" data-cfemail=\"d8afbdbab5b9abacbdaa98b4a1b6bfabb9acf6bbb7b5\">[email&#160;protected]</span>"
           ]
         }
       ]
@@ -13259,7 +11826,7 @@
           "modulation": "",
           "pls": "",
           "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"86f1e3e4ebe7f5f2e3f4c6eaffe8e1f5e7f2a8e5e9eb\">[email&#160;protected]</span>"
+            "<span class=\"__cf_email__\" data-cfemail=\"304755525d5143445542705c495e574351441e535f5d\">[email&#160;protected]</span>"
           ]
         }
       ]
@@ -13269,7 +11836,7 @@
       "degree": "1.9° E",
       "num_channels": "260108",
       "full_name": "BulgariaSat 1 at 1.9°E - LyngSat",
-      "last_update": "2026-09-15",
+      "last_update": "2026-09-16",
       "total_transponders": 14,
       "transponders": [
         {
@@ -13444,7 +12011,7 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"5e293b3c333f2d2a3b2c1e322730392d3f2a703d3133\">[email&#160;protected]</span>"
+            "<span class=\"__cf_email__\" data-cfemail=\"95e2f0f7f8f4e6e1f0e7d5f9ecfbf2e6f4e1bbf6faf8\">[email&#160;protected]</span>"
           ]
         }
       ]
