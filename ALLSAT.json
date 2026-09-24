@@ -33,7 +33,7 @@
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
     "postion": -80,
-    "num_channels": "260921"
+    "num_channels": "260922"
   },
   {
     "satellite_name": "Express-AM8",
@@ -45,7 +45,7 @@
     "satellite_name": "Telstar-12-Vantage",
     "degree": "15.0° W",
     "postion": -150,
-    "num_channels": "260921"
+    "num_channels": "260922"
   },
   {
     "satellite_name": "Intelsat-37e",
@@ -75,7 +75,7 @@
     "satellite_name": "Intelsat-35e",
     "degree": "34.5° W",
     "postion": -345,
-    "num_channels": "260826"
+    "num_channels": "260922"
   },
   {
     "satellite_name": "Hispasat-36W-1",
@@ -261,7 +261,7 @@
     "satellite_name": "Galaxy-19",
     "degree": "97.0° W",
     "postion": -970,
-    "num_channels": "260921"
+    "num_channels": "260922"
   },
   {
     "satellite_name": "Galaxy-16-and-T11-T14",
@@ -345,7 +345,7 @@
     "satellite_name": "Galaxy-30",
     "degree": "125.0° W",
     "postion": -1250,
-    "num_channels": "260820"
+    "num_channels": "260922"
   },
   {
     "satellite_name": "Galaxy-37-Horizons-4",
@@ -501,7 +501,7 @@
     "satellite_name": "ChinaSat-6C",
     "degree": "130.5° E",
     "postion": 1305,
-    "num_channels": "260921"
+    "num_channels": "260922"
   },
   {
     "satellite_name": "LaoSat-1",
@@ -531,7 +531,7 @@
     "satellite_name": "AsiaSat-9",
     "degree": "122.0° E",
     "postion": 1220,
-    "num_channels": "260904"
+    "num_channels": "260922"
   },
   {
     "satellite_name": "AsiaSat-6-Thaicom-7",
@@ -561,7 +561,7 @@
     "satellite_name": "ChinaSat-6E",
     "degree": "115.5° E",
     "postion": 1155,
-    "num_channels": "260921"
+    "num_channels": "260922"
   },
   {
     "satellite_name": "Koreasat-5A",
@@ -699,13 +699,13 @@
     "satellite_name": "Apstar-7",
     "degree": "76.5° E",
     "postion": 765,
-    "num_channels": "260921"
+    "num_channels": "260922"
   },
   {
     "satellite_name": "ABS-2-2A",
     "degree": "75.0° E",
     "postion": 750,
-    "num_channels": "260920"
+    "num_channels": "260922"
   },
   {
     "satellite_name": "G-Sat-18",
@@ -753,7 +753,7 @@
     "satellite_name": "KazSat-3",
     "degree": "58.5° E",
     "postion": 585,
-    "num_channels": "260811"
+    "num_channels": "260922"
   },
   {
     "satellite_name": "NSS-12",
@@ -765,7 +765,7 @@
     "satellite_name": "Express-AT2",
     "degree": "56.0° E",
     "postion": 560,
-    "num_channels": "260920"
+    "num_channels": "260922"
   },
   {
     "satellite_name": "G-Sat-16-and-Yamal-402",
