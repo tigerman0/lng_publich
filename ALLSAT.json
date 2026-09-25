@@ -33,7 +33,7 @@
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
     "postion": -80,
-    "num_channels": "260922"
+    "num_channels": "260923"
   },
   {
     "satellite_name": "Express-AM8",
@@ -69,7 +69,7 @@
     "satellite_name": "Hispasat-30W-5-30W-6",
     "degree": "30.0° W",
     "postion": -300,
-    "num_channels": "260910"
+    "num_channels": "260923"
   },
   {
     "satellite_name": "Intelsat-35e",
@@ -717,7 +717,7 @@
     "satellite_name": "Intelsat-22",
     "degree": "72.1° E",
     "postion": 721,
-    "num_channels": "260820"
+    "num_channels": "260923"
   },
   {
     "satellite_name": "Eutelsat-70B",
@@ -729,7 +729,7 @@
     "satellite_name": "Intelsat-20-36",
     "degree": "68.5° E",
     "postion": 685,
-    "num_channels": "260911"
+    "num_channels": "260923"
   },
   {
     "satellite_name": "Intelsat-17",
@@ -747,7 +747,7 @@
     "satellite_name": "Intelsat-39",
     "degree": "62.0° E",
     "postion": 620,
-    "num_channels": "260914"
+    "num_channels": "260923"
   },
   {
     "satellite_name": "KazSat-3",
@@ -759,7 +759,7 @@
     "satellite_name": "NSS-12",
     "degree": "57.0° E",
     "postion": 570,
-    "num_channels": "260823"
+    "num_channels": "260923"
   },
   {
     "satellite_name": "Express-AT2",
@@ -897,7 +897,7 @@
     "satellite_name": "Eshail-1",
     "degree": "25.5° E",
     "postion": 255,
-    "num_channels": "260918"
+    "num_channels": "260923"
   },
   {
     "satellite_name": "Astra-3C",
