@@ -189,7 +189,7 @@
     "satellite_name": "Hispasat-74W-1",
     "degree": "73.9° W",
     "postion": -739,
-    "num_channels": "260814"
+    "num_channels": "260926"
   },
   {
     "satellite_name": "Star-One-C3",
@@ -213,7 +213,7 @@
     "satellite_name": "Arsat-2",
     "degree": "81.0° W",
     "postion": -810,
-    "num_channels": "260830"
+    "num_channels": "260926"
   },
   {
     "satellite_name": "Star-One-D1",
@@ -237,7 +237,7 @@
     "satellite_name": "Galaxy-36",
     "degree": "89.0° W",
     "postion": -890,
-    "num_channels": "260914"
+    "num_channels": "260926"
   },
   {
     "satellite_name": "Galaxy-32-and-Nimiq-6",
@@ -540,10 +540,16 @@
     "num_channels": "260906"
   },
   {
-    "satellite_name": "Thaicom-4-and-Bangladesh-1",
-    "degree": "119.3° E",
-    "postion": 1193,
-    "num_channels": "201119"
+    "satellite_name": "Thaicom-4",
+    "degree": "119.5° E",
+    "postion": 1195,
+    "num_channels": "260926"
+  },
+  {
+    "satellite_name": "Bangladesh-1",
+    "degree": "119.1° E",
+    "postion": 1191,
+    "num_channels": "260819"
   },
   {
     "satellite_name": "Telkom-3S",
@@ -585,7 +591,7 @@
     "satellite_name": "AsiaSat-7",
     "degree": "105.5° E",
     "postion": 1055,
-    "num_channels": "260904"
+    "num_channels": "260926"
   },
   {
     "satellite_name": "Express-AMU3",
@@ -819,7 +825,7 @@
     "satellite_name": "Azerspace-2-Intelsat-38",
     "degree": "45.1° E",
     "postion": 451,
-    "num_channels": "260925"
+    "num_channels": "260926"
   },
   {
     "satellite_name": "Cosmos-2520",
@@ -837,7 +843,7 @@
     "satellite_name": "Turksat-3A-4A-5B-6A",
     "degree": "42.0° E",
     "postion": 420,
-    "num_channels": "260925"
+    "num_channels": "260926"
   },
   {
     "satellite_name": "Express-AM7",
@@ -933,7 +939,7 @@
     "satellite_name": "Eutelsat-16D",
     "degree": "16.0° E",
     "postion": 160,
-    "num_channels": "260925"
+    "num_channels": "260926"
   },
   {
     "satellite_name": "Hotbird-13F-13G",
@@ -945,7 +951,7 @@
     "satellite_name": "Eutelsat-10B",
     "degree": "10.0° E",
     "postion": 100,
-    "num_channels": "260921"
+    "num_channels": "260926"
   },
   {
     "satellite_name": "Eutelsat-9B-and-Ka-Sat-9A",
@@ -957,7 +963,7 @@
     "satellite_name": "Eutelsat-7C",
     "degree": "7.0° E",
     "postion": 70,
-    "num_channels": "260924"
+    "num_channels": "260926"
   },
   {
     "satellite_name": "Astra-4A-and-SES-5",
@@ -969,7 +975,7 @@
     "satellite_name": "Eutelsat-3B-and-Rascom-QAF-1R",
     "degree": "3.0° E",
     "postion": 30,
-    "num_channels": "260904"
+    "num_channels": "260926"
   },
   {
     "satellite_name": "BulgariaSat-1",
