@@ -33,7 +33,7 @@
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
     "postion": -80,
-    "num_channels": "261008"
+    "num_channels": "261009"
   },
   {
     "satellite_name": "Express-AM8",
@@ -387,7 +387,7 @@
     "satellite_name": "Eutelsat-172B",
     "degree": "172.0° E",
     "postion": 1720,
-    "num_channels": "260925"
+    "num_channels": "261009"
   },
   {
     "satellite_name": "Horizons-3e",
@@ -411,7 +411,7 @@
     "satellite_name": "Measat-3a-and-Koreasat-6",
     "degree": "160.0° E",
     "postion": 1600,
-    "num_channels": "250201"
+    "num_channels": "261009"
   },
   {
     "satellite_name": "ABS-6",
@@ -423,7 +423,7 @@
     "satellite_name": "Optus-10",
     "degree": "156.0° E",
     "postion": 1560,
-    "num_channels": "260914"
+    "num_channels": "261009"
   },
   {
     "satellite_name": "JCSAT-2B",
@@ -447,7 +447,7 @@
     "satellite_name": "Nusantara-Satu",
     "degree": "146.0° E",
     "postion": 1460,
-    "num_channels": "260711"
+    "num_channels": "260409"
   },
   {
     "satellite_name": "Express-AMU7",
@@ -579,7 +579,7 @@
     "satellite_name": "SES-7-9-and-Merah-Putih",
     "degree": "108.1° E",
     "postion": 1081,
-    "num_channels": "261003"
+    "num_channels": "261009"
   },
   {
     "satellite_name": "AsiaSat-7",
@@ -759,13 +759,13 @@
     "satellite_name": "NSS-12",
     "degree": "57.0° E",
     "postion": 570,
-    "num_channels": "261004"
+    "num_channels": "261009"
   },
   {
     "satellite_name": "Express-AT2",
     "degree": "56.0° E",
     "postion": 560,
-    "num_channels": "260922"
+    "num_channels": "261009"
   },
   {
     "satellite_name": "G-Sat-16-and-Yamal-402",
@@ -777,7 +777,7 @@
     "satellite_name": "Express-AM6",
     "degree": "53.0° E",
     "postion": 530,
-    "num_channels": "260929"
+    "num_channels": "261009"
   },
   {
     "satellite_name": "Al-Yah-1",
@@ -837,7 +837,7 @@
     "satellite_name": "Turksat-3A-4A-5B-6A",
     "degree": "42.0° E",
     "postion": 420,
-    "num_channels": "261005"
+    "num_channels": "261009"
   },
   {
     "satellite_name": "Express-AM7",
@@ -861,7 +861,7 @@
     "satellite_name": "Eutelsat-36D-and-Express-AMU1",
     "degree": "36.0° E",
     "postion": 360,
-    "num_channels": "260826"
+    "num_channels": "261009"
   },
   {
     "satellite_name": "Eutelsat-33F",
