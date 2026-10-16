@@ -57,7 +57,7 @@
     "satellite_name": "SES-4",
     "degree": "22.0° W",
     "postion": -220,
-    "num_channels": "261011"
+    "num_channels": "261014"
   },
   {
     "satellite_name": "Alcomsat-1",
@@ -531,7 +531,7 @@
     "satellite_name": "AsiaSat-6-Thaicom-7",
     "degree": "120.0° E",
     "postion": 1200,
-    "num_channels": "260906"
+    "num_channels": "261014"
   },
   {
     "satellite_name": "Thaicom-4",
@@ -699,7 +699,7 @@
     "satellite_name": "Apstar-7",
     "degree": "76.5° E",
     "postion": 765,
-    "num_channels": "261010"
+    "num_channels": "261014"
   },
   {
     "satellite_name": "ABS-2-2A",
@@ -747,7 +747,7 @@
     "satellite_name": "Intelsat-39",
     "degree": "62.0° E",
     "postion": 620,
-    "num_channels": "261013"
+    "num_channels": "261014"
   },
   {
     "satellite_name": "KazSat-3",
@@ -789,7 +789,7 @@
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
     "postion": 520,
-    "num_channels": "261013"
+    "num_channels": "261014"
   },
   {
     "satellite_name": "Belintersat-1",
@@ -957,7 +957,7 @@
     "satellite_name": "Eutelsat-7C",
     "degree": "7.0° E",
     "postion": 70,
-    "num_channels": "261010"
+    "num_channels": "261014"
   },
   {
     "satellite_name": "Astra-4A-and-SES-5",
