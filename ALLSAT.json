@@ -351,7 +351,7 @@
     "satellite_name": "SES-21",
     "degree": "131.0° W",
     "postion": -1310,
-    "num_channels": "261007"
+    "num_channels": "261020"
   },
   {
     "satellite_name": "Galaxy-33",
@@ -387,7 +387,7 @@
     "satellite_name": "Eutelsat-172B",
     "degree": "172.0° E",
     "postion": 1720,
-    "num_channels": "261009"
+    "num_channels": "261020"
   },
   {
     "satellite_name": "Horizons-3e",
@@ -405,7 +405,7 @@
     "satellite_name": "Superbird-B3",
     "degree": "162.0° E",
     "postion": 1620,
-    "num_channels": "250821"
+    "num_channels": "261020"
   },
   {
     "satellite_name": "Measat-3a-and-Koreasat-6",
@@ -429,7 +429,7 @@
     "satellite_name": "JCSAT-2B",
     "degree": "154.0° E",
     "postion": 1540,
-    "num_channels": "260526"
+    "num_channels": "261020"
   },
   {
     "satellite_name": "Optus-D1",
@@ -633,7 +633,7 @@
     "satellite_name": "G-Sat-15-17",
     "degree": "93.5° E",
     "postion": 935,
-    "num_channels": "261018"
+    "num_channels": "261020"
   },
   {
     "satellite_name": "ChinaSat-9C",
@@ -687,7 +687,7 @@
     "satellite_name": "Thaicom-6-8",
     "degree": "78.5° E",
     "postion": 785,
-    "num_channels": "261019"
+    "num_channels": "261020"
   },
   {
     "satellite_name": "Amos-3",
@@ -777,7 +777,7 @@
     "satellite_name": "Express-AM6",
     "degree": "53.0° E",
     "postion": 530,
-    "num_channels": "261009"
+    "num_channels": "261020"
   },
   {
     "satellite_name": "Al-Yah-1",
@@ -855,7 +855,7 @@
     "satellite_name": "Paksat-MM1",
     "degree": "38.2° E",
     "postion": 382,
-    "num_channels": "261019"
+    "num_channels": "261020"
   },
   {
     "satellite_name": "Eutelsat-36D-and-Express-AMU1",
@@ -945,7 +945,7 @@
     "satellite_name": "Eutelsat-10B",
     "degree": "10.0° E",
     "postion": 100,
-    "num_channels": "261017"
+    "num_channels": "261020"
   },
   {
     "satellite_name": "Eutelsat-9B-and-Ka-Sat-9A",
