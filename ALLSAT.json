@@ -579,7 +579,7 @@
     "satellite_name": "SES-7-9-and-Merah-Putih",
     "degree": "108.1° E",
     "postion": 1081,
-    "num_channels": "261009"
+    "num_channels": "261021"
   },
   {
     "satellite_name": "AsiaSat-7",
@@ -699,13 +699,13 @@
     "satellite_name": "Apstar-7",
     "degree": "76.5° E",
     "postion": 765,
-    "num_channels": "261015"
+    "num_channels": "261021"
   },
   {
     "satellite_name": "ABS-2-2A",
     "degree": "75.0° E",
     "postion": 750,
-    "num_channels": "261019"
+    "num_channels": "261021"
   },
   {
     "satellite_name": "G-Sat-18",
@@ -789,7 +789,7 @@
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
     "postion": 520,
-    "num_channels": "261017"
+    "num_channels": "261021"
   },
   {
     "satellite_name": "Belintersat-1",
@@ -855,7 +855,7 @@
     "satellite_name": "Paksat-MM1",
     "degree": "38.2° E",
     "postion": 382,
-    "num_channels": "261020"
+    "num_channels": "261021"
   },
   {
     "satellite_name": "Eutelsat-36D-and-Express-AMU1",
@@ -909,7 +909,7 @@
     "satellite_name": "Eutelsat-21B",
     "degree": "21.5° E",
     "postion": 215,
-    "num_channels": "261015"
+    "num_channels": "261021"
   },
   {
     "satellite_name": "Arabsat-5C",
