@@ -33,7 +33,7 @@
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
     "postion": -80,
-    "num_channels": "261027"
+    "num_channels": "261031"
   },
   {
     "satellite_name": "Express-AM8",
@@ -699,7 +699,7 @@
     "satellite_name": "Apstar-7",
     "degree": "76.5° E",
     "postion": 765,
-    "num_channels": "261031"
+    "num_channels": "261030"
   },
   {
     "satellite_name": "ABS-2-2A",
@@ -729,7 +729,7 @@
     "satellite_name": "Intelsat-20-36",
     "degree": "68.5° E",
     "postion": 685,
-    "num_channels": "261030"
+    "num_channels": "261031"
   },
   {
     "satellite_name": "Intelsat-17",
@@ -783,7 +783,7 @@
     "satellite_name": "Al-Yah-1",
     "degree": "52.5° E",
     "postion": 525,
-    "num_channels": "261018"
+    "num_channels": "261031"
   },
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
@@ -795,7 +795,7 @@
     "satellite_name": "Belintersat-1",
     "degree": "51.5° E",
     "postion": 515,
-    "num_channels": "261029"
+    "num_channels": "261031"
   },
   {
     "satellite_name": "Turksat-4B",
@@ -819,7 +819,7 @@
     "satellite_name": "Azerspace-2-Intelsat-38",
     "degree": "45.1° E",
     "postion": 451,
-    "num_channels": "261023"
+    "num_channels": "261031"
   },
   {
     "satellite_name": "Cosmos-2520",
@@ -837,7 +837,7 @@
     "satellite_name": "Turksat-3A-4A-5B-6A",
     "degree": "42.0° E",
     "postion": 420,
-    "num_channels": "261029"
+    "num_channels": "261031"
   },
   {
     "satellite_name": "Express-AM7",
@@ -897,7 +897,7 @@
     "satellite_name": "Eshail-1",
     "degree": "25.5° E",
     "postion": 255,
-    "num_channels": "261028"
+    "num_channels": "261031"
   },
   {
     "satellite_name": "Astra-3C",
@@ -909,7 +909,7 @@
     "satellite_name": "Eutelsat-21B",
     "degree": "21.5° E",
     "postion": 215,
-    "num_channels": "261028"
+    "num_channels": "261031"
   },
   {
     "satellite_name": "Arabsat-5C",
