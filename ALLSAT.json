@@ -33,7 +33,7 @@
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
     "postion": -80,
-    "num_channels": "261108"
+    "num_channels": "261110"
   },
   {
     "satellite_name": "Express-AM8",
@@ -111,7 +111,7 @@
     "satellite_name": "Intelsat-14",
     "degree": "45.0° W",
     "postion": -450,
-    "num_channels": "260812"
+    "num_channels": "260521"
   },
   {
     "satellite_name": "SES-14",
@@ -315,7 +315,7 @@
     "satellite_name": "Eutelsat-117-West-A-B",
     "degree": "116.9° W",
     "postion": -1169,
-    "num_channels": "261109"
+    "num_channels": "261110"
   },
   {
     "satellite_name": "Anik-F3-and-T8-and-EchoStar-14",
@@ -543,7 +543,7 @@
     "satellite_name": "Bangladesh-1",
     "degree": "119.1° E",
     "postion": 1191,
-    "num_channels": "261018"
+    "num_channels": "261110"
   },
   {
     "satellite_name": "Telkom-3S",
@@ -753,7 +753,7 @@
     "satellite_name": "KazSat-3",
     "degree": "58.5° E",
     "postion": 585,
-    "num_channels": "260922"
+    "num_channels": "261110"
   },
   {
     "satellite_name": "NSS-12",
@@ -807,7 +807,7 @@
     "satellite_name": "Yamal-601",
     "degree": "49.0° E",
     "postion": 490,
-    "num_channels": "261002"
+    "num_channels": "261110"
   },
   {
     "satellite_name": "Azerspace-1",
@@ -843,7 +843,7 @@
     "satellite_name": "Hellas-Sat-3-4",
     "degree": "39.0° E",
     "postion": 390,
-    "num_channels": "261105"
+    "num_channels": "261110"
   },
   {
     "satellite_name": "Paksat-MM1",
@@ -879,7 +879,7 @@
     "satellite_name": "Astra-2E-2F-2G",
     "degree": "28.3° E",
     "postion": 283,
-    "num_channels": "261105"
+    "num_channels": "261110"
   },
   {
     "satellite_name": "Badr-7-8-and-Eshail-2",
@@ -933,7 +933,7 @@
     "satellite_name": "Hotbird-13F-13G",
     "degree": "13.0° E",
     "postion": 130,
-    "num_channels": "261108"
+    "num_channels": "261110"
   },
   {
     "satellite_name": "Eutelsat-10B",
