@@ -1,5 +1,5 @@
 {
-  "extraction_date": "2026-11-11 07:30:41",
+  "extraction_date": "2026-11-12 07:58:43",
   "total_satellites": 15,
   "satellites": [
     {
@@ -214,7 +214,7 @@
           "modulation": "QPSK",
           "pls": "",
           "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"97e0f2f5faf6e4e3f2e5d7fbeef9f0e4f6e3b9f4f8fa\">[email&#160;protected]</span>"
+            "<span class=\"__cf_email__\" data-cfemail=\"730416111e1200071601331f0a1d140012075d101c1e\">[email&#160;protected]</span>"
           ]
         }
       ]
@@ -224,7 +224,7 @@
       "degree": "7.1° W",
       "num_channels": "260118",
       "full_name": "Nilesat 201/301 & Eutelsat 7 West A at 7.1°W - LyngSat",
-      "last_update": "2026-11-09",
+      "last_update": "2026-11-10",
       "total_transponders": 66,
       "transponders": [
         {
@@ -251,7 +251,6 @@
             "OSM Health",
             "Alatwla Hekayat",
             "Al Basira TV",
-            "OSM Wasit",
             "1 Iraq TV",
             "Almagd TV",
             "Alkarma TV Family",
@@ -318,6 +317,7 @@
             "Alsharqiya News",
             "Alsharqiya TV",
             "Rûdaw",
+            "Dijlah TV",
             "Al Rabiaa TV",
             "Alahad TV",
             "Iraq Alhadath"
@@ -1355,6 +1355,7 @@
             "Almergab TV",
             "Hasad TV",
             "Al-Kafel TV",
+            "Aljamahiriya TV",
             "Libya Alkarama",
             "Ana Dejlah",
             "AmharaSat",
@@ -1414,7 +1415,7 @@
           "modulation": "",
           "pls": "",
           "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"8afdefe8e7ebf9feeff8cae6f3e4edf9ebfea4e9e5e7\">[email&#160;protected]</span>"
+            "<span class=\"__cf_email__\" data-cfemail=\"4e392b2c232f3d3a2b3c0e223720293d2f3a602d2123\">[email&#160;protected]</span>"
           ]
         }
       ]
@@ -1424,7 +1425,7 @@
       "degree": "8.0° W",
       "num_channels": "260130",
       "full_name": "Eutelsat 8 West B at 8.0°W - LyngSat",
-      "last_update": "2026-11-09",
+      "last_update": "2026-11-10",
       "total_transponders": 67,
       "transponders": [
         {
@@ -2050,7 +2051,7 @@
             "Alzaeem Drama",
             "Al Sukariya Drama",
             "Alzaeem Cinema",
-            "Dolly Classic",
+            "Dolly Turkey",
             "Alking Aflam",
             "El3rosa Moslslat",
             "El Omda TV Aflam",
@@ -2206,9 +2207,7 @@
             "Hala Mosr3a",
             "Cleopatra TV",
             "Dahab Mosalsalat",
-            "Alkarma TV Middle East",
-            "World Champions",
-            "Abtal Alealam"
+            "Alkarma TV Middle East"
           ]
         },
         {
@@ -2522,7 +2521,7 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"97e0f2f5faf6e4e3f2e5d7fbeef9f0e4f6e3b9f4f8fa\">[email&#160;protected]</span>"
+            "<span class=\"__cf_email__\" data-cfemail=\"ef988a8d828e9c9b8a9daf839681889c8e9bc18c8082\">[email&#160;protected]</span>"
           ]
         }
       ]
@@ -2532,7 +2531,7 @@
       "degree": "30.0° W",
       "num_channels": "260106",
       "full_name": "Hispasat 30W-5/30W-6 at 30.0°W - LyngSat",
-      "last_update": "2026-11-09",
+      "last_update": "2026-11-10",
       "total_transponders": 51,
       "transponders": [
         {
@@ -3095,10 +3094,10 @@
           "channels": []
         },
         {
-          "frequency": "12707",
+          "frequency": "12708",
           "polarization": "H",
           "symbol_rate": "3/4",
-          "fec": "7500",
+          "fec": "4875",
           "system": "DVB-S2",
           "modulation": "8PSK",
           "pls": "",
@@ -3133,7 +3132,7 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"dea9bbbcb3bfadaabbac9eb2a7b0b9adbfaaf0bdb1b3\">[email&#160;protected]</span>"
+            "<span class=\"__cf_email__\" data-cfemail=\"91e6f4f3fcf0e2e5f4e3d1fde8fff6e2f0e5bff2fefc\">[email&#160;protected]</span>"
           ]
         }
       ]
@@ -3143,7 +3142,7 @@
       "degree": "42.0° E",
       "num_channels": "260124",
       "full_name": "Türksat 3A/4A/5B/6A at 42.0°E - LyngSat",
-      "last_update": "2026-11-09",
+      "last_update": "2026-11-10",
       "total_transponders": 118,
       "transponders": [
         {
@@ -4673,7 +4672,7 @@
             "Crystal TV Prime",
             "TRT World",
             "Lumen Christi TV",
-            "<span class=\"__cf_email__\" data-cfemail=\"d8afbdbab5b9abacbdaa98b4a1b6bfabb9acf6bbb7b5\">[email&#160;protected]</span>"
+            "<span class=\"__cf_email__\" data-cfemail=\"bccbd9ded1ddcfc8d9cefcd0c5d2dbcfddc892dfd3d1\">[email&#160;protected]</span>"
           ]
         }
       ]
@@ -4683,8 +4682,8 @@
       "degree": "26.0° E",
       "num_channels": "260103",
       "full_name": "Badr 7/8 & Es'hail 2 at 26.0°E - LyngSat",
-      "last_update": "2026-11-09",
-      "total_transponders": 79,
+      "last_update": "2026-11-10",
+      "total_transponders": 78,
       "transponders": [
         {
           "frequency": "4080",
@@ -5062,16 +5061,6 @@
           "fec": "789",
           "system": "DVB-S2",
           "modulation": "QPSK",
-          "pls": "",
-          "channels": []
-        },
-        {
-          "frequency": "11727",
-          "polarization": "H",
-          "symbol_rate": "",
-          "fec": "",
-          "system": "",
-          "modulation": "",
           "pls": "",
           "channels": []
         },
@@ -5967,7 +5956,7 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"90e7f5f2fdf1e3e4f5e2d0fce9fef7e3f1e4bef3fffd\">[email&#160;protected]</span>"
+            "<span class=\"__cf_email__\" data-cfemail=\"86f1e3e4ebe7f5f2e3f4c6eaffe8e1f5e7f2a8e5e9eb\">[email&#160;protected]</span>"
           ]
         }
       ]
@@ -5977,7 +5966,7 @@
       "degree": "25.5° E",
       "num_channels": "251126",
       "full_name": "Es'hail 1 at 25.5°E - LyngSat",
-      "last_update": "2026-11-09",
+      "last_update": "2026-11-10",
       "total_transponders": 34,
       "transponders": [
         {
@@ -6377,7 +6366,7 @@
             "Sloog",
             "L'Match",
             "Sisal Loterie Nationale",
-            "<span class=\"__cf_email__\" data-cfemail=\"aaddcfc8c7cbd9decfd8eac6d3c4cdd9cbde84c9c5c7\">[email&#160;protected]</span>"
+            "<span class=\"__cf_email__\" data-cfemail=\"295e4c4b44485a5d4c5b694550474e5a485d074a4644\">[email&#160;protected]</span>"
           ]
         }
       ]
@@ -6807,7 +6796,7 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"a1d6c4c3ccc0d2d5c4d3e1cdd8cfc6d2c0d58fc2cecc\">[email&#160;protected]</span>"
+            "<span class=\"__cf_email__\" data-cfemail=\"c2b5a7a0afa3b1b6a7b082aebbaca5b1a3b6eca1adaf\">[email&#160;protected]</span>"
           ]
         }
       ]
@@ -6825,8 +6814,8 @@
       "satellite_name": "Eutelsat-16A",
       "degree": "16.0° E",
       "num_channels": "260125",
-      "full_name": "Eutelsat 16A at 26.0°W - LyngSat",
-      "last_update": "2026-11-09",
+      "full_name": "Eutelsat 16A at 27.0°W - LyngSat",
+      "last_update": "2026-11-10",
       "total_transponders": 0,
       "transponders": []
     },
@@ -6835,7 +6824,7 @@
       "degree": "13.0° E",
       "num_channels": "260130",
       "full_name": "Hotbird 13F/13G at 13.0°E - LyngSat",
-      "last_update": "2026-11-09",
+      "last_update": "2026-11-10",
       "total_transponders": 137,
       "transponders": [
         {
@@ -7396,6 +7385,7 @@
             "CNBC Europe",
             "Alkarma TV Middle East",
             "New Jerusalem",
+            "Hadi TV 3",
             "Canale Italia",
             "ArteInvestimenti TV",
             "Telecupole",
@@ -8634,7 +8624,7 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"314654535c5042455443715d485f564250451f525e5c\">[email&#160;protected]</span>"
+            "<span class=\"__cf_email__\" data-cfemail=\"8ff8eaede2eefcfbeafdcfe3f6e1e8fceefba1ece0e2\">[email&#160;protected]</span>"
           ]
         }
       ]
@@ -8644,7 +8634,7 @@
       "degree": "10.0° E",
       "num_channels": "260129",
       "full_name": "Eutelsat 10B at 10.0°E - LyngSat",
-      "last_update": "2026-11-09",
+      "last_update": "2026-11-10",
       "total_transponders": 51,
       "transponders": [
         {
@@ -9263,7 +9253,7 @@
           "pls": "",
           "channels": [
             "Zap Viva Internacional",
-            "<span class=\"__cf_email__\" data-cfemail=\"f98e9c9b94988a8d9c8bb99580979e8a988dd79a9694\">[email&#160;protected]</span>"
+            "<span class=\"__cf_email__\" data-cfemail=\"89feecebe4e8fafdecfbc9e5f0e7eefae8fda7eae6e4\">[email&#160;protected]</span>"
           ]
         }
       ]
@@ -9273,7 +9263,7 @@
       "degree": "9.0° E",
       "num_channels": "260122",
       "full_name": "Eutelsat 9B & Ka-Sat 9A at 9.0°E - LyngSat",
-      "last_update": "2026-11-09",
+      "last_update": "2026-11-10",
       "total_transponders": 49,
       "transponders": [
         {
@@ -10190,7 +10180,7 @@
             "Oireachtas TV",
             "RTÉ One +1",
             "RTÉ 2 +1",
-            "<span class=\"__cf_email__\" data-cfemail=\"a2d5c7c0cfc3d1d6c7d0e2cedbccc5d1c3d68cc1cdcf\">[email&#160;protected]</span>"
+            "<span class=\"__cf_email__\" data-cfemail=\"dfa8babdb2beacabbaad9fb3a6b1b8acbeabf1bcb0b2\">[email&#160;protected]</span>"
           ]
         }
       ]
@@ -12069,7 +12059,7 @@
           "modulation": "",
           "pls": "",
           "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"1463717679756760716654786d7a736775603a777b79\">[email&#160;protected]</span>"
+            "<span class=\"__cf_email__\" data-cfemail=\"e09785828d8193948592a08c998e87938194ce838f8d\">[email&#160;protected]</span>"
           ]
         }
       ]
@@ -12079,7 +12069,7 @@
       "degree": "1.9° E",
       "num_channels": "260108",
       "full_name": "BulgariaSat 1 at 1.9°E - LyngSat",
-      "last_update": "2026-11-09",
+      "last_update": "2026-11-10",
       "total_transponders": 14,
       "transponders": [
         {
@@ -12254,7 +12244,7 @@
           "modulation": "8PSK",
           "pls": "",
           "channels": [
-            "<span class=\"__cf_email__\" data-cfemail=\"8afdefe8e7ebf9feeff8cae6f3e4edf9ebfea4e9e5e7\">[email&#160;protected]</span>"
+            "<span class=\"__cf_email__\" data-cfemail=\"e69183848b8795928394a68a9f8881958792c885898b\">[email&#160;protected]</span>"
           ]
         }
       ]
