@@ -33,7 +33,7 @@
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
     "postion": -80,
-    "num_channels": "261110"
+    "num_channels": "261111"
   },
   {
     "satellite_name": "Express-AM8",
@@ -729,7 +729,7 @@
     "satellite_name": "Intelsat-20-36",
     "degree": "68.5° E",
     "postion": 685,
-    "num_channels": "261108"
+    "num_channels": "261111"
   },
   {
     "satellite_name": "Intelsat-17",
@@ -759,7 +759,7 @@
     "satellite_name": "NSS-12",
     "degree": "57.0° E",
     "postion": 570,
-    "num_channels": "261105"
+    "num_channels": "261111"
   },
   {
     "satellite_name": "Express-AT2",
@@ -777,13 +777,13 @@
     "satellite_name": "Express-AM6",
     "degree": "53.0° E",
     "postion": 530,
-    "num_channels": "261108"
+    "num_channels": "261111"
   },
   {
     "satellite_name": "Al-Yah-1",
     "degree": "52.5° E",
     "postion": 525,
-    "num_channels": "261108"
+    "num_channels": "261111"
   },
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
@@ -819,7 +819,7 @@
     "satellite_name": "Azerspace-2-Intelsat-38",
     "degree": "45.1° E",
     "postion": 451,
-    "num_channels": "261031"
+    "num_channels": "261111"
   },
   {
     "satellite_name": "NigComSat-1R",
@@ -879,7 +879,7 @@
     "satellite_name": "Astra-2E-2F-2G",
     "degree": "28.3° E",
     "postion": 283,
-    "num_channels": "261110"
+    "num_channels": "261111"
   },
   {
     "satellite_name": "Badr-7-8-and-Eshail-2",
@@ -903,7 +903,7 @@
     "satellite_name": "Eutelsat-21B",
     "degree": "21.5° E",
     "postion": 215,
-    "num_channels": "261103"
+    "num_channels": "261111"
   },
   {
     "satellite_name": "Arabsat-5C",
