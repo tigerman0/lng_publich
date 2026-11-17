@@ -363,7 +363,7 @@
     "satellite_name": "SES-19",
     "degree": "135.0° W",
     "postion": -1350,
-    "num_channels": "261007"
+    "num_channels": "261115"
   },
   {
     "satellite_name": "SES-22",
@@ -567,7 +567,7 @@
     "satellite_name": "Koreasat-5A",
     "degree": "113.0° E",
     "postion": 1130,
-    "num_channels": "261028"
+    "num_channels": "261115"
   },
   {
     "satellite_name": "BSAT-3C-JCSAT-110R-and-JCSAT-110A-and-BSAT-4A",
@@ -579,7 +579,7 @@
     "satellite_name": "SES-7-9-and-Merah-Putih",
     "degree": "108.1° E",
     "postion": 1081,
-    "num_channels": "261112"
+    "num_channels": "261115"
   },
   {
     "satellite_name": "AsiaSat-7",
@@ -699,7 +699,7 @@
     "satellite_name": "Apstar-7",
     "degree": "76.5° E",
     "postion": 765,
-    "num_channels": "261114"
+    "num_channels": "261115"
   },
   {
     "satellite_name": "ABS-2-2A",
@@ -771,25 +771,25 @@
     "satellite_name": "G-Sat-16-and-Yamal-402",
     "degree": "54.9° E",
     "postion": 549,
-    "num_channels": "261113"
+    "num_channels": "261115"
   },
   {
     "satellite_name": "Express-AM6",
     "degree": "53.0° E",
     "postion": 530,
-    "num_channels": "261114"
+    "num_channels": "261115"
   },
   {
     "satellite_name": "Al-Yah-1",
     "degree": "52.5° E",
     "postion": 525,
-    "num_channels": "261111"
+    "num_channels": "261115"
   },
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
     "degree": "52.0° E",
     "postion": 520,
-    "num_channels": "261102"
+    "num_channels": "261115"
   },
   {
     "satellite_name": "Belintersat-1",
@@ -849,7 +849,7 @@
     "satellite_name": "Paksat-MM1",
     "degree": "38.2° E",
     "postion": 382,
-    "num_channels": "261113"
+    "num_channels": "261115"
   },
   {
     "satellite_name": "Eutelsat-36D-and-Express-AMU1",
@@ -903,7 +903,7 @@
     "satellite_name": "Eutelsat-21B",
     "degree": "21.5° E",
     "postion": 215,
-    "num_channels": "261114"
+    "num_channels": "261115"
   },
   {
     "satellite_name": "Arabsat-5C",
@@ -915,7 +915,7 @@
     "satellite_name": "Astra-1N-1P",
     "degree": "19.2° E",
     "postion": 192,
-    "num_channels": "261104"
+    "num_channels": "261115"
   },
   {
     "satellite_name": "Amos-17",
@@ -927,7 +927,7 @@
     "satellite_name": "Eutelsat-16D",
     "degree": "16.0° E",
     "postion": 160,
-    "num_channels": "261113"
+    "num_channels": "261115"
   },
   {
     "satellite_name": "Hotbird-13F-13G",
