@@ -27,7 +27,7 @@
     "satellite_name": "Nilesat-201-301-and-Eutelsat-7-West-A",
     "degree": "7.0° W",
     "postion": -70,
-    "num_channels": "261112"
+    "num_channels": "261116"
   },
   {
     "satellite_name": "Eutelsat-8-West-B",
@@ -477,7 +477,7 @@
     "satellite_name": "Telstar-18-Vantage",
     "degree": "138.0° E",
     "postion": 1380,
-    "num_channels": "261102"
+    "num_channels": "261116"
   },
   {
     "satellite_name": "Apstar-6C",
@@ -699,7 +699,7 @@
     "satellite_name": "Apstar-7",
     "degree": "76.5° E",
     "postion": 765,
-    "num_channels": "261115"
+    "num_channels": "261116"
   },
   {
     "satellite_name": "ABS-2-2A",
@@ -795,7 +795,7 @@
     "satellite_name": "Belintersat-1",
     "degree": "51.5° E",
     "postion": 515,
-    "num_channels": "261109"
+    "num_channels": "261116"
   },
   {
     "satellite_name": "Turksat-4B",
@@ -897,7 +897,7 @@
     "satellite_name": "Astra-3C",
     "degree": "23.5° E",
     "postion": 235,
-    "num_channels": "261113"
+    "num_channels": "261116"
   },
   {
     "satellite_name": "Eutelsat-21B",
@@ -933,7 +933,7 @@
     "satellite_name": "Hotbird-13F-13G",
     "degree": "13.0° E",
     "postion": 130,
-    "num_channels": "261110"
+    "num_channels": "261116"
   },
   {
     "satellite_name": "Eutelsat-10B",
