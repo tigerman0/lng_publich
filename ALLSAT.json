@@ -33,7 +33,7 @@
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
     "postion": -80,
-    "num_channels": "261121"
+    "num_channels": "261124"
   },
   {
     "satellite_name": "Express-AM8",
@@ -423,7 +423,7 @@
     "satellite_name": "Optus-10",
     "degree": "156.0° E",
     "postion": 1560,
-    "num_channels": "261120"
+    "num_channels": "261124"
   },
   {
     "satellite_name": "JCSAT-2B",
@@ -573,7 +573,7 @@
     "satellite_name": "SES-7-9-and-Merah-Putih",
     "degree": "108.1° E",
     "postion": 1081,
-    "num_channels": "261123"
+    "num_channels": "261124"
   },
   {
     "satellite_name": "AsiaSat-7",
@@ -627,7 +627,7 @@
     "satellite_name": "G-Sat-15-17",
     "degree": "93.5° E",
     "postion": 935,
-    "num_channels": "261113"
+    "num_channels": "261124"
   },
   {
     "satellite_name": "ChinaSat-9C",
@@ -639,7 +639,7 @@
     "satellite_name": "Measat-3b-3d",
     "degree": "91.5° E",
     "postion": 915,
-    "num_channels": "261025"
+    "num_channels": "261124"
   },
   {
     "satellite_name": "Yamal-401",
@@ -771,13 +771,13 @@
     "satellite_name": "Express-AM6",
     "degree": "53.0° E",
     "postion": 530,
-    "num_channels": "261123"
+    "num_channels": "261124"
   },
   {
     "satellite_name": "Al-Yah-1",
     "degree": "52.5° E",
     "postion": 525,
-    "num_channels": "261121"
+    "num_channels": "261124"
   },
   {
     "satellite_name": "TurkmenAlem-MonacoSat",
@@ -813,7 +813,7 @@
     "satellite_name": "Azerspace-2-Intelsat-38",
     "degree": "45.1° E",
     "postion": 451,
-    "num_channels": "261118"
+    "num_channels": "261124"
   },
   {
     "satellite_name": "NigComSat-1R",
