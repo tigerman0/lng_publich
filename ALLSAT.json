@@ -33,7 +33,7 @@
     "satellite_name": "Eutelsat-8-West-B",
     "degree": "8.0° W",
     "postion": -80,
-    "num_channels": "261124"
+    "num_channels": "261125"
   },
   {
     "satellite_name": "Express-AM8",
@@ -573,7 +573,7 @@
     "satellite_name": "SES-7-9-and-Merah-Putih",
     "degree": "108.1° E",
     "postion": 1081,
-    "num_channels": "261124"
+    "num_channels": "261125"
   },
   {
     "satellite_name": "AsiaSat-7",
@@ -651,7 +651,7 @@
     "satellite_name": "ST-2",
     "degree": "88.0° E",
     "postion": 880,
-    "num_channels": "261019"
+    "num_channels": "261125"
   },
   {
     "satellite_name": "ChinaSat-12",
@@ -693,7 +693,7 @@
     "satellite_name": "Apstar-7",
     "degree": "76.5° E",
     "postion": 765,
-    "num_channels": "261123"
+    "num_channels": "261125"
   },
   {
     "satellite_name": "ABS-2-2A",
@@ -891,7 +891,7 @@
     "satellite_name": "Astra-3C",
     "degree": "23.5° E",
     "postion": 235,
-    "num_channels": "261119"
+    "num_channels": "261125"
   },
   {
     "satellite_name": "Eutelsat-21B",
